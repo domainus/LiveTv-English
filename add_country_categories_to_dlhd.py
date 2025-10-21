@@ -68,6 +68,41 @@ def extract_country(line):
         "mbc": "Arab World", "rotana": "Arab World", "dubai one": "Arab World",
         "africanews": "Africa", "trace": "Africa", "afrique": "Africa"
     }
+    # --- Expanded USA channel/network map ---
+    brand_map.update({
+        # Major U.S. broadcast and cable networks
+        "fox news": "USA", "msnbc": "USA", "cnn en español": "USA",
+        "nbc news": "USA", "abc news": "USA", "cbs news": "USA",
+        "fox business": "USA", "cnbc": "USA", "bloomberg": "USA",
+        "espn2": "USA", "espn3": "USA", "espnews": "USA", "espn deportes": "USA",
+        "fox sports 1": "USA", "fox sports 2": "USA", "fs1": "USA", "fs2": "USA",
+        "nfl network": "USA", "nba tv": "USA", "mlb network": "USA", "nhl network": "USA",
+        "discovery": "USA", "discovery channel": "USA", "science channel": "USA",
+        "history": "USA", "history channel": "USA", "vice tv": "USA", "nat geo": "USA",
+        "national geographic": "USA", "travel channel": "USA", "hgtv": "USA", "food network": "USA",
+        "animal planet": "USA", "tlc": "USA", "bravo": "USA", "e!": "USA", "lifetime": "USA",
+        "we tv": "USA", "own": "USA", "oxygen": "USA", "tru tv": "USA", "trutv": "USA",
+        "tcm": "USA", "amc": "USA", "ifc": "USA", "sundance": "USA",
+        "fxx": "USA", "fxm": "USA", "fox movies": "USA", "hallmark": "USA", "hallmark movies": "USA",
+        "starz": "USA", "showtime": "USA", "hbo max": "USA", "hbo family": "USA", "hbo latino": "USA",
+        "paramount network": "USA", "peacock": "USA", "apple tv": "USA", "apple tv+": "USA",
+        "roku": "USA", "pluto tv": "USA", "tubi": "USA", "crackle": "USA", "sling": "USA", "fubo": "USA",
+        "roku channel": "USA", "xumo": "USA", "hulu": "USA", "netflix": "USA", "disney+": "USA",
+        "amazon prime": "USA", "prime video": "USA",
+        # Kids / animation
+        "nick jr": "USA", "nicktoons": "USA", "disney xd": "USA", "boomerang": "USA",
+        "adult swim": "USA", "cartoonito": "USA", "pbs kids": "USA",
+        # Music / culture
+        "mtv2": "USA", "mtv live": "USA", "vh1": "USA", "bet": "USA", "cmt": "USA", "fuse": "USA",
+        "revolt": "USA", "axs tv": "USA", "axs": "USA",
+        # Regional / news / niche
+        "newsmax": "USA", "one america news": "USA", "oann": "USA", "weather channel": "USA",
+        "cw": "USA", "my network tv": "USA", "ion": "USA", "ion mystery": "USA", "me tv": "USA",
+        "antenna tv": "USA", "cozi tv": "USA", "buzzr": "USA", "game show network": "USA", "gsn": "USA",
+        "c-span": "USA", "c-span2": "USA", "c-span3": "USA",
+        "tbn": "USA", "daystar": "USA", "eternity": "USA", "ewtn": "USA", "insp": "USA",
+        "magnolia": "USA", "own": "USA"
+    })
 
     # --- 1) tvg-country ---
     m = COUNTRY_ATTR_RE.search(line)
