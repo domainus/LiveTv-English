@@ -22,12 +22,10 @@ def find_logo(channel_id):
 
     # Get list of countries by scraping the GitHub directory listing
     countries_url = LOGO_BASE_URL
-    logging.info(f"Fetching country list from GitHub for logos.")
     try:
         response = requests.get("https://api.github.com/repos/tv-logo/tv-logos/contents/countries")
         if response.status_code == 200:
             countries = [entry['name'] for entry in response.json() if entry['type'] == 'dir']
-            logging.info(f"Found countries: {countries}")
         else:
             logging.warning(f"Failed to fetch countries list, status code: {response.status_code}")
             countries = []
@@ -38,7 +36,6 @@ def find_logo(channel_id):
     # Try each country URL to find the logo
     for country in countries:
         logo_url = f"{LOGO_BASE_URL}{country}/{logo_filename}"
-        logging.info(f"Checking logo URL: {logo_url}")
         # Check if the logo exists (HEAD request)
         try:
             head_resp = requests.head(logo_url)
@@ -56,26 +53,21 @@ def find_logo(channel_id):
 
 
 def main():
-    logging.info(f"Starting to parse EPG file: {EPG_FILE}")
     tree = ET.parse(EPG_FILE)
     root = tree.getroot()
-    logging.info(f"Finished parsing EPG file.")
 
     count_added = 0
     for channel in root.findall("channel"):
         chan_id = channel.get("id")
-        logging.info(f"Processing channel ID: {chan_id}")
         logo_url = find_logo(chan_id)
 
         # Check if <icon> already exists
         icon = channel.find("icon")
         if icon is None:
-            logging.info(f"No existing <icon> found for channel {chan_id}, adding new one.")
             icon = ET.SubElement(channel, "icon")
             icon.set("src", logo_url)
             count_added += 1
         else:
-            logging.info(f"Existing <icon> found for channel {chan_id}, updating src.")
             icon.set("src", logo_url)
 
     tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
