@@ -68,6 +68,19 @@ def find_logo(channel_id, channel_name, cache):
             head_resp = requests.head(logo_url)
             if head_resp.status_code == 200:
                 logging.info(f"Logo found at {logo_url}")
+                # Save logo locally under ./tv/logos/{country}
+                os.makedirs(f"./tv/logos/{country}", exist_ok=True)
+                logo_path = f"./tv/logos/{country}/{logo_filename}"
+                try:
+                    img_resp = requests.get(logo_url, timeout=10)
+                    if img_resp.status_code == 200:
+                        with open(logo_path, "wb") as f:
+                            f.write(img_resp.content)
+                        logging.info(f"Saved logo to {logo_path}")
+                    else:
+                        logging.warning(f"Failed to download logo for {channel_id} ({country}): {img_resp.status_code}")
+                except Exception as e:
+                    logging.warning(f"Error saving logo for {channel_id} ({country}): {e}")
                 # Save to cache and return
                 cache[channel_id] = {"name": channel_name, "url": logo_url, "fallback": False}
                 return logo_url
