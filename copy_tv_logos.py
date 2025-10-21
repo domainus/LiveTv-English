@@ -57,6 +57,7 @@ def copy_folders():
             logging.debug(f"Skipping non-folder: {item}")
 
 
+
 def remove_symlinks_in_output():
     """Replace any symbolic links inside OUTPUT_DIR with actual folder contents."""
     for root, dirs, _ in os.walk(OUTPUT_DIR):
@@ -68,10 +69,27 @@ def remove_symlinks_in_output():
                 os.unlink(path)
                 shutil.copytree(real_path, path, symlinks=False)
 
+
+# CLEANUP FUNCTION: Remove cloned repo and any .git folders in OUTPUT_DIR
+def cleanup_repo():
+    """Remove the cloned repository and any .git folders after copying."""
+    if os.path.exists(DEST_DIR):
+        logging.info(f"Removing temporary clone directory: {DEST_DIR}")
+        shutil.rmtree(DEST_DIR, ignore_errors=True)
+
+    # Remove any .git folders accidentally copied inside OUTPUT_DIR
+    for root, dirs, _ in os.walk(OUTPUT_DIR):
+        for d in dirs:
+            if d == ".git":
+                git_path = os.path.join(root, d)
+                logging.info(f"Removing .git folder: {git_path}")
+                shutil.rmtree(git_path, ignore_errors=True)
+
 if __name__ == "__main__":
     if clone_repo():
         copy_folders()
         remove_symlinks_in_output()
+        cleanup_repo()
         logging.info("✅ All folders have been copied successfully.")
     else:
         logging.error("❌ Repository cloning failed.")
