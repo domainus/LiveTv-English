@@ -56,9 +56,22 @@ def copy_folders():
         else:
             logging.debug(f"Skipping non-folder: {item}")
 
+
+def remove_symlinks_in_output():
+    """Replace any symbolic links inside OUTPUT_DIR with actual folder contents."""
+    for root, dirs, _ in os.walk(OUTPUT_DIR):
+        for d in dirs:
+            path = os.path.join(root, d)
+            if os.path.islink(path):
+                real_path = os.path.realpath(path)
+                logging.info(f"Replacing symlink with real folder: {path} -> {real_path}")
+                os.unlink(path)
+                shutil.copytree(real_path, path, symlinks=False)
+
 if __name__ == "__main__":
     if clone_repo():
         copy_folders()
+        remove_symlinks_in_output()
         logging.info("✅ All folders have been copied successfully.")
     else:
         logging.error("❌ Repository cloning failed.")
