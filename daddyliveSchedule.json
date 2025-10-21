@@ -7059,100 +7059,12 @@
         ]
     },
     "Tuesday, October 21, 2025": {
-        "Tennis</span>": [
-            {
-                "time": "08:10",
-                "event": "Julieta Pareja vs Valeriya Strakhova",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Victoria Bosio - Luiza Fullana",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Moyuka Uchijima - Sofia Kenin",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Jordan Thompson - Michael Mmoh",
-                "channels": []
-            },
-            {
-                "time": "09:30",
-                "event": "WTA 500: Toray Pan Pacific Open",
-                "channels": []
-            },
-            {
-                "time": "09:30",
-                "event": "Diana Shnaider vs Dayana Yastremska",
-                "channels": []
-            },
-            {
-                "time": "10:40",
-                "event": "Victoria Mboko vs Bianca Andreescu",
-                "channels": []
-            },
-            {
-                "time": "11:50",
-                "event": "Wakana Sonobe vs Nikola Bartunkova",
-                "channels": []
-            },
-            {
-                "time": "11:50",
-                "event": "Aoyama S./Bucsa C. vs Muhammad A./Schuurs D.",
-                "channels": []
-            },
-            {
-                "time": "14:10",
-                "event": "Olmos G./Sutjiadi A. vs Danilina A./Krunic A.",
-                "channels": []
-            },
-            {
-                "time": "19:30",
-                "event": "ATP 500: Erste Bank Open",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "ATP 500: Swiss Indoors Basel Open",
-                "channels": []
-            }
-        ],
-        "Baseball</span>": [
-            {
-                "time": "08:08",
-                "event": "Toronto Blue Jays vs Seattle Mariners",
-                "channels": []
-            },
-            {
-                "time": "05:08",
-                "event": "Milwaukee Brewers - Los Angeles Dodgers",
-                "channels": []
-            }
-        ],
-        "Other</span>": [
-            {
-                "time": "08:00",
-                "event": "Michigan State University - UCLA",
-                "channels": []
-            },
-            {
-                "time": "23:45",
-                "event": "Hapoel Kfar Saba vs Hapoel Jerusalem",
-                "channels": []
-            }
-        ],
-        "Fight</span>": [
-            {
-                "time": "08:00",
-                "event": "WWE: Monday Night RAW",
-                "channels": []
-            }
-        ],
         "Football</span>": [
+            {
+                "time": "08:15",
+                "event": "Atletico Tucuman vs San Lorenzo",
+                "channels": []
+            },
             {
                 "time": "08:00",
                 "event": "El Nacional vs Deportivo Cuenca",
@@ -7171,31 +7083,6 @@
             {
                 "time": "06:30",
                 "event": "Vasco da Gama vs Fluminense",
-                "channels": []
-            },
-            {
-                "time": "06:00",
-                "event": "Plaza Colonia vs Liverpool Montevideo",
-                "channels": []
-            },
-            {
-                "time": "06:00",
-                "event": "Deportivo Riestra vs Instituto",
-                "channels": []
-            },
-            {
-                "time": "06:00",
-                "event": "Tigre vs Barracas Central",
-                "channels": []
-            },
-            {
-                "time": "06:00",
-                "event": "Juventude vs Bragantino",
-                "channels": []
-            },
-            {
-                "time": "08:15",
-                "event": "Atletico Tucuman vs San Lorenzo",
                 "channels": []
             },
             {
@@ -7294,6 +7181,99 @@
                 "channels": []
             }
         ],
+        "Baseball</span>": [
+            {
+                "time": "08:08",
+                "event": "Toronto Blue Jays vs Seattle Mariners",
+                "channels": []
+            },
+            {
+                "time": "05:08",
+                "event": "Milwaukee Brewers - Los Angeles Dodgers",
+                "channels": []
+            }
+        ],
+        "Other</span>": [
+            {
+                "time": "08:00",
+                "event": "Michigan State University - UCLA",
+                "channels": []
+            },
+            {
+                "time": "23:45",
+                "event": "Hapoel Kfar Saba vs Hapoel Jerusalem",
+                "channels": []
+            }
+        ],
+        "Tennis</span>": [
+            {
+                "time": "08:00",
+                "event": "Victoria Bosio - Luiza Fullana",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Moyuka Uchijima - Sofia Kenin",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Jordan Thompson - Michael Mmoh",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Julieta Pareja vs Valeriya Strakhova",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "WTA 500: Toray Pan Pacific Open",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Diana Shnaider vs Dayana Yastremska",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Victoria Mboko vs Bianca Andreescu",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Wakana Sonobe vs Nikola Bartunkova",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "Aoyama S./Bucsa C. vs Muhammad A./Schuurs D.",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "Olmos G./Sutjiadi A. vs Danilina A./Krunic A.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "ATP 500: Erste Bank Open",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "ATP 500: Swiss Indoors Basel Open",
+                "channels": []
+            }
+        ],
+        "Fight</span>": [
+            {
+                "time": "08:00",
+                "event": "WWE: Monday Night RAW",
+                "channels": []
+            }
+        ],
         "Hockey</span>": [
             {
                 "time": "07:30",
@@ -7382,56 +7362,6 @@
     },
     "Tuesday 21st October 2025 - Extra Schedule Time UK": {
         "All matches</span>": [
-            {
-                "time": "19:08",
-                "event": "Maraia Paula Manrique\u00b7Nicole Lederman",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8844099",
-                        "channel_id": "8844099"
-                    }
-                ]
-            },
-            {
-                "time": "19:11",
-                "event": "Sara Bermudez Ocampo\u00b7Andrea Ocampo",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8844291",
-                        "channel_id": "8844291"
-                    }
-                ]
-            },
-            {
-                "time": "19:15",
-                "event": "Al Ahli\u00b7Al Gharafa",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8460993",
-                        "channel_id": "8460993"
-                    }
-                ]
-            },
-            {
-                "time": "19:15",
-                "event": "Huancayo\u00b7Alianza Lima",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8751211",
-                        "channel_id": "8751211"
-                    }
-                ]
-            },
-            {
-                "time": "19:15",
-                "event": "Karen Khachanov\u00b7Tallon Griekspoor",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8835796",
-                        "channel_id": "8835796"
-                    }
-                ]
-            },
             {
                 "time": "19:25",
                 "event": "Maria Antonio Ortega\u00b7Elizabeth Ionescu",
@@ -8043,7 +7973,7 @@
                 ]
             },
             {
-                "time": "01:30",
+                "time": "01:50",
                 "event": "Julieta Pareja\u00b7Valeriya Strakhova",
                 "channels": [
                     {
