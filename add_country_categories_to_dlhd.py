@@ -3,232 +3,132 @@ from collections import defaultdict
 import logging
 
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
+
+COUNTRY_ATTR_RE = re.compile(r'tvg-country="([^"]+)"', re.IGNORECASE)
+COUNTRY_DELIM_RE = re.compile(r'^\s*([A-Za-z .\'\/()-]+?)\s*[-:]', re.IGNORECASE)
+UPPER_CODE_RE = re.compile(r"\b[A-Z]{2,3}\b")
 
 INPUT_FILE = "dlhd_match_to_epg.m3u"
 OUTPUT_FILE = "dlhd_with_country_categories.m3u"
 
 def extract_country(line):
-    """
-    Extract a country name from an EXTINF line using multiple strategies.
-    Priority:
-      1) tvg-country attribute if present
-      2) After a pipe (|), take the token that looks like a country, optionally before '-' or ':'
-      3) Search for known country names/aliases in the display name segment
-    Returns a normalized country name or 'Unknown'.
-    """
-    # Known countries and aliases (extend as needed)
+    """Extract and normalize the country name for a DLHD channel line."""
+    # --- Aliases ---
     aliases = {
-        "u.s.a": "USA",
-        "us": "USA",
-        "usa": "USA",
-        "united states": "USA",
-        "u.s": "USA",
-        "uk": "UK",
-        "united kingdom": "UK",
-        "england": "UK",  # common shorthand
-        "u.a.e": "UAE",
-        "uae": "UAE",
-        "k.s.a": "Saudi Arabia",
-        "ksa": "Saudi Arabia",
-        "saudi": "Saudi Arabia",
-        "saudi arabia": "Saudi Arabia",
-        "korea": "South Korea",  # heuristic
-        "south korea": "South Korea",
-        "s. korea": "South Korea",
-        "n. korea": "North Korea",
-        "north korea": "North Korea",
-        "u.s.s.r": "Russia",
-        "russia": "Russia",
-        "russian federation": "Russia",
-        "japan": "Japan",
-        "germany": "Germany",
-        "de": "Germany",
-        "ger": "Germany",
-        "german": "Germany",
-        "france": "France",
-        "spain": "Spain",
-        "es": "Spain",
-        "mexico": "Mexico",
-        "canada": "Canada",
-        "brazil": "Brazil",
-        "argentina": "Argentina",
-        "italy": "Italy",
-        "it": "Italy",
-        "portugal": "Portugal",
-        "pt": "Portugal",
-        "netherlands": "Netherlands",
-        "nl": "Netherlands",
-        "holland": "Netherlands",
-        "turkey": "Turkey",
-        "india": "India",
-        "pakistan": "Pakistan",
-        "bangladesh": "Bangladesh",
-        "nepal": "Nepal",
-        "sri lanka": "Sri Lanka",
-        "china": "China",
-        "taiwan": "Taiwan",
-        "hong kong": "Hong Kong",
-        "singapore": "Singapore",
-        "indonesia": "Indonesia",
-        "malaysia": "Malaysia",
-        "philippines": "Philippines",
-        "thailand": "Thailand",
-        "vietnam": "Vietnam",
-        "australia": "Australia",
-        "new zealand": "New Zealand",
-        "ireland": "Ireland",
-        "scotland": "UK",
-        "wales": "UK",
-        "poland": "Poland",
-        "pl": "Poland",
-        "romania": "Romania",
-        "ro": "Romania",
-        "greece": "Greece",
-        "gr": "Greece",
-        "sweden": "Sweden",
-        "se": "Sweden",
-        "norway": "Norway",
-        "no": "Norway",
-        "denmark": "Denmark",
-        "dk": "Denmark",
-        "finland": "Finland",
-        "fi": "Finland",
-        "iceland": "Iceland",
-        "switzerland": "Switzerland",
-        "ch": "Switzerland",
-        "austria": "Austria",
-        "aut": "Austria",
-        "at": "Austria",
-        "belgium": "Belgium",
-        "be": "Belgium",
-        "portuguese": "Portugal",
-        "kurdistan": "Kurdistan",
-        "israel": "Israel",
-        "egypt": "Egypt",
-        "morocco": "Morocco",
-        "algeria": "Algeria",
-        "tunisia": "Tunisia",
-        "south africa": "South Africa",
-        "bulgaria": "Bulgaria",
-        "bulgeria": "Bulgaria",
-        "bg": "Bulgaria",
-        "cz": "Czech Republic",
-        "czech": "Czech Republic",
-        "hun": "Hungary",
-        "hu": "Hungary",
-        "hr": "Croatia",
-        "croatia": "Croatia",
-        "rs": "Serbia",
-        "serbia": "Serbia",
-        "sk": "Slovakia",
-        "slovakia": "Slovakia",
-        "ua": "Ukraine",
-        "ukraine": "Ukraine",
-        "by": "Belarus",
-        "belarus": "Belarus",
-        "lt": "Lithuania",
-        "lv": "Latvia",
-        "ee": "Estonia",
-        "si": "Slovenia",
+        # Core mappings
+        "us": "USA", "usa": "USA", "u.s.a": "USA", "united states": "USA", "u.s": "USA",
+        "uk": "UK", "united kingdom": "UK", "england": "UK", "scotland": "UK", "wales": "UK",
+        "br": "Brazil", "brasil": "Brazil", "brazil": "Brazil",
+        "ca": "Canada", "can": "Canada", "canada": "Canada",
+        "de": "Germany", "ger": "Germany", "germany": "Germany",
+        "mx": "Mexico", "mex": "Mexico", "mexico": "Mexico",
+        "fr": "France", "fra": "France", "france": "France",
+        "es": "Spain", "esp": "Spain", "spain": "Spain",
+        "it": "Italy", "ita": "Italy", "italy": "Italy",
+        "pt": "Portugal", "portuguese": "Portugal",
+        "qa": "Qatar", "qatar": "Qatar",
+        "il": "Israel", "isr": "Israel", "israel": "Israel",
+        "ae": "UAE", "uae": "UAE", "arab": "Arab World", "arabic": "Arab World", "arabia": "Arab World",
+        "afr": "Africa", "afrique": "Africa", "africa": "Africa", "mena": "Middle East & North Africa",
+        "sa": "Saudi Arabia", "ksa": "Saudi Arabia", "saudi": "Saudi Arabia",
+        "eg": "Egypt", "dz": "Algeria", "ma": "Morocco", "tn": "Tunisia",
+        "jp": "Japan", "jpn": "Japan", "japan": "Japan",
+        "kr": "South Korea", "kor": "South Korea", "korea": "South Korea",
+        "in": "India", "ind": "India", "india": "India"
     }
 
-    # 1) tvg-country attribute
-    m = re.search(r'tvg-country="([^"]+)"', line, flags=re.IGNORECASE)
+    # --- Brand heuristics ---
+    brand_map = {
+        # USA
+        "adult swim": "USA", "tbs": "USA", "tnt": "USA", "fx": "USA", "syfy": "USA",
+        "paramount": "USA", "hbo": "USA", "showtime": "USA", "fox": "USA", "espn": "USA",
+        "cnn": "USA", "c-span": "USA", "comedy central": "USA", "pbs": "USA",
+        "nbc": "USA", "abc": "USA", "cbs": "USA", "cw": "USA", "disney": "USA",
+        "nickelodeon": "USA", "mtv": "USA", "cartoon network": "USA", "cnn international": "USA",
+        # Canada
+        "cbc": "Canada", "cbc ca": "Canada", "ctv": "Canada", "global": "Canada", "tsn": "Canada",
+        "sportsnet": "Canada",
+        # Brazil
+        "rede globo": "Brazil", "globo": "Brazil", "band": "Brazil", "record tv": "Brazil",
+        "sportv": "Brazil",
+        # Mexico
+        "televisa": "Mexico", "azteca": "Mexico", "multimedios": "Mexico",
+        # Israel
+        "kan": "Israel", "sport 5": "Israel", "i24": "Israel",
+        # Qatar
+        "bein": "Qatar", "al jazeera": "Qatar",
+        # UK
+        "bbc": "UK", "itv": "UK", "sky uk": "UK", "bt sport": "UK",
+        # France
+        "canal+": "France", "tf1": "France", "france 24": "France", "tv5": "France",
+        # Africa / Arab
+        "mbc": "Arab World", "rotana": "Arab World", "dubai one": "Arab World",
+        "africanews": "Africa", "trace": "Africa", "afrique": "Africa"
+    }
+
+    # --- 1) tvg-country ---
+    m = COUNTRY_ATTR_RE.search(line)
     if m:
-        val = m.group(1).strip()
-        key = re.sub(r"[^a-z]+", " ", val.lower()).strip()
+        val = m.group(1).strip().lower()
+        key = re.sub(r"[^a-z]+", " ", val)
         if key in aliases:
             return aliases[key]
-        # If attribute looks like a country name, return it raw
-        if len(val) >= 2:
-            return val
+        return val.title()
 
-    # Extract display name (after the comma)
+    # --- 2) Extract display segment ---
     try:
-        display = line.split(',', 1)[1].strip()
+        display = line.split(",", 1)[1].strip()
     except IndexError:
         display = line
+    post_pipe = display.split("|", 1)[1].strip() if "|" in display else display
 
-    # 2) Prefer the part after a pipe (common DLHD pattern: "DLHD | <Country> - <Channel>")
-    post_pipe = display.split('|', 1)[1].strip() if '|' in display else display
-
-    # If we have a clear delimiter after country
-    m2 = re.search(r'^\s*([A-Za-z .\'\/()-]+?)\s*[-:]', post_pipe)
+    # --- 3) Country prefix detection ---
+    m2 = COUNTRY_DELIM_RE.search(post_pipe)
     if m2:
-        candidate = m2.group(1).strip()
-        key = re.sub(r"[^a-z]+", " ", candidate.lower()).strip()
+        candidate = m2.group(1).strip().lower()
+        key = re.sub(r"[^a-z]+", " ", candidate)
         if key in aliases:
             return aliases[key]
-        if candidate and candidate.lower() not in {"dlhd", "live events"}:
-            return candidate
 
-    # 3) No delimiter. Try to detect a country token inside post_pipe or display
-    def detect_country(text):
-        low = text.lower()
-        # Normalize punctuation to spaces, collapse
-        norm = re.sub(r"[^a-z0-9]+", " ", low).strip()
-        # Check full-string alias match
-        if norm in aliases:
-            return aliases[norm]
-        # Check word-by-word matches and 2-word phrases
-        words = norm.split()
-        # Check bigrams first (e.g., "united states")
-        for i in range(len(words)-1):
+    # --- 4) Token scanning ---
+    norm = re.sub(r"[^a-z0-9]+", " ", display.lower()).strip()
+    words = norm.split()
+    for i in range(len(words)):
+        single = words[i]
+        if single in aliases:
+            return aliases[single]
+        if i < len(words)-1:
             phrase = f"{words[i]} {words[i+1]}"
             if phrase in aliases:
                 return aliases[phrase]
-        # Then unigrams (e.g., "usa")
-        for w in words:
-            if w in aliases:
-                return aliases[w]
-        # Heuristic: last token like "USA" at end (as in "ABC USA")
-        last = words[-1] if words else ""
-        if last in aliases:
-            return aliases[last]
-        return None
 
-    for txt in (post_pipe, display):
-        detected = detect_country(txt)
-        if detected:
-            return detected
+    # --- 5) Uppercase country codes like [MX], (QA), etc. ---
+    for t in UPPER_CODE_RE.findall(display):
+        key = t.lower()
+        if key in aliases:
+            return aliases[key]
 
-    # Heuristic fallback: known brands strongly tied to a specific country
-    brand_map = {
-        "comedy central": "USA",
-        "hbo": "USA",
-        "nbc": "USA",
-        "fox": "USA",
-        "abc": "USA",
-        "cbs": "USA",
-        "espn": "USA",
-        "cnn": "USA",
-        "tnt": "USA",
-        "mtv": "USA",
-        "cartoon network": "USA",
-        "nickelodeon": "USA",
-        "disney": "USA",
-        "univision": "USA",
-        "telemundo": "USA",
-        "sky sport de": "Germany",
-        "sky deutschland": "Germany",
-        "rtl": "Germany",
-        "pro7": "Germany",
-        "sat1": "Germany",
-        "orf": "Austria",
-        "nova bg": "Bulgaria",
-        "bt sport": "UK",
-        "sky uk": "UK",
-        "bbc": "UK"
-    }
+    # --- 6) Brand heuristic ---
     text_lower = post_pipe.lower()
     for brand, country in brand_map.items():
         if brand in text_lower:
             return country
 
-    # 4) Fallback
+    # --- 7) Script-based heuristics ---
+    if re.search(r"[\u0600-\u06FF]", display):  # Arabic
+        return "Arab World"
+    if re.search(r"[\u4E00-\u9FFF]", display):  # Chinese
+        return "China"
+    if re.search(r"[\u3040-\u30FF]", display):  # Japanese
+        return "Japan"
+    if re.search(r"[\uAC00-\uD7AF]", display):  # Korean
+        return "South Korea"
+    if re.search(r"[\u0400-\u04FF]", display):  # Cyrillic
+        return "Russia"
+
     logging.info(f"Country not detected, marking as Unknown for line: {display}")
     return "Unknown"
 
@@ -252,7 +152,7 @@ def organize_m3u_by_country(input_path, output_path):
             if 'DLHD 24/7' in line:
                 current_extinf = line.strip()
                 current_country = extract_country(line)
-                logging.info(f"Processing channel with country: {current_country}")
+                logging.debug(f"Processing channel '{line.strip()}' detected as {current_country}")
             else:
                 logging.debug(f"Skipping non-DLHD 24/7 entry: {line.strip()}")
                 current_extinf = None  # skip non-DLHD 24/7 entries
