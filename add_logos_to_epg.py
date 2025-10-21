@@ -69,7 +69,7 @@ def find_logo(channel_id, channel_name, cache):
             if head_resp.status_code == 200:
                 logging.info(f"Logo found at {logo_url}")
                 # Save to cache and return
-                cache[channel_id] = {"name": channel_name, "url": logo_url}
+                cache[channel_id] = {"name": channel_name, "url": logo_url, "fallback": False}
                 return logo_url
         except Exception as e:
             logging.warning(f"Exception during HEAD request to {logo_url}: {e}")
@@ -78,6 +78,7 @@ def find_logo(channel_id, channel_name, cache):
     # If not found, return the logo URL in the 'us' directory as fallback
     fallback_url = f"{LOGO_BASE_URL}us/{logo_filename}"
     logging.info(f"Logo not found in other countries, using fallback: {fallback_url}")
+    cache[channel_id] = {"name": channel_name, "url": fallback_url, "fallback": True}
     return fallback_url
 
 
@@ -106,9 +107,9 @@ def main():
     logging.info(f"Added/updated logos for {count_added} channels.")
     logging.info(f"Output saved to {OUTPUT_FILE}")
 
-    # Save updated cache (only non-fallback URLs)
-    filtered_cache = {k: v for k, v in cache.items() if not v["url"].endswith(f"/us/{k}.png")}
-    save_cache(filtered_cache)
+    # Save updated cache including fallback entries
+    save_cache(cache)
+    logging.info(f"Saved {len(cache)} entries to cache (including fallbacks).")
 
 
 if __name__ == "__main__":
