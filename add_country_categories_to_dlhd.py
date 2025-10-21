@@ -85,6 +85,13 @@ def extract_country(line):
         display = line
     post_pipe = display.split("|", 1)[1].strip() if "|" in display else display
 
+    # --- Normalize display name ---
+    display_normalized = display.strip().lower()
+    # Remove punctuation and special characters except spaces
+    display_normalized = re.sub(r'[^a-z0-9\s]', ' ', display_normalized)
+    # Collapse multiple spaces
+    display_normalized = re.sub(r'\s+', ' ', display_normalized).strip()
+
     # --- 3) Country prefix detection ---
     m2 = COUNTRY_DELIM_RE.search(post_pipe)
     if m2:
@@ -94,7 +101,7 @@ def extract_country(line):
             return aliases[key]
 
     # --- 4) Token scanning ---
-    norm = re.sub(r"[^a-z0-9]+", " ", display.lower()).strip()
+    norm = display_normalized
     words = norm.split()
     for i in range(len(words)):
         single = words[i]
@@ -106,8 +113,15 @@ def extract_country(line):
                 return aliases[phrase]
 
     # --- 5) Uppercase country codes like [MX], (QA), etc. ---
-    for t in UPPER_CODE_RE.findall(display):
+    for t in UPPER_CODE_RE.findall(display_normalized):
         key = t.lower()
+        if key in aliases:
+            return aliases[key]
+
+    # --- Suffix detection for normalized lowercase country code at end ---
+    suffix_match = re.search(r"\b([a-z]{2,3})\b$", display_normalized)
+    if suffix_match:
+        key = suffix_match.group(1)
         if key in aliases:
             return aliases[key]
 
