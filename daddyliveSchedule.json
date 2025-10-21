@@ -4371,14 +4371,12 @@
         ]
     },
     "Wednesday, October 22, 2025": {
-        "Afl</span>": [
-            {
-                "time": "07:00",
-                "event": "Florida International vs Kennesaw State",
-                "channels": []
-            }
-        ],
         "Hockey</span>": [
+            {
+                "time": "07:30",
+                "event": "Boston Bruins vs Florida Panthers",
+                "channels": []
+            },
             {
                 "time": "07:00",
                 "event": "Washington Capitals vs Seattle Kraken",
@@ -4405,11 +4403,6 @@
                 "channels": []
             },
             {
-                "time": "07:30",
-                "event": "Boston Bruins vs Florida Panthers",
-                "channels": []
-            },
-            {
                 "time": "08:00",
                 "event": "Dallas Stars vs Columbus Blue Jackets",
                 "channels": []
@@ -4432,6 +4425,37 @@
             {
                 "time": "23:00",
                 "event": "Lada vs Dinamo Minsk",
+                "channels": []
+            }
+        ],
+        "Basketball</span>": [
+            {
+                "time": "07:30",
+                "event": "Oklahoma City Thunder vs Houston Rockets",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Los Angeles Lakers vs Golden State Warriors",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Cairns Taipans vs Perth",
+                "channels": []
+            }
+        ],
+        "American-football</span>": [
+            {
+                "time": "07:30",
+                "event": "Louisiana Tech vs Western Kentucky",
+                "channels": []
+            }
+        ],
+        "Afl</span>": [
+            {
+                "time": "07:00",
+                "event": "Florida International vs Kennesaw State",
                 "channels": []
             }
         ],
@@ -4572,30 +4596,6 @@
                 "channels": []
             }
         ],
-        "Basketball</span>": [
-            {
-                "time": "07:30",
-                "event": "Oklahoma City Thunder vs Houston Rockets",
-                "channels": []
-            },
-            {
-                "time": "10:00",
-                "event": "Los Angeles Lakers vs Golden State Warriors",
-                "channels": []
-            },
-            {
-                "time": "16:30",
-                "event": "Cairns Taipans vs Perth",
-                "channels": []
-            }
-        ],
-        "American-football</span>": [
-            {
-                "time": "07:30",
-                "event": "Louisiana Tech vs Western Kentucky",
-                "channels": []
-            }
-        ],
         "Fight</span>": [
             {
                 "time": "08:00",
@@ -4679,76 +4679,6 @@
     },
     "Tuesday 21st October 2025 - Extra Schedule Time UK": {
         "All matches</span>": [
-            {
-                "time": "18:15",
-                "event": "D.Masur/M.ToPo\u00b7M.Karol/P.Niklas-Salminen",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8835282",
-                        "channel_id": "8835282"
-                    }
-                ]
-            },
-            {
-                "time": "18:15",
-                "event": "Alice Ferlito\u00b7Maria Berlanga Bandera",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8849349",
-                        "channel_id": "8849349"
-                    }
-                ]
-            },
-            {
-                "time": "18:18",
-                "event": "Salma Drugdova\u00b7Carmen Andreea Herea",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8848996",
-                        "channel_id": "8848996"
-                    }
-                ]
-            },
-            {
-                "time": "18:26",
-                "event": "Linda Klimovicova\u00b7Amarissa Kiara Toth",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8836643",
-                        "channel_id": "8836643"
-                    }
-                ]
-            },
-            {
-                "time": "18:27",
-                "event": "Gabriela Ce\u00b7Simona Waltert",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8842357",
-                        "channel_id": "8842357"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "Bosna Sarajevo\u00b7Murcia",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8762187",
-                        "channel_id": "8762187"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "Samir Banerjee\u00b7Aidan McHugh",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8849016",
-                        "channel_id": "8849016"
-                    }
-                ]
-            },
             {
                 "time": "18:35",
                 "event": "Johannus Monday\u00b7Michael Zheng",
@@ -5980,32 +5910,12 @@
                 ]
             },
             {
-                "time": "00:13",
-                "event": "Federico Bondioli\u00b7Giorgio Tabacco",
+                "time": "00:26",
+                "event": "Adriana Reami\u00b7Teah Chavez",
                 "channels": [
                     {
-                        "channel_name": "Extra Stream CH-8842273",
-                        "channel_id": "8842273"
-                    }
-                ]
-            },
-            {
-                "time": "00:16",
-                "event": "Giulia Alessia Monteleone\u00b7Maria Camila Romero Vargas",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8849142",
-                        "channel_id": "8849142"
-                    }
-                ]
-            },
-            {
-                "time": "00:25",
-                "event": "Rafael Jodar\u00b7Saba Purtseladze",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8838173",
-                        "channel_id": "8838173"
+                        "channel_name": "Extra Stream CH-8849140",
+                        "channel_id": "8849140"
                     }
                 ]
             },
@@ -6050,22 +5960,42 @@
                 ]
             },
             {
-                "time": "00:35",
-                "event": "Adriana Reami\u00b7Teah Chavez",
+                "time": "00:33",
+                "event": "Giulia Alessia Monteleone\u00b7Maria Camila Romero Vargas",
                 "channels": [
                     {
-                        "channel_name": "Extra Stream CH-8849140",
-                        "channel_id": "8849140"
+                        "channel_name": "Extra Stream CH-8849142",
+                        "channel_id": "8849142"
                     }
                 ]
             },
             {
-                "time": "00:40",
+                "time": "00:39",
+                "event": "Federico Bondioli\u00b7Giorgio Tabacco",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8842273",
+                        "channel_id": "8842273"
+                    }
+                ]
+            },
+            {
+                "time": "00:50",
                 "event": "Jack Pinnington Jones\u00b7Rinky Hijikata",
                 "channels": [
                     {
                         "channel_name": "Extra Stream CH-8838172",
                         "channel_id": "8838172"
+                    }
+                ]
+            },
+            {
+                "time": "00:50",
+                "event": "Rafael Jodar\u00b7Saba Purtseladze",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8838173",
+                        "channel_id": "8838173"
                     }
                 ]
             },
@@ -6130,16 +6060,6 @@
                 ]
             },
             {
-                "time": "01:50",
-                "event": "Andre Ilagan\u00b7Brandon Holt",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8838171",
-                        "channel_id": "8838171"
-                    }
-                ]
-            },
-            {
                 "time": "02:00",
                 "event": "Deportivo Pereira\u00b7Envigado",
                 "channels": [
@@ -6166,6 +6086,16 @@
                     {
                         "channel_name": "Extra Stream CH-8734323",
                         "channel_id": "8734323"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Andre Ilagan\u00b7Brandon Holt",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8838171",
+                        "channel_id": "8838171"
                     }
                 ]
             },
@@ -7501,16 +7431,6 @@
             },
             {
                 "time": "14:00",
-                "event": "A.Zamarripa/M.Zamarripa\u00b7M.Tona/N.Zeballos Melgar",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8842227",
-                        "channel_id": "8842227"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
                 "event": "E.Demanet/J.Loge\u00b7M.Fuele/R.Nijboer",
                 "channels": [
                     {
@@ -8376,6 +8296,16 @@
                     {
                         "channel_name": "Extra Stream CH-8762572",
                         "channel_id": "8762572"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "A.Zamarripa/M.Zamarripa\u00b7M.Tona/N.Zeballos Melgar",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8842227",
+                        "channel_id": "8842227"
                     }
                 ]
             },
