@@ -1,12 +1,23 @@
 import re
 import xml.etree.ElementTree as ET
 import logging
+import os
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 
 EPG_FILE = "epg.xml"
 M3U_FILE = "dlhd.m3u"
 OUTPUT_FILE = "dlhd_match_to_epg_test.m3u"
+
+# Prevent accidental overwrite of the source playlist
+if os.path.abspath(M3U_FILE) == os.path.abspath(OUTPUT_FILE):
+    base, ext = os.path.splitext(M3U_FILE)
+    OUTPUT_FILE = f"{base}_matched{ext}"
+    logging.warning(f"Output file matches source! Redirecting output to: {OUTPUT_FILE}")
+
+# Diagnostic logging to show resolved input/output paths
+logging.info(f"Reading from {os.path.abspath(M3U_FILE)}")
+logging.info(f"Writing to {os.path.abspath(OUTPUT_FILE)}")
 
 def parse_epg(epg_path):
     """Parse EPG XML and return a dict of display-name -> id"""
@@ -34,10 +45,15 @@ def match_channel_name(epg_mapping, line):
     if display_name in epg_mapping:
         return epg_mapping[display_name]
 
-    # Fuzzy fallback: check if any epg name appears inside the m3u name
+    # Fuzzy fallback: normalize and use regex word boundaries for partial matches
+    clean = lambda s: re.sub(r'[^a-z0-9]+', '', s.lower().replace("hd", "").replace("sd", "").replace("us", ""))
+    display_clean = clean(display_name)
     for epg_name, chan_id in epg_mapping.items():
-        if epg_name in display_name:
+        epg_clean = clean(epg_name)
+        if re.search(rf'\b{re.escape(epg_clean)}\b', display_clean):
+            logging.debug(f"Fuzzy match: '{display_name}' -> '{epg_name}'")
             return chan_id
+    logging.debug(f"No match for '{display_name}'")
     return None
 
 def main():
@@ -67,7 +83,10 @@ def main():
             lines.append(line)
 
     if tvg_id_added_count == 0:
-        logging.info("No tvg-id entries were added. Output file will not be created or overwritten.")
+        logging.warning("⚠️ No tvg-id entries were added. Writing diagnostic output file for inspection.")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
+            for line in lines:
+                outfile.write(line)
         return
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
