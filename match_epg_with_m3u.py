@@ -1,5 +1,8 @@
 import re
 import xml.etree.ElementTree as ET
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 
 EPG_FILE = "epg.xml"
 M3U_FILE = "dlhd.m3u"
@@ -16,6 +19,7 @@ def parse_epg(epg_path):
         if name_elem is not None and name_elem.text:
             display_name = name_elem.text.strip().lower()
             mapping[display_name] = chan_id
+    logging.info(f"Parsed {len(mapping)} channels from EPG.")
     return mapping
 
 def match_channel_name(epg_mapping, line):
@@ -42,8 +46,9 @@ def main():
     with open(M3U_FILE, "r", encoding="utf-8") as infile, \
          open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
 
-        for line in infile:
+        for line_number, line in enumerate(infile, 1):
             if line.startswith("#EXTINF"):
+                logging.debug(f"Processing line {line_number}: {line.strip()}")
                 tvg_match = re.search(r'tvg-id="([^"]+)"', line)
                 if not tvg_match:
                     tvg_id = match_channel_name(epg_mapping, line)
@@ -54,9 +59,12 @@ def main():
                             rf'\1 tvg-id="{tvg_id}"',
                             line
                         )
+                        logging.info(f"Added tvg-id '{tvg_id}' on line {line_number}.")
+                    else:
+                        logging.info(f"No matching tvg-id found for channel on line {line_number}.")
             outfile.write(line)
 
-    print(f"✅ Updated playlist written to {OUTPUT_FILE}")
+    logging.info(f"✅ Updated playlist written to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
