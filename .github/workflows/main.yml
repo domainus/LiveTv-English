@@ -28,8 +28,7 @@ jobs:
           python m3u.py
           python json_to_epg.py
           python add_logos_to_epg.py
-          python match_epg_with_m3u.py
-          python add_country_categories_to_dlhd.py
+          
       
       - name: Configure Git
         run: |
