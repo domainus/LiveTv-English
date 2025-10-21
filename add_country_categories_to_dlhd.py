@@ -28,7 +28,7 @@ def extract_country(line):
         "fr": "France", "fra": "France", "france": "France",
         "es": "Spain", "esp": "Spain", "spain": "Spain",
         "it": "Italy", "ita": "Italy", "italy": "Italy",
-        "pt": "Portugal", "portuguese": "Portugal",
+        "pt": "Portugal", "prt": "Portugal", "portugal": "Portugal",
         "qa": "Qatar", "qatar": "Qatar",
         "il": "Israel", "isr": "Israel", "israel": "Israel",
         "ae": "UAE", "uae": "UAE", "arab": "Arab World", "arabic": "Arab World", "arabia": "Arab World",
@@ -37,7 +37,24 @@ def extract_country(line):
         "eg": "Egypt", "dz": "Algeria", "ma": "Morocco", "tn": "Tunisia",
         "jp": "Japan", "jpn": "Japan", "japan": "Japan",
         "kr": "South Korea", "kor": "South Korea", "korea": "South Korea",
-        "in": "India", "ind": "India", "india": "India"
+        "in": "India", "ind": "India", "india": "India",
+        "rs": "Serbia", "serbia": "Serbia",
+        "hr": "Croatia", "croatia": "Croatia",
+        "tr": "Turkey", "tur": "Turkey", "turkey": "Turkey",
+        "bg": "Bulgaria", "bulgaria": "Bulgaria",
+        "dk": "Denmark", "denmark": "Denmark",
+        "ro": "Romania", "romania": "Romania",
+        "gr": "Greece", "greece": "Greece",
+        "pl": "Poland", "poland": "Poland",
+        "se": "Sweden", "sw": "Sweden", "swe": "Sweden", "sweden": "Sweden",
+        "nl": "Netherlands", "nld": "Netherlands", "netherlands": "Netherlands", "holland": "Netherlands",
+        "ru": "Russia", "rus": "Russia", "russia": "Russia",
+        "cz": "Czech Republic", "cze": "Czech Republic", "czech": "Czech Republic",
+        "at": "Austria", "aut": "Austria", "austria": "Austria",
+        "nz": "New Zealand", "nzl": "New Zealand", "new zealand": "New Zealand",
+        "pk": "Pakistan", "pak": "Pakistan", "pakistan": "Pakistan",
+        "ie": "Ireland", "irl": "Ireland", "ireland": "Ireland",
+        "bundesliga": "Germany"
     }
 
     # --- Brand heuristics ---
@@ -159,6 +176,41 @@ def extract_country(line):
         key = suffix_match.group(1)
         if key in aliases:
             return aliases[key]
+
+    # --- 5c) Priority region words override (prevents false USA classification) ---
+    for keyword, country in {
+        "argentina": "Argentina",
+        "chile": "Chile",
+        "uruguay": "Uruguay",
+        "peru": "Peru",
+        "colombia": "Colombia",
+        "venezuela": "Venezuela",
+        "ecuador": "Ecuador",
+        "bolivia": "Bolivia",
+        "paraguay": "Paraguay",
+        "serbia": "Serbia",
+        "croatia": "Croatia",
+        "turkey": "Turkey",
+        "bulgaria": "Bulgaria",
+        "denmark": "Denmark",
+        "portugal": "Portugal",
+        "romania": "Romania",
+        "greece": "Greece",
+        "poland": "Poland",
+        "sweden": "Sweden",
+        "netherlands": "Netherlands",
+        "holland": "Netherlands",
+        "russia": "Russia",
+        "czech": "Czech Republic",
+        "austria": "Austria",
+        "new zealand": "New Zealand",
+        "pakistan": "Pakistan",
+        "ireland": "Ireland",
+        "bundesliga": "Germany"
+    }.items():
+        if keyword in display_normalized:
+            logging.debug(f"Detected specific country keyword '{keyword}' overriding brand match")
+            return country
 
     # --- 6) Brand heuristic ---
     text_lower = post_pipe.lower()
