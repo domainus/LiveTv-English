@@ -8,7 +8,7 @@ logging.basicConfig(
 )
 
 INPUT_FILE = "dlhd.m3u"
-OUTPUT_FILE = "dlhd.m3u"
+OUTPUT_FILE = "dlhd_test.m3u"
 
 def extract_country(line):
     """
