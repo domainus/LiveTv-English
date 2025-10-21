@@ -42,10 +42,17 @@ def copy_folders():
         src_path = os.path.join(DEST_DIR, item)
         dst_path = os.path.join(OUTPUT_DIR, item)
         if os.path.isdir(src_path):
+            # Resolve symbolic links to actual folders
+            if os.path.islink(src_path):
+                real_src_path = os.path.realpath(src_path)
+                logging.info(f"Resolving symlink: {item} -> {real_src_path}")
+            else:
+                real_src_path = src_path
+
             logging.info(f"Copying folder: {item}")
             if os.path.exists(dst_path):
                 shutil.rmtree(dst_path)
-            shutil.copytree(src_path, dst_path)
+            shutil.copytree(real_src_path, dst_path, symlinks=False)
         else:
             logging.debug(f"Skipping non-folder: {item}")
 
