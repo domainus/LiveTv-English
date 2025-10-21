@@ -4371,6 +4371,70 @@
         ]
     },
     "Wednesday, October 22, 2025": {
+        "Afl</span>": [
+            {
+                "time": "07:00",
+                "event": "Florida International vs Kennesaw State",
+                "channels": []
+            }
+        ],
+        "Hockey</span>": [
+            {
+                "time": "07:00",
+                "event": "Washington Capitals vs Seattle Kraken",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Toronto Maple Leafs vs New Jersey Devils",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Pittsburgh Penguins vs Vancouver Canucks",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Ottawa Senators vs Edmonton Oilers",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "New York Islanders vs San Jose Sharks",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Boston Bruins vs Florida Panthers",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Dallas Stars vs Columbus Blue Jackets",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Nashville Predators vs Anaheim Ducks",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "St. Louis Blues vs Los Angeles Kings",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Utah Mammoth vs Colorado Avalanche",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Lada vs Dinamo Minsk",
+                "channels": []
+            }
+        ],
         "Football</span>": [
             {
                 "time": "06:30",
@@ -4380,11 +4444,6 @@
             {
                 "time": "06:15",
                 "event": "Union (Santa Fe) vs Defensa y Justicia",
-                "channels": []
-            },
-            {
-                "time": "04:45",
-                "event": "Atl\u00e9tico Huila vs Real Cundinamarca",
                 "channels": []
             },
             {
@@ -4513,70 +4572,6 @@
                 "channels": []
             }
         ],
-        "Afl</span>": [
-            {
-                "time": "07:00",
-                "event": "Florida International vs Kennesaw State",
-                "channels": []
-            }
-        ],
-        "Hockey</span>": [
-            {
-                "time": "07:00",
-                "event": "Washington Capitals vs Seattle Kraken",
-                "channels": []
-            },
-            {
-                "time": "07:00",
-                "event": "Toronto Maple Leafs vs New Jersey Devils",
-                "channels": []
-            },
-            {
-                "time": "07:00",
-                "event": "Pittsburgh Penguins vs Vancouver Canucks",
-                "channels": []
-            },
-            {
-                "time": "07:00",
-                "event": "Ottawa Senators vs Edmonton Oilers",
-                "channels": []
-            },
-            {
-                "time": "07:00",
-                "event": "New York Islanders vs San Jose Sharks",
-                "channels": []
-            },
-            {
-                "time": "07:30",
-                "event": "Boston Bruins vs Florida Panthers",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Dallas Stars vs Columbus Blue Jackets",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Nashville Predators vs Anaheim Ducks",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "St. Louis Blues vs Los Angeles Kings",
-                "channels": []
-            },
-            {
-                "time": "10:00",
-                "event": "Utah Mammoth vs Colorado Avalanche",
-                "channels": []
-            },
-            {
-                "time": "23:00",
-                "event": "Lada vs Dinamo Minsk",
-                "channels": []
-            }
-        ],
         "Basketball</span>": [
             {
                 "time": "07:30",
@@ -4684,96 +4679,6 @@
     },
     "Tuesday 21st October 2025 - Extra Schedule Time UK": {
         "All matches</span>": [
-            {
-                "time": "17:50",
-                "event": "Mell E.R.Gonzalez\u00b7Luciana Moyano",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8849120",
-                        "channel_id": "8849120"
-                    }
-                ]
-            },
-            {
-                "time": "17:54",
-                "event": "Aleksa Ciric\u00b7Pietro Pampanin",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8849343",
-                        "channel_id": "8849343"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Ulm\u00b7Besiktas",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8682263",
-                        "channel_id": "8682263"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Galatasaray\u00b7Wurzburg",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8724513",
-                        "channel_id": "8724513"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Cibona\u00b7Dijon",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8746716",
-                        "channel_id": "8746716"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Odense Bulldogs\u00b7Herlev Eagles",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756381",
-                        "channel_id": "8756381"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Aalborg Pirates\u00b7Rodovre Mighty Bulls",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756382",
-                        "channel_id": "8756382"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Aris Salonic\u00b7Manresa",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756386",
-                        "channel_id": "8756386"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "M.Davies/L.Hutchings\u00b7J.Avdeeva/K.Kuzmova",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8848250",
-                        "channel_id": "8848250"
-                    }
-                ]
-            },
             {
                 "time": "18:01",
                 "event": "T.J.Brockmann/P.Preugschat\u00b7V.Grammatikopoulou/M.Stankiewicz",
@@ -6035,12 +5940,12 @@
                 ]
             },
             {
-                "time": "23:56",
-                "event": "Federico Bondioli\u00b7Giorgio Tabacco",
+                "time": "23:52",
+                "event": "Mayar Sherif\u00b7Alice Rame",
                 "channels": [
                     {
-                        "channel_name": "Extra Stream CH-8842273",
-                        "channel_id": "8842273"
+                        "channel_name": "Extra Stream CH-8842369",
+                        "channel_id": "8842369"
                     }
                 ]
             },
@@ -6125,12 +6030,12 @@
                 ]
             },
             {
-                "time": "00:00",
-                "event": "E.Bolton/C.Harrison\u00b7C.Corley/I.Corley",
+                "time": "00:05",
+                "event": "Federico Bondioli\u00b7Giorgio Tabacco",
                 "channels": [
                     {
-                        "channel_name": "Extra Stream CH-8849249",
-                        "channel_id": "8849249"
+                        "channel_name": "Extra Stream CH-8842273",
+                        "channel_id": "8842273"
                     }
                 ]
             },
@@ -6145,12 +6050,12 @@
                 ]
             },
             {
-                "time": "00:20",
-                "event": "Mayar Sherif\u00b7Alice Rame",
+                "time": "00:08",
+                "event": "E.Bolton/C.Harrison\u00b7C.Corley/I.Corley",
                 "channels": [
                     {
-                        "channel_name": "Extra Stream CH-8842369",
-                        "channel_id": "8842369"
+                        "channel_name": "Extra Stream CH-8849249",
+                        "channel_id": "8849249"
                     }
                 ]
             },
@@ -7391,6 +7296,16 @@
                     {
                         "channel_name": "Extra Stream CH-8845004",
                         "channel_id": "8845004"
+                    }
+                ]
+            },
+            {
+                "time": "11:50",
+                "event": "J.Barnat/F.Duda\u00b7M.Geerts/T.Ruehl",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8835284",
+                        "channel_id": "8835284"
                     }
                 ]
             },

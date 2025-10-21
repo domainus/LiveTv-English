@@ -957,6 +957,9 @@ https://dlhd.dad/watch.php?id=302
 #EXTINF:-1 group-title="USA",AMC USA
 https://dlhd.dad/watch.php?id=303
 
+#EXTINF:-1 group-title="USA",Animal Planet
+https://dlhd.dad/watch.php?id=304
+
 #EXTINF:-1 group-title="USA",ACC Network USA
 https://dlhd.dad/watch.php?id=664
 
@@ -971,6 +974,12 @@ https://dlhd.dad/watch.php?id=766
 
 #EXTINF:-1 tvg-id="bein_sports_usa" group-title="USA",BeIN SPORTS USA
 https://dlhd.dad/watch.php?id=425
+
+#EXTINF:-1 group-title="USA",Boomerang
+https://dlhd.dad/watch.php?id=648
+
+#EXTINF:-1 group-title="USA",bTV Action Bulgaria
+https://dlhd.dad/watch.php?id=481
 
 #EXTINF:-1 group-title="USA",BET USA
 https://dlhd.dad/watch.php?id=306
@@ -1035,11 +1044,44 @@ https://dlhd.dad/watch.php?id=910
 #EXTINF:-1 group-title="USA",CMTV Portugal
 https://dlhd.dad/watch.php?id=790
 
+#EXTINF:-1 group-title="USA",Cytavision Sports 1 Cyprus
+https://dlhd.dad/watch.php?id=911
+
+#EXTINF:-1 group-title="USA",Cytavision Sports 2 Cyprus
+https://dlhd.dad/watch.php?id=912
+
+#EXTINF:-1 group-title="USA",Cytavision Sports 3 Cyprus
+https://dlhd.dad/watch.php?id=913
+
+#EXTINF:-1 group-title="USA",Cytavision Sports 4 Cyprus
+https://dlhd.dad/watch.php?id=914
+
+#EXTINF:-1 group-title="USA",Cytavision Sports 5 Cyprus
+https://dlhd.dad/watch.php?id=915
+
+#EXTINF:-1 group-title="USA",Cytavision Sports 6 Cyprus
+https://dlhd.dad/watch.php?id=916
+
+#EXTINF:-1 group-title="USA",Cytavision Sports 7 Cyprus
+https://dlhd.dad/watch.php?id=917
+
+#EXTINF:-1 group-title="USA",Discovery Life Channel
+https://dlhd.dad/watch.php?id=311
+
 #EXTINF:-1 group-title="USA",Disney Channel
 https://dlhd.dad/watch.php?id=312
 
+#EXTINF:-1 group-title="USA",Discovery Channel
+https://dlhd.dad/watch.php?id=313
+
+#EXTINF:-1 group-title="USA",Discovery Family
+https://dlhd.dad/watch.php?id=657
+
 #EXTINF:-1 group-title="USA",Disney XD
 https://dlhd.dad/watch.php?id=314
+
+#EXTINF:-1 group-title="USA",Destination America
+https://dlhd.dad/watch.php?id=651
 
 #EXTINF:-1 group-title="USA",Disney JR
 https://dlhd.dad/watch.php?id=652
@@ -1073,6 +1115,9 @@ https://dlhd.dad/watch.php?id=375
 
 #EXTINF:-1 group-title="USA",ESPNews
 https://dlhd.dad/watch.php?id=288
+
+#EXTINF:-1 group-title="USA",E! Entertainment Television
+https://dlhd.dad/watch.php?id=315
 
 #EXTINF:-1 tvg-id="espn_3_nl" group-title="USA",ESPN 3 NL
 https://dlhd.dad/watch.php?id=888
@@ -1146,6 +1191,12 @@ https://dlhd.dad/watch.php?id=347
 #EXTINF:-1 group-title="USA",FX Movie Channel
 https://dlhd.dad/watch.php?id=381
 
+#EXTINF:-1 group-title="USA",Fashion TV
+https://dlhd.dad/watch.php?id=744
+
+#EXTINF:-1 group-title="USA",FETV - Family Entertainment Television
+https://dlhd.dad/watch.php?id=751
+
 #EXTINF:-1 group-title="USA",FOXNY USA
 https://dlhd.dad/watch.php?id=768
 
@@ -1155,11 +1206,20 @@ https://dlhd.dad/watch.php?id=775
 #EXTINF:-1 group-title="USA",GOLF Channel USA
 https://dlhd.dad/watch.php?id=318
 
+#EXTINF:-1 group-title="USA",Game Show Network
+https://dlhd.dad/watch.php?id=319
+
 #EXTINF:-1 group-title="USA",GOLTV USA
 https://dlhd.dad/watch.php?id=597
 
 #EXTINF:-1 group-title="USA",Galavisi贸n USA
 https://dlhd.dad/watch.php?id=743
+
+#EXTINF:-1 group-title="USA",The Hallmark Channel
+https://dlhd.dad/watch.php?id=320
+
+#EXTINF:-1 group-title="USA",Hallmark Movies & Mysterie
+https://dlhd.dad/watch.php?id=296
 
 #EXTINF:-1 group-title="USA",Heroes & Icons (H&I) USA
 https://dlhd.dad/watch.php?id=282
@@ -1191,6 +1251,9 @@ https://dlhd.dad/watch.php?id=569
 #EXTINF:-1 group-title="USA",History USA
 https://dlhd.dad/watch.php?id=322
 
+#EXTINF:-1 group-title="USA",HGTV
+https://dlhd.dad/watch.php?id=382
+
 #EXTINF:-1 group-title="USA",Investigation Discovery (ID USA)
 https://dlhd.dad/watch.php?id=324
 
@@ -1203,11 +1266,20 @@ https://dlhd.dad/watch.php?id=656
 #EXTINF:-1 group-title="USA",Logo TV USA
 https://dlhd.dad/watch.php?id=849
 
+#EXTINF:-1 group-title="USA",Lifetime Network
+https://dlhd.dad/watch.php?id=326
+
+#EXTINF:-1 group-title="USA",Lifetime Movies Network
+https://dlhd.dad/watch.php?id=389
+
 #EXTINF:-1 tvg-id="msg_usa" group-title="USA",MSG USA
 https://dlhd.dad/watch.php?id=765
 
 #EXTINF:-1 group-title="USA",MSNBC
 https://dlhd.dad/watch.php?id=327
+
+#EXTINF:-1 group-title="USA",Magnolia Network
+https://dlhd.dad/watch.php?id=299
 
 #EXTINF:-1 group-title="USA",MTV USA
 https://dlhd.dad/watch.php?id=371
@@ -1251,6 +1323,9 @@ https://dlhd.dad/watch.php?id=404
 #EXTINF:-1 group-title="USA",NBC Sports Philadelphia
 https://dlhd.dad/watch.php?id=777
 
+#EXTINF:-1 group-title="USA",NFL Network
+https://dlhd.dad/watch.php?id=405
+
 #EXTINF:-1 group-title="USA",NBC Sports Bay Area
 https://dlhd.dad/watch.php?id=753
 
@@ -1266,6 +1341,15 @@ https://dlhd.dad/watch.php?id=769
 #EXTINF:-1 group-title="USA",NewsNation USA
 https://dlhd.dad/watch.php?id=292
 
+#EXTINF:-1 group-title="USA",National Geographic (NGC)
+https://dlhd.dad/watch.php?id=328
+
+#EXTINF:-1 group-title="USA",NICK JR
+https://dlhd.dad/watch.php?id=329
+
+#EXTINF:-1 group-title="USA",Nicktoons
+https://dlhd.dad/watch.php?id=649
+
 #EXTINF:-1 group-title="USA",Newsmax USA
 https://dlhd.dad/watch.php?id=613
 
@@ -1274,6 +1358,12 @@ https://dlhd.dad/watch.php?id=745
 
 #EXTINF:-1 group-title="USA",NBC Universo
 https://dlhd.dad/watch.php?id=845
+
+#EXTINF:-1 group-title="USA",Oprah Winfrey Network (OWN)
+https://dlhd.dad/watch.php?id=331
+
+#EXTINF:-1 group-title="USA",Oxygen True Crime
+https://dlhd.dad/watch.php?id=332
 
 #EXTINF:-1 group-title="USA",Outdoor Channel USA
 https://dlhd.dad/watch.php?id=848
@@ -1290,20 +1380,71 @@ https://dlhd.dad/watch.php?id=287
 #EXTINF:-1 group-title="USA",PBS USA
 https://dlhd.dad/watch.php?id=210
 
+#EXTINF:-1 group-title="USA",Starz Cinema
+https://dlhd.dad/watch.php?id=970
+
+#EXTINF:-1 group-title="USA",Starz Comedy
+https://dlhd.dad/watch.php?id=971
+
+#EXTINF:-1 group-title="USA",Starz Edge
+https://dlhd.dad/watch.php?id=972
+
+#EXTINF:-1 group-title="USA",Starz Kids & Family
+https://dlhd.dad/watch.php?id=974
+
+#EXTINF:-1 group-title="USA",Starz Encore
+https://dlhd.dad/watch.php?id=975
+
+#EXTINF:-1 group-title="USA",Starz Encore Action
+https://dlhd.dad/watch.php?id=976
+
+#EXTINF:-1 group-title="USA",Starz Encore Black
+https://dlhd.dad/watch.php?id=977
+
+#EXTINF:-1 group-title="USA",Starz Encore Classic
+https://dlhd.dad/watch.php?id=978
+
+#EXTINF:-1 group-title="USA",Starz Encore Family
+https://dlhd.dad/watch.php?id=979
+
+#EXTINF:-1 group-title="USA",Starz Encore Suspense
+https://dlhd.dad/watch.php?id=980
+
+#EXTINF:-1 group-title="USA",Starz Encore Westerns
+https://dlhd.dad/watch.php?id=981
+
 #EXTINF:-1 group-title="USA",Spectrum SportsNet USA
 https://dlhd.dad/watch.php?id=982
 
 #EXTINF:-1 group-title="USA",SEC Network USA
 https://dlhd.dad/watch.php?id=385
 
+#EXTINF:-1 tvg-id="supersport_action" group-title="USA",SuperSport Action
+https://dlhd.dad/watch.php?id=420
+
 #EXTINF:-1 group-title="USA",Showtime SHOxBET USA
 https://dlhd.dad/watch.php?id=695
+
+#EXTINF:-1 group-title="USA",StarzPlay CricLife 1 HD
+https://dlhd.dad/watch.php?id=284
+
+#EXTINF:-1 group-title="USA",Sky History
+https://dlhd.dad/watch.php?id=686
+
+#EXTINF:-1 group-title="USA",Science Channel
+https://dlhd.dad/watch.php?id=294
 
 #EXTINF:-1 group-title="USA",Showtime USA
 https://dlhd.dad/watch.php?id=333
 
+#EXTINF:-1 group-title="USA",Starz
+https://dlhd.dad/watch.php?id=335
+
 #EXTINF:-1 group-title="USA",SYFY USA
 https://dlhd.dad/watch.php?id=373
+
+#EXTINF:-1 group-title="USA",Sundance TV
+https://dlhd.dad/watch.php?id=658
 
 #EXTINF:-1 group-title="USA",Showtime 2 USA (SHO2) USA
 https://dlhd.dad/watch.php?id=792
@@ -1335,8 +1476,14 @@ https://dlhd.dad/watch.php?id=66
 #EXTINF:-1 group-title="USA",TBS USA
 https://dlhd.dad/watch.php?id=336
 
+#EXTINF:-1 group-title="USA",TLC
+https://dlhd.dad/watch.php?id=337
+
 #EXTINF:-1 group-title="USA",TNT USA
 https://dlhd.dad/watch.php?id=338
+
+#EXTINF:-1 group-title="USA",Travel Channel
+https://dlhd.dad/watch.php?id=340
 
 #EXTINF:-1 group-title="USA",TruTV USA
 https://dlhd.dad/watch.php?id=341
@@ -1347,6 +1494,12 @@ https://dlhd.dad/watch.php?id=644
 #EXTINF:-1 group-title="USA",TMC Channel USA
 https://dlhd.dad/watch.php?id=698
 
+#EXTINF:-1 group-title="USA",The Food Network
+https://dlhd.dad/watch.php?id=384
+
+#EXTINF:-1 group-title="USA",The Weather Channel
+https://dlhd.dad/watch.php?id=394
+
 #EXTINF:-1 group-title="USA",TV ONE USA
 https://dlhd.dad/watch.php?id=660
 
@@ -1356,8 +1509,14 @@ https://dlhd.dad/watch.php?id=343
 #EXTINF:-1 group-title="USA",Universal Kids USA
 https://dlhd.dad/watch.php?id=668
 
+#EXTINF:-1 group-title="USA",Univision
+https://dlhd.dad/watch.php?id=132
+
 #EXTINF:-1 group-title="USA",VH1 USA
 https://dlhd.dad/watch.php?id=344
+
+#EXTINF:-1 group-title="USA",VICE TV
+https://dlhd.dad/watch.php?id=659
 
 #EXTINF:-1 group-title="USA",WETV USA
 https://dlhd.dad/watch.php?id=655
@@ -1370,9 +1529,6 @@ https://dlhd.dad/watch.php?id=360
 
 #EXTINF:-1 group-title="Unknown",AHC (American Heroes Channel)
 https://dlhd.dad/watch.php?id=206
-
-#EXTINF:-1 group-title="Unknown",Animal Planet
-https://dlhd.dad/watch.php?id=304
 
 #EXTINF:-1 group-title="Unknown",Astro SuperSport 1
 https://dlhd.dad/watch.php?id=123
@@ -1479,9 +1635,6 @@ https://dlhd.dad/watch.php?id=1000
 #EXTINF:-1 group-title="Unknown",A Spor Turkey
 https://dlhd.dad/watch.php?id=1011
 
-#EXTINF:-1 group-title="Unknown",Boomerang
-https://dlhd.dad/watch.php?id=648
-
 #EXTINF:-1 group-title="Unknown",BNT 1 Bulgaria
 https://dlhd.dad/watch.php?id=476
 
@@ -1493,9 +1646,6 @@ https://dlhd.dad/watch.php?id=478
 
 #EXTINF:-1 group-title="Unknown",bTV Bulgaria
 https://dlhd.dad/watch.php?id=479
-
-#EXTINF:-1 group-title="Unknown",bTV Action Bulgaria
-https://dlhd.dad/watch.php?id=481
 
 #EXTINF:-1 group-title="Unknown",bTV Lady Bulgaria
 https://dlhd.dad/watch.php?id=484
@@ -1557,27 +1707,6 @@ https://dlhd.dad/watch.php?id=831
 #EXTINF:-1 group-title="Unknown",CT Sport CZ
 https://dlhd.dad/watch.php?id=1033
 
-#EXTINF:-1 group-title="Unknown",Cytavision Sports 1 Cyprus
-https://dlhd.dad/watch.php?id=911
-
-#EXTINF:-1 group-title="Unknown",Cytavision Sports 2 Cyprus
-https://dlhd.dad/watch.php?id=912
-
-#EXTINF:-1 group-title="Unknown",Cytavision Sports 3 Cyprus
-https://dlhd.dad/watch.php?id=913
-
-#EXTINF:-1 group-title="Unknown",Cytavision Sports 4 Cyprus
-https://dlhd.dad/watch.php?id=914
-
-#EXTINF:-1 group-title="Unknown",Cytavision Sports 5 Cyprus
-https://dlhd.dad/watch.php?id=915
-
-#EXTINF:-1 group-title="Unknown",Cytavision Sports 6 Cyprus
-https://dlhd.dad/watch.php?id=916
-
-#EXTINF:-1 group-title="Unknown",Cytavision Sports 7 Cyprus
-https://dlhd.dad/watch.php?id=917
-
 #EXTINF:-1 group-title="Unknown",DAZN LaLiga
 https://dlhd.dad/watch.php?id=538
 
@@ -1622,18 +1751,6 @@ https://dlhd.dad/watch.php?id=827
 
 #EXTINF:-1 group-title="Unknown",DSTV kykNET & kie
 https://dlhd.dad/watch.php?id=828
-
-#EXTINF:-1 group-title="Unknown",Discovery Life Channel
-https://dlhd.dad/watch.php?id=311
-
-#EXTINF:-1 group-title="Unknown",Discovery Channel
-https://dlhd.dad/watch.php?id=313
-
-#EXTINF:-1 group-title="Unknown",Discovery Family
-https://dlhd.dad/watch.php?id=657
-
-#EXTINF:-1 group-title="Unknown",Destination America
-https://dlhd.dad/watch.php?id=651
 
 #EXTINF:-1 group-title="Unknown",Dave
 https://dlhd.dad/watch.php?id=348
@@ -1686,9 +1803,6 @@ https://dlhd.dad/watch.php?id=233
 #EXTINF:-1 group-title="Unknown",Eurosport 2 NL
 https://dlhd.dad/watch.php?id=234
 
-#EXTINF:-1 group-title="Unknown",E! Entertainment Television
-https://dlhd.dad/watch.php?id=315
-
 #EXTINF:-1 group-title="Unknown",E4 Channel
 https://dlhd.dad/watch.php?id=363
 
@@ -1706,12 +1820,6 @@ https://dlhd.dad/watch.php?id=301
 
 #EXTINF:-1 group-title="Unknown",FYI
 https://dlhd.dad/watch.php?id=665
-
-#EXTINF:-1 group-title="Unknown",Fashion TV
-https://dlhd.dad/watch.php?id=744
-
-#EXTINF:-1 group-title="Unknown",FETV - Family Entertainment Television
-https://dlhd.dad/watch.php?id=751
 
 #EXTINF:-1 group-title="Unknown",FanDuel Sports Network Arizona
 https://dlhd.dad/watch.php?id=890
@@ -1761,26 +1869,14 @@ https://dlhd.dad/watch.php?id=906
 #EXTINF:-1 group-title="Unknown",FanDuel Sports Network Wisconsin
 https://dlhd.dad/watch.php?id=907
 
-#EXTINF:-1 group-title="Unknown",Game Show Network
-https://dlhd.dad/watch.php?id=319
-
 #EXTINF:-1 group-title="Unknown",Great American Family Channel (GAC)
 https://dlhd.dad/watch.php?id=699
 
 #EXTINF:-1 group-title="Unknown",Grit Channel
 https://dlhd.dad/watch.php?id=752
 
-#EXTINF:-1 group-title="Unknown",The Hallmark Channel
-https://dlhd.dad/watch.php?id=320
-
-#EXTINF:-1 group-title="Unknown",Hallmark Movies & Mysterie
-https://dlhd.dad/watch.php?id=296
-
 #EXTINF:-1 group-title="Unknown",Headline News
 https://dlhd.dad/watch.php?id=323
-
-#EXTINF:-1 group-title="Unknown",HGTV
-https://dlhd.dad/watch.php?id=382
 
 #EXTINF:-1 group-title="Unknown",Happy TV Serbia
 https://dlhd.dad/watch.php?id=846
@@ -1796,12 +1892,6 @@ https://dlhd.dad/watch.php?id=826
 
 #EXTINF:-1 group-title="Unknown",Las Estrellas
 https://dlhd.dad/watch.php?id=924
-
-#EXTINF:-1 group-title="Unknown",Lifetime Network
-https://dlhd.dad/watch.php?id=326
-
-#EXTINF:-1 group-title="Unknown",Lifetime Movies Network
-https://dlhd.dad/watch.php?id=389
 
 #EXTINF:-1 group-title="Unknown",Match Football 1 Russia
 https://dlhd.dad/watch.php?id=136
@@ -1823,9 +1913,6 @@ https://dlhd.dad/watch.php?id=84
 
 #EXTINF:-1 group-title="Unknown",Motowizja Poland
 https://dlhd.dad/watch.php?id=563
-
-#EXTINF:-1 group-title="Unknown",Magnolia Network
-https://dlhd.dad/watch.php?id=299
 
 #EXTINF:-1 tvg-id="m4_sports_hungary" group-title="Unknown",M4 Sports Hungary
 https://dlhd.dad/watch.php?id=265
@@ -1899,26 +1986,14 @@ https://dlhd.dad/watch.php?id=639
 #EXTINF:-1 group-title="Unknown",Nick Music
 https://dlhd.dad/watch.php?id=666
 
-#EXTINF:-1 group-title="Unknown",NFL Network
-https://dlhd.dad/watch.php?id=405
-
 #EXTINF:-1 group-title="Unknown",Nova TV Bulgaria
 https://dlhd.dad/watch.php?id=480
 
 #EXTINF:-1 group-title="Unknown",Nova S Serbia
 https://dlhd.dad/watch.php?id=847
 
-#EXTINF:-1 group-title="Unknown",National Geographic (NGC)
-https://dlhd.dad/watch.php?id=328
-
-#EXTINF:-1 group-title="Unknown",NICK JR
-https://dlhd.dad/watch.php?id=329
-
 #EXTINF:-1 group-title="Unknown",NICK
 https://dlhd.dad/watch.php?id=330
-
-#EXTINF:-1 group-title="Unknown",Nicktoons
-https://dlhd.dad/watch.php?id=649
 
 #EXTINF:-1 group-title="Unknown",NOW TV Turkey
 https://dlhd.dad/watch.php?id=1003
@@ -1952,12 +2027,6 @@ https://dlhd.dad/watch.php?id=441
 
 #EXTINF:-1 group-title="Unknown",Orange Sport 4 Romania
 https://dlhd.dad/watch.php?id=442
-
-#EXTINF:-1 group-title="Unknown",Oprah Winfrey Network (OWN)
-https://dlhd.dad/watch.php?id=331
-
-#EXTINF:-1 group-title="Unknown",Oxygen True Crime
-https://dlhd.dad/watch.php?id=332
 
 #EXTINF:-1 group-title="Unknown",Oneplay Sport 1 CZ
 https://dlhd.dad/watch.php?id=1027
@@ -2094,39 +2163,6 @@ https://dlhd.dad/watch.php?id=948
 #EXTINF:-1 group-title="Unknown",Sky Sport Bundesliga 5
 https://dlhd.dad/watch.php?id=949
 
-#EXTINF:-1 group-title="Unknown",Starz Cinema
-https://dlhd.dad/watch.php?id=970
-
-#EXTINF:-1 group-title="Unknown",Starz Comedy
-https://dlhd.dad/watch.php?id=971
-
-#EXTINF:-1 group-title="Unknown",Starz Edge
-https://dlhd.dad/watch.php?id=972
-
-#EXTINF:-1 group-title="Unknown",Starz Kids & Family
-https://dlhd.dad/watch.php?id=974
-
-#EXTINF:-1 group-title="Unknown",Starz Encore
-https://dlhd.dad/watch.php?id=975
-
-#EXTINF:-1 group-title="Unknown",Starz Encore Action
-https://dlhd.dad/watch.php?id=976
-
-#EXTINF:-1 group-title="Unknown",Starz Encore Black
-https://dlhd.dad/watch.php?id=977
-
-#EXTINF:-1 group-title="Unknown",Starz Encore Classic
-https://dlhd.dad/watch.php?id=978
-
-#EXTINF:-1 group-title="Unknown",Starz Encore Family
-https://dlhd.dad/watch.php?id=979
-
-#EXTINF:-1 group-title="Unknown",Starz Encore Suspense
-https://dlhd.dad/watch.php?id=980
-
-#EXTINF:-1 group-title="Unknown",Starz Encore Westerns
-https://dlhd.dad/watch.php?id=981
-
 #EXTINF:-1 tvg-id="sky_sport_1_nz" group-title="Unknown",Sky Sport 1 NZ
 https://dlhd.dad/watch.php?id=588
 
@@ -2211,9 +2247,6 @@ https://dlhd.dad/watch.php?id=418
 #EXTINF:-1 group-title="Unknown",SuperSport Variety 4
 https://dlhd.dad/watch.php?id=419
 
-#EXTINF:-1 tvg-id="supersport_action" group-title="Unknown",SuperSport Action
-https://dlhd.dad/watch.php?id=420
-
 #EXTINF:-1 group-title="Unknown",SuperSport Rugby
 https://dlhd.dad/watch.php?id=421
 
@@ -2247,14 +2280,8 @@ https://dlhd.dad/watch.php?id=710
 #EXTINF:-1 group-title="Unknown",SEE Denmark
 https://dlhd.dad/watch.php?id=811
 
-#EXTINF:-1 group-title="Unknown",StarzPlay CricLife 1 HD
-https://dlhd.dad/watch.php?id=284
-
 #EXTINF:-1 group-title="Unknown",Sky Crime
 https://dlhd.dad/watch.php?id=685
-
-#EXTINF:-1 group-title="Unknown",Sky History
-https://dlhd.dad/watch.php?id=686
 
 #EXTINF:-1 group-title="Unknown",SSC Sport 1
 https://dlhd.dad/watch.php?id=614
@@ -2277,20 +2304,11 @@ https://dlhd.dad/watch.php?id=620
 #EXTINF:-1 group-title="Unknown",SSC Sport Extra 3
 https://dlhd.dad/watch.php?id=621
 
-#EXTINF:-1 group-title="Unknown",Science Channel
-https://dlhd.dad/watch.php?id=294
-
-#EXTINF:-1 group-title="Unknown",Starz
-https://dlhd.dad/watch.php?id=335
-
 #EXTINF:-1 group-title="Unknown",Sky Witness HD
 https://dlhd.dad/watch.php?id=361
 
 #EXTINF:-1 group-title="Unknown",Sky Atlantic
 https://dlhd.dad/watch.php?id=362
-
-#EXTINF:-1 group-title="Unknown",Sundance TV
-https://dlhd.dad/watch.php?id=658
 
 #EXTINF:-1 group-title="Unknown",Smithsonian Channel
 https://dlhd.dad/watch.php?id=603
@@ -2343,26 +2361,14 @@ https://dlhd.dad/watch.php?id=741
 #EXTINF:-1 group-title="Unknown",Telemundo
 https://dlhd.dad/watch.php?id=131
 
-#EXTINF:-1 group-title="Unknown",TLC
-https://dlhd.dad/watch.php?id=337
-
 #EXTINF:-1 tvg-id="tva_sports" group-title="Unknown",TVA Sports
 https://dlhd.dad/watch.php?id=833
 
 #EXTINF:-1 group-title="Unknown",TVA Sports 2
 https://dlhd.dad/watch.php?id=834
 
-#EXTINF:-1 group-title="Unknown",Travel Channel
-https://dlhd.dad/watch.php?id=340
-
 #EXTINF:-1 group-title="Unknown",TVLAND
 https://dlhd.dad/watch.php?id=342
-
-#EXTINF:-1 group-title="Unknown",The Food Network
-https://dlhd.dad/watch.php?id=384
-
-#EXTINF:-1 group-title="Unknown",The Weather Channel
-https://dlhd.dad/watch.php?id=394
 
 #EXTINF:-1 group-title="Unknown",TVP INFO
 https://dlhd.dad/watch.php?id=452
@@ -2433,9 +2439,6 @@ https://dlhd.dad/watch.php?id=711
 #EXTINF:-1 group-title="Unknown",TRT Spor TR
 https://dlhd.dad/watch.php?id=889
 
-#EXTINF:-1 group-title="Unknown",Univision
-https://dlhd.dad/watch.php?id=132
-
 #EXTINF:-1 group-title="Unknown",Unimas
 https://dlhd.dad/watch.php?id=133
 
@@ -2456,9 +2459,6 @@ https://dlhd.dad/watch.php?id=378
 
 #EXTINF:-1 group-title="Unknown",VTV+ Uruguay
 https://dlhd.dad/watch.php?id=391
-
-#EXTINF:-1 group-title="Unknown",VICE TV
-https://dlhd.dad/watch.php?id=659
 
 #EXTINF:-1 tvg-id="willow_cricket" group-title="Unknown",Willow Cricket
 https://dlhd.dad/watch.php?id=346
