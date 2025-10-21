@@ -18,23 +18,23 @@ try:
 except ImportError:
     print("ERROR: Missing required libraries. Please run: pip install requests beautifulsoup4 python-dateutil playwright", file=sys.stderr)
 
-# Disabilita gli avvisi di sicurezza per le richieste senza verifica SSL
+ # Disable security warnings for requests without SSL verification
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def headers_to_extvlcopt(headers):
-    """Funzione mantenuta per compatibilità, ma non più utilizzata attivamente."""
+    """Function kept for compatibility, but no longer actively used."""
     return []
 
 def search_m3u8_in_sites(channel_id, is_tennis=False, session=None):
-    """Genera direttamente l'URL di dlhd.dad per il channel_id fornito."""
+    """Directly generates the dlhd.dad URL for the provided channel_id."""
     return f"https://dlhd.dad/watch.php?id={channel_id}"
 
 def dlhd():
     """
-    Estrae canali 24/7 e eventi live da DaddyLive e li salva in un unico file M3U.
-    Rimuove automaticamente i canali duplicati.
+    Extracts 24/7 channels and live events from DaddyLive and saves them in a single M3U file.
+    Automatically removes duplicate channels.
     """
-    print("Eseguendo dlhd...")
+    print("Running dlhd...")
 
     JSON_FILE = "daddyliveSchedule.json"
     OUTPUT_FILE = "dlhd.m3u"
@@ -42,7 +42,7 @@ def dlhd():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
     }
 
-    # ========== FUNZIONI DI SUPPORTO ==========
+    # ========== SUPPORT FUNCTIONS ==========
     def clean_category_name(name):
         return re.sub(r'<[^>]+>', '', name).strip()
 
@@ -50,8 +50,8 @@ def dlhd():
         cleaned = re.sub(r'[^a-zA-Z0-9À-ÿ]', '', tvg_id)
         return cleaned.lower()
 
-    # ========== ESTRAZIONE CANALI 24/7 ==========
-    print("Estraendo canali 24/7 dalla pagina HTML...")
+    # ========== EXTRACTION OF 24/7 CHANNELS ==========
+    print("Extracting 24/7 channels from HTML page...")
     html_url = "https://dlhd.dad/24-7-channels.php"
     session = requests.Session()
 
@@ -59,23 +59,23 @@ def dlhd():
         response = requests.get(html_url, headers=HEADERS, timeout=15, verify=False)
         response.raise_for_status()
         
-        # Parsa l'HTML con BeautifulSoup
+        # Parse HTML with BeautifulSoup
         soup = BeautifulSoup(response.text, 'html.parser')
         cards = soup.find_all('a', class_='card')
         
-        print(f"Trovati {len(cards)} canali nella pagina HTML")
+        print(f"Found {len(cards)} channels in HTML page")
  
         channels_247 = []
  
         for card in cards:
-            # Estrae il nome del canale
+            # Extract channel name
             title_div = card.find('div', class_='card__title')
             if not title_div:
                 continue
             
             name = title_div.text.strip()
             
-            # Estrae l'ID del canale dall'href
+            # Extract channel ID from href
             href = card.get('href', '')
             if not ('id=' in href):
                 continue
@@ -85,49 +85,49 @@ def dlhd():
             if not name or not channel_id:
                 continue
 
-            # Applicazione delle correzioni come prima
+            # Apply corrections as before
             if name == "Sky Calcio 7 (257) Italy":
                 name = "DAZN"
             if channel_id == "853":
                 name = "Canale 5 Italy"
             
-            # Cerca lo stream .m3u8
+            # Search for .m3u8 stream
             stream_url = search_m3u8_in_sites(channel_id, is_tennis="tennis" in name.lower(), session=session)
             
-            if stream_url: # La funzione ora restituisce sempre un URL
+            if stream_url: # The function now always returns a URL
                 channels_247.append((name, stream_url))
 
-        # Conta le occorrenze di ogni nome di canale
+        # Count occurrences of each channel name
         name_counts = {}
         for name, _ in channels_247:
             name_counts[name] = name_counts.get(name, 0) + 1
  
-        # Aggiungi un contatore ai nomi duplicati
+        # Add a counter to duplicate names
         final_channels = []
         name_counter = {}
  
         for name, stream_url in channels_247:
             if name_counts[name] > 1:
                 if name not in name_counter:
-                    # Prima occorrenza di un duplicato, mantieni il nome originale
+                    # First occurrence of a duplicate, keep the original name
                     name_counter[name] = 1
                     final_channels.append((name, stream_url))
                 else:
-                    # Occorrenze successive, aggiungi contatore
+                    # Subsequent occurrences, add counter
                     name_counter[name] += 1
                     new_name = f"{name} ({name_counter[name]})"
                     final_channels.append((new_name, stream_url))
             else:
                 final_channels.append((name, stream_url))
 
-        print(f"Trovati {len(channels_247)} canali 24/7")
+        print(f"Found {len(channels_247)} 24/7 channels")
         channels_247 = final_channels
     except Exception as e:
-        print(f"Errore nell'estrazione dei canali 24/7: {e}")
+        print(f"Error extracting 24/7 channels: {e}")
         channels_247 = []
 
-    # ========== ESTRAZIONE EVENTI LIVE ==========
-    print("Estraendo eventi live...")
+    # ========== EXTRACTION OF LIVE EVENTS ==========
+    print("Extracting live events...")
     live_events = []
 
     if os.path.exists(JSON_FILE):
@@ -145,7 +145,7 @@ def dlhd():
                 try:
                     date_obj = parser.parse(date_part, fuzzy=True).date()
                 except Exception as e:
-                    print(f"Errore parsing data '{date_part}': {e}")
+                    print(f"Error parsing date '{date_part}': {e}")
                     continue
 
                 process_this_date = False
@@ -208,28 +208,28 @@ def dlhd():
             for category, channels in categorized_channels.items():
                 for ch in channels:
                     try: 
-                        # Cerca prima lo stream .m3u8
+                        # Search first for .m3u8 stream
                         stream = search_m3u8_in_sites(ch["channel_id"], is_tennis="tennis" in ch["channel_name"].lower(), session=session)                        
                         if stream:
                             live_events.append((f"{category} | {ch['tvg_name']}", stream))
                     except Exception as e:
-                        print(f"Errore su {ch['tvg_name']}: {e}")
+                        print(f"Error on {ch['tvg_name']}: {e}")
 
-            print(f"Trovati {len(live_events)} eventi live")
+            print(f"Found {len(live_events)} live events")
 
         except Exception as e:
-            print(f"Errore nell'estrazione degli eventi live: {e}")
+            print(f"Error extracting live events: {e}")
             live_events = []
     else:
-        print(f"File {JSON_FILE} non trovato, eventi live saltati")
+        print(f"File {JSON_FILE} not found, live events skipped")
 
-    # ========== GENERAZIONE FILE M3U UNIFICATO ==========
-    print("Generando file M3U unificato...")
+    # ========== GENERATION OF UNIFIED M3U FILE ==========
+    print("Generating unified M3U file...")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n\n")
 
-        # Aggiungi eventi live se presenti
+        # Add live events if present
         if live_events:
             f.write(f'#EXTINF:-1 group-title="Live Events",DADDYLIVE\n')
             f.write("https://example.com.m3u8\n\n")
@@ -238,22 +238,22 @@ def dlhd():
                 f.write(f'#EXTINF:-1 group-title="Live Events",{name}\n')
                 f.write(f'{url}\n\n')
 
-        # Aggiungi canali 24/7
+        # Add 24/7 channels
         if channels_247:
             for name, url in channels_247:
                 f.write(f'#EXTINF:-1 group-title="DLHD 24/7",{name}\n')
                 f.write(f'{url}\n\n')
 
     total_channels = len(channels_247) + len(live_events)
-    print(f"Creato file {OUTPUT_FILE} con {total_channels} canali totali:")
-    print(f"  - {len(channels_247)} canali 24/7")
-    print(f"  - {len(live_events)} eventi live")
+    print(f"Created file {OUTPUT_FILE} with {total_channels} total channels:")
+    print(f"  - {len(channels_247)} 24/7 channels")
+    print(f"  - {len(live_events)} live events")
 
-# Funzione per il quarto script (schedule_extractor.py)
+ # Function for the fourth script (schedule_extractor.py)
 def schedule_extractor():
-    # Codice del quarto script qui
-    # Aggiungi il codice del tuo script "schedule_extractor.py" in questa funzione.
-    print("Eseguendo lo schedule_extractor.py...")
+    # Code for the fourth script here
+    # Add the code of your "schedule_extractor.py" script in this function.
+    print("Running schedule_extractor.py...")
 
     def html_to_json(html_content):
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -261,7 +261,7 @@ def schedule_extractor():
 
         schedule_days = soup.find_all('div', class_='schedule__day')
         if not schedule_days:
-            print("AVVISO: Nessun 'schedule__day' trovato nel contenuto HTML!")
+            print("WARNING: No 'schedule__day' found in HTML content!")
             return {}
 
         for day_div in schedule_days:
@@ -276,9 +276,9 @@ def schedule_extractor():
                 if not cat_header:
                     continue
                 
-                # Usiamo l'HTML interno per mantenere eventuali tag, come in precedenza
+                # We use the inner HTML to keep any tags, as before
                 current_category_html = cat_header.find('div', class_='card__meta').decode_contents()
-                current_category = current_category_html.strip() + "</span>" # Mantiene la compatibilità con il formato precedente
+                current_category = current_category_html.strip() + "</span>" # Maintains compatibility with previous format
                 result[current_date][current_category] = []
 
                 for event_div in category_div.find_all('div', class_='schedule__event'):
@@ -331,7 +331,7 @@ def schedule_extractor():
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4)
         
-        print(f"File JSON modificato e salvato in {json_file_path}")
+        print(f"JSON file modified and saved in {json_file_path}")
     
     def extract_schedule_container():
         url = f"https://dlhd.dad/"
@@ -339,7 +339,7 @@ def schedule_extractor():
         script_dir = os.path.dirname(os.path.abspath(__file__))
         json_output = os.path.join(script_dir, "daddyliveSchedule.json")
 
-        print(f"Accesso alla pagina {url} per estrarre il contenitore della programmazione...")
+        print(f"Accessing page {url} to extract the schedule container...")
 
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
@@ -351,10 +351,10 @@ def schedule_extractor():
             max_attempts = 3
             for attempt in range(1, max_attempts + 1):
                 try:
-                    print(f"Tentativo {attempt} di {max_attempts}...")
+                    print(f"Attempt {attempt} of {max_attempts}...")
                     page.goto(url)
-                    print("Attesa per il caricamento completo...")
-                    page.wait_for_timeout(10000)  # 10 secondi
+                    print("Waiting for full page load...")
+                    page.wait_for_timeout(10000)  # 10 seconds
 
                     schedule_content = page.evaluate("""() => {
                         const container = document.querySelector('body');
@@ -362,33 +362,33 @@ def schedule_extractor():
                     }""")
 
                     if not schedule_content:
-                        print("AVVISO: Contenuto della pagina non trovato o vuoto!")
+                        print("WARNING: Page content not found or empty!")
                         if attempt == max_attempts:
                             browser.close()
                             return False
                         else:
                             continue
     
-                    print("Conversione HTML della programmazione principale in formato JSON...")
+                    print("Converting main schedule HTML to JSON format...")
                     json_data = html_to_json(schedule_content)
     
                     with open(json_output, "w", encoding="utf-8") as f:
                         json.dump(json_data, f, indent=4)
     
-                    print(f"Dati JSON salvati in {json_output}")
+                    print(f"JSON data saved in {json_output}")
     
                     modify_json_file(json_output)
                     browser.close()
                     return True
     
                 except Exception as e:
-                    print(f"ERRORE nel tentativo {attempt}: {str(e)}")
+                    print(f"ERROR in attempt {attempt}: {str(e)}")
                     if attempt == max_attempts:
-                        print("Tutti i tentativi falliti!")
+                        print("All attempts failed!")
                         browser.close()
                         return False
                     else:
-                        print(f"Riprovando... (tentativo {attempt + 1} di {max_attempts})")
+                        print(f"Retrying... (attempt {attempt + 1} of {max_attempts})")
     
             browser.close()
             return False
@@ -399,9 +399,9 @@ def schedule_extractor():
             exit(1)
 
 def vavoo_channels():
-    # Codice del settimo script qui
-    # Aggiungi il codice del tuo script "world_channels_generator.py" in questa funzione.
-    print("Eseguendo vavoo_channels...")
+    # Code for the seventh script here
+    # Add the code of your "world_channels_generator.py" script in this function.
+    print("Running vavoo_channels...")
     
     def getAuthSignature():
         headers = {
@@ -430,12 +430,12 @@ def vavoo_channels():
         return resp.json().get("signature")
     
     def vavoo_groups():
-        # Puoi aggiungere altri gruppi per più canali
+        # You can add more groups for more channels
         return [""]
     
     def clean_channel_name(name):
-        """Rimuove i suffissi .a, .b, .c dal nome del canale"""
-        # Rimuove .a, .b, .c alla fine del nome (con o senza spazi prima)
+        """Removes .a, .b, .c suffixes from the channel name"""
+        # Removes .a, .b, .c at the end of the name (with or without spaces before)
         cleaned_name = re.sub(r'\s*\.(a|b|c|s|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|t|u|v|w|x|y|z)\s*$', '', name, flags=re.IGNORECASE)
         return cleaned_name.strip()
     
@@ -474,22 +474,22 @@ def vavoo_channels():
         return all_channels
     
     def save_as_m3u(channels, filename="vavoo.m3u"):
-        # 1. Raccogli tutti i canali in una lista flat
+        # 1. Collect all channels into a flat list
         all_channels_flat = []
         for ch in channels:
-            original_name = ch.get("name", "SenzaNome")
+            original_name = ch.get("name", "NoName")
             name = clean_channel_name(original_name)
             url = ch.get("url", "")
-            category = ch.get("group", "Generale")
+            category = ch.get("group", "General")
             if url:
                 all_channels_flat.append({'name': name, 'url': url, 'category': category})
 
-        # 2. Conta le occorrenze di ogni nome
+        # 2. Count occurrences of each name
         name_counts = {}
         for ch_data in all_channels_flat:
             name_counts[ch_data['name']] = name_counts.get(ch_data['name'], 0) + 1
 
-        # 3. Rinomina i duplicati
+        # 3. Rename duplicates
         final_channels_data = []
         name_counter = {}
         for ch_data in all_channels_flat:
@@ -497,7 +497,7 @@ def vavoo_channels():
             if name_counts[name] > 1:
                 if name not in name_counter:
                     name_counter[name] = 1
-                    new_name = name  # Mantieni il nome originale per la prima occorrenza
+                    new_name = name  # Keep the original name for the first occurrence
                 else:
                     name_counter[name] += 1
                     new_name = f"{name} ({name_counter[name]})"
@@ -505,7 +505,7 @@ def vavoo_channels():
                 new_name = name
             final_channels_data.append({'name': new_name, 'url': ch_data['url'], 'category': ch_data['category']})
 
-        # 4. Raggruppa i canali per categoria per la scrittura del file
+        # 4. Group channels by category for file writing
         channels_by_category = {}
         for ch_data in final_channels_data:
             category = ch_data['category']
@@ -513,7 +513,7 @@ def vavoo_channels():
                 channels_by_category[category] = []
             channels_by_category[category].append((ch_data['name'], ch_data['url']))
 
-        # 5. Scrivi il file M3U
+        # 5. Write the M3U file
         with open(filename, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for category in sorted(channels_by_category.keys()):
@@ -522,14 +522,14 @@ def vavoo_channels():
                 for name, url in channel_list:
                     f.write(f'#EXTINF:-1 group-title="{category} VAVOO",{name}\n{url}\n')
 
-        print(f"Playlist M3U salvata in: {filename}")
-        print(f"Canali organizzati in {len(channels_by_category)} categorie:")
+        print(f"M3U playlist saved in: {filename}")
+        print(f"Channels organized in {len(channels_by_category)} categories:")
         for category, channel_list in channels_by_category.items():
-            print(f"  - {category}: {len(channel_list)} canali")
+            print(f"  - {category}: {len(channel_list)} channels")
     
     if __name__ == "__main__":
         channels = get_channels()
-        print(f"Trovati {len(channels)} canali. Creo la playlist M3U con i link proxy...")
+        print(f"Found {len(channels)} channels. Creating M3U playlist with proxy links...")
         save_as_m3u(channels) 
         
 def sportsonline():
@@ -538,77 +538,77 @@ def sportsonline():
     from bs4 import BeautifulSoup
     import datetime
     
-    # URL del file di programmazione
+    # URL of the schedule file
     PROG_URL = "https://sportsonline.sn/prog.txt"
-    OUTPUT_FILE = "sportsonline.m3u"  # Definito come costante
+    OUTPUT_FILE = "sportsonline.m3u"  # Defined as a constant
     
     def get_channel_languages(lines):
         """
-        Analizza le righe del file di programmazione per mappare i canali con le loro lingue.
-        Restituisce un dizionario con chiave=channel_id e valore=lingua (es. {'hd7': 'ITALIAN'}).
+        Analyzes the lines of the schedule file to map channels with their languages.
+        Returns a dictionary with key=channel_id and value=language (e.g. {'hd7': 'ITALIAN'}).
         """
         channel_language_map = {}
         for line in lines:
             line_stripped = line.strip()
-            # Cerca le righe che definiscono la lingua di un canale (formato: "HD7 ITALIAN")
+            # Look for lines that define the language of a channel (format: "HD7 ITALIAN")
             if line_stripped and not line_stripped.startswith(('http', '|', '#')) and ' ' in line_stripped:
                 parts = line_stripped.split(maxsplit=1)
                 if len(parts) == 2:
                     channel_id_raw = parts[0].strip()
                     language = parts[1].strip()
-                    # Verifica che il primo elemento sia un ID canale (es. HD7, BR1, ecc.)
+                    # Check that the first element is a channel ID (e.g. HD7, BR1, etc.)
                     if channel_id_raw and not any(day in channel_id_raw.upper() for day in 
                         ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]):
                         channel_id = channel_id_raw.lower()
                         channel_language_map[channel_id] = language
-                        print(f"[INFO] Trovato canale: {channel_id.upper()} - Lingua: {language}")
+                        print(f"[INFO] Found channel: {channel_id.upper()} - Language: {language}")
         return channel_language_map
     
     def extract_channel_from_url(url):
         """
-        Estrae l'identificativo del canale dall'URL.
-        Es: https://sportzonline.st/channels/hd/hd5.php -> hd5
+        Extracts the channel identifier from the URL.
+        Ex: https://sportzonline.st/channels/hd/hd5.php -> hd5
         """
         match = re.search(r'/([a-z0-9]+)\.php$', url, re.IGNORECASE)
         if match:
             return match.group(1).lower()
         return None
     
-    print("Eseguendo sportsonline...")
+    print("Running sportsonline...")
     
-    # --- Controllo del giorno della settimana ---
+    # --- Check the day of the week ---
     today_weekday = datetime.date.today().weekday()
     weekdays_english = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
     day_to_filter = weekdays_english[today_weekday]
-    print(f"Oggi è {day_to_filter}, verranno cercati solo gli eventi di oggi.")
+    print(f"Today is {day_to_filter}, only today's events will be searched.")
 
-    print(f"1. Scarico la programmazione da: {PROG_URL}")
+    print(f"1. Downloading schedule from: {PROG_URL}")
     try:
         response = requests.get(PROG_URL, timeout=10)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
-        print(f"[ERRORE FATALE] Impossibile scaricare il file di programmazione: {e}")
+        print(f"[FATAL ERROR] Unable to download the schedule file: {e}")
         return
 
     lines = response.text.splitlines()
 
-    print("\n2. Mappo i canali con le rispettive lingue...")
+    print("\n2. Mapping channels with their respective languages...")
     channel_language_map = get_channel_languages(lines)
 
     if not channel_language_map:
-        print("[ATTENZIONE] Nessun canale con lingua trovato nella programmazione.")
+        print("[WARNING] No channel with language found in the schedule.")
         return
 
     playlist_entries = []
 
-    print("\n3. Cerco gli Eventi trasmessi...")
+    print("\n3. Searching for broadcasted Events...")
 
     processing_today_events = False
 
     for line in lines:
         line_upper = line.upper().strip()
 
-        # Controlliamo se la riga è un'intestazione di un giorno della settimana
+        # Check if the line is a weekday header
         if line_upper in weekdays_english:
             if line_upper == day_to_filter:
                 processing_today_events = True
@@ -616,7 +616,7 @@ def sportsonline():
                 processing_today_events = False
             continue
 
-        # Processiamo la riga solo se siamo nella sezione del giorno giusto
+        # Process the line only if we are in the correct day's section
         if not processing_today_events:
             continue
 
@@ -630,19 +630,19 @@ def sportsonline():
         event_info = parts[0].strip()
         page_url = parts[1].strip()
 
-        # Estrae il canale dall'URL
+        # Extract the channel from the URL
         channel_id = extract_channel_from_url(page_url)
         
         if channel_id and channel_id in channel_language_map:
             language = channel_language_map[channel_id]
-            print(f"\n[EVENTO] Trovato evento: '{event_info}' - Canale: {channel_id.upper()} - Lingua: {language}")
+            print(f"\n[EVENT] Found event: '{event_info}' - Channel: {channel_id.upper()} - Language: {language}")
             
-            # Riformattiamo il nome dell'evento: Nome Evento Orario [LINGUA]
+            # Reformat the event name: Event Name Time [LANGUAGE]
             event_parts = event_info.split(maxsplit=1)
             if len(event_parts) == 2:
                 time_str_original, name_only = event_parts
                 
-                # Aggiungi 1 ora all'orario
+                # Add 1 hour to the time
                 try:
                     original_time = datetime.datetime.strptime(time_str_original.strip(), '%H:%M')
                     new_time = original_time + datetime.timedelta(hours=1)
@@ -661,50 +661,50 @@ def sportsonline():
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
             })
     
-    # Creazione canale fallback se non ci sono eventi
+    # Create fallback channel if there are no events
     if not playlist_entries:
-        print("\n[INFO] Nessun evento trovato oggi.")
-        print("[INFO] Creo un canale fallback 'NESSUN EVENTO'...")
+        print("\n[INFO] No events found today.")
+        print("[INFO] Creating fallback channel 'NO EVENT'...")
         playlist_entries.append({
-            "name": "NESSUN EVENTO", 
+            "name": "NO EVENT", 
             "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
             "referrer": "https://sportsonline.sn/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         })
 
-    # 4. Creazione del file M3U
-    print(f"\n4. Scrivo la playlist nel file: {OUTPUT_FILE}")
+    # 4. Create the M3U file
+    print(f"\n4. Writing playlist to file: {OUTPUT_FILE}")
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for entry in playlist_entries:
             f.write(f'#EXTINF:-1 group-title="Live Events SPORTSONLINE",{entry["name"]}\n')
             f.write(f'{entry["url"]}\n')
 
-    print(f"\n[COMPLETATO] Playlist creata con successo! Apri il file '{OUTPUT_FILE}' con un player come VLC.")
+    print(f"\n[COMPLETED] Playlist created successfully! Open the file '{OUTPUT_FILE}' with a player like VLC.")
 
 def main():
     try:
         try:
             schedule_extractor()
         except Exception as e:
-            print(f"Errore durante l'esecuzione di schedule_extractor: {e}")
+            print(f"Error during execution of schedule_extractor: {e}")
             return
         try:
             vavoo_channels()
         except Exception as e:
-            print(f"Errore durante l'esecuzione di vavoo_channels: {e}")
+            print(f"Error during execution of vavoo_channels: {e}")
             return
         try:
             dlhd()
         except Exception as e:
-            print(f"Errore durante l'esecuzione di dlhd: {e}")
+            print(f"Error during execution of dlhd: {e}")
             return
         try:
             sportsonline()
         except Exception as e:
-            print(f"Errore durante l'esecuzione di sportsonline: {e}")
+            print(f"Error during execution of sportsonline: {e}")
             return
-        print("Tutti gli script sono stati eseguiti correttamente!")
+        print("All scripts executed successfully!")
     finally:
         pass
 
