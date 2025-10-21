@@ -1,29 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Melbourne City x Buriram United 09:45 [ENGLISH]
-https://sportzonline.live/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Chengdu Rongcheng x Johor Darul Ta'zim 12:00 [ENGLISH]
-https://sportzonline.live/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Arsenal FC U19 x AtlÃ©tico Madrid U19 14:00 [ENGLISH]
-https://sportzonline.live/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Ahal x Sepahan 15:45 [ENGLISH]
-https://sportzonline.live/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona x Olympiakos Piraeus 18:45 [ENGLISH]
-https://sportzonline.live/channels/hd/hd1.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona x Olympiakos Piraeus 18:45 [DUTCH & FRENCH]
-https://sportzonline.live/channels/hd/hd4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona x Olympiakos Piraeus 18:45 [TURKISH & ENGLISH]
-https://sportzonline.live/channels/hd/hd11.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona x Olympiakos Piraeus 18:45 [SPANISH]
-https://sportzonline.live/channels/hd/hd6.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona x Olympiakos Piraeus 18:45 [GERMAN]
-https://sportzonline.live/channels/hd/hd3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Barcelona x Olympiakos Piraeus 18:45 [BRAZILIAN]
-https://sportzonline.live/channels/bra/br3.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kairat x Paphos 18:45 [ENGLISH]
-https://sportzonline.live/channels/hd/hd5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Kairat x Paphos 18:45 [BRAZILIAN]
-https://sportzonline.live/channels/bra/br4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Arsenal x AtlÃ©tico Madrid 21:00 [TURKISH & ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Arsenal x AtlÃ©tico Madrid 21:00 [SPANISH]
 https://sportzonline.live/channels/hd/hd11.php
 #EXTINF:-1 group-title="Live Events SPORTSONLINE",Arsenal x AtlÃ©tico Madrid 21:00 [SPANISH]
 https://sportzonline.live/channels/hd/hd6.php
@@ -31,11 +7,11 @@ https://sportzonline.live/channels/hd/hd6.php
 https://sportzonline.live/channels/hd/hd1.php
 #EXTINF:-1 group-title="Live Events SPORTSONLINE",Villarreal x Manchester City 21:00 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br4.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayer Leverkusen x PSG 21:00 [GERMAN]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayer Leverkusen x PSG 21:00 [DUTCH & GERMAN]
 https://sportzonline.live/channels/hd/hd9.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayer Leverkusen x PSG 21:00 [ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayer Leverkusen x PSG 21:00 [FRENCH]
 https://sportzonline.live/channels/hd/hd10.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayer Leverkusen x PSG 21:00 [DUTCH & FRENCH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayer Leverkusen x PSG 21:00 [FRENCH]
 https://sportzonline.live/channels/hd/hd4.php
 #EXTINF:-1 group-title="Live Events SPORTSONLINE",Bayer Leverkusen x PSG 21:00 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br5.php
@@ -63,11 +39,11 @@ https://sportzonline.live/channels/hd/hd5.php
 https://sportzonline.live/channels/hd/hd6.php
 #EXTINF:-1 group-title="Live Events SPORTSONLINE",Independiente del Valle x AtlÃ©tico Mineiro 02:30 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br2.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",AmÃ©rica x Puebla 03:00 [TURKISH & ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",AmÃ©rica x Puebla 03:00 [SPANISH]
 https://sportzonline.live/channels/hd/hd11.php
 #EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Golden State Warriors @ Los Angeles Lakers 04:00 [ENGLISH]
 https://sportzonline.live/channels/hd/hd2.php
 #EXTINF:-1 group-title="Live Events SPORTSONLINE",NBA: Golden State Warriors @ Los Angeles Lakers 04:00 [BRAZILIAN]
 https://sportzonline.live/channels/bra/br5.php
-#EXTINF:-1 group-title="Live Events SPORTSONLINE",MazatlÃ¡n x Santos Laguna 05:00 [TURKISH & ENGLISH]
+#EXTINF:-1 group-title="Live Events SPORTSONLINE",MazatlÃ¡n x Santos Laguna 05:00 [SPANISH]
 https://sportzonline.live/channels/hd/hd11.php
