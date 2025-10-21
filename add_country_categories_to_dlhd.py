@@ -58,6 +58,10 @@ def organize_m3u_by_country(input_path, output_path):
     logging.info(f"Number of countries found: {len(organized)}")
     logging.info(f"Total DLHD 24/7 channels processed: {total_processed}")
 
+    if total_processed == 0:
+        logging.info("No DLHD 24/7 channels found. No changes made to the output file.")
+        return
+
     # Write output sorted by country
     logging.info(f"Writing grouped entries to output file: {output_path}")
     with open(output_path, "w", encoding="utf-8") as outfile:
