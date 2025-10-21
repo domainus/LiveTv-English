@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(me
 
 EPG_FILE = "epg.xml"
 M3U_FILE = "dlhd.m3u"
-OUTPUT_FILE = "dlhd.m3u"
+OUTPUT_FILE = "dlhd_match_to_epg_test.m3u"
 
 def parse_epg(epg_path):
     """Parse EPG XML and return a dict of display-name -> id"""
@@ -43,9 +43,10 @@ def match_channel_name(epg_mapping, line):
 def main():
     epg_mapping = parse_epg(EPG_FILE)
 
-    with open(M3U_FILE, "r", encoding="utf-8") as infile, \
-         open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
+    tvg_id_added_count = 0
+    lines = []
 
+    with open(M3U_FILE, "r", encoding="utf-8") as infile:
         for line_number, line in enumerate(infile, 1):
             if line.startswith("#EXTINF"):
                 logging.debug(f"Processing line {line_number}: {line.strip()}")
@@ -59,9 +60,18 @@ def main():
                             rf'\1 tvg-id="{tvg_id}"',
                             line
                         )
+                        tvg_id_added_count += 1
                         logging.info(f"Added tvg-id '{tvg_id}' on line {line_number}.")
                     else:
                         logging.info(f"No matching tvg-id found for channel on line {line_number}.")
+            lines.append(line)
+
+    if tvg_id_added_count == 0:
+        logging.info("No tvg-id entries were added. Output file will not be created or overwritten.")
+        return
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
+        for line in lines:
             outfile.write(line)
 
     logging.info(f"✅ Updated playlist written to {OUTPUT_FILE}")
