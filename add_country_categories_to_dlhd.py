@@ -7,8 +7,8 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-INPUT_FILE = "dlhd.m3u"
-OUTPUT_FILE = "dlhd_test.m3u"
+INPUT_FILE = "dlhd_match_to_epg.m3u"
+OUTPUT_FILE = "dlhd_with_country_categories.m3u"
 
 def extract_country(line):
     """

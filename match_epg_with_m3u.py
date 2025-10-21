@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(me
 
 EPG_FILE = "epg.xml"
 M3U_FILE = "dlhd.m3u"
-OUTPUT_FILE = "dlhd_match_to_epg_test.m3u"
+OUTPUT_FILE = "dlhd_match_to_epg.m3u"
 
 # Prevent accidental overwrite of the source playlist
 if os.path.abspath(M3U_FILE) == os.path.abspath(OUTPUT_FILE):
