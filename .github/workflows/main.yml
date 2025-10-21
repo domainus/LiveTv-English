@@ -26,6 +26,7 @@ jobs:
       - name: Run Compiled Script
         run: |
           python m3u.py
+          python json_to_epg.py
       
       - name: Configure Git
         run: |
