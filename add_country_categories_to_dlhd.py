@@ -311,14 +311,14 @@ def organize_m3u_by_country(input_path, output_path):
 
     for line in lines:
         if line.startswith("#EXTINF"):
-            # Process only entries with DLHD 24/7 anywhere in group-title
-            if 'DLHD 24/7' in line:
+            # Process entries with DLHD 24/7 or Live Event(s) in group-title
+            if 'DLHD 24/7' in line or re.search(r'group-title="Live Events?"', line, re.IGNORECASE):
                 current_extinf = line.strip()
                 current_country = extract_country(line)
                 logging.debug(f"Processing channel '{line.strip()}' detected as {current_country}")
             else:
-                logging.debug(f"Skipping non-DLHD 24/7 entry: {line.strip()}")
-                current_extinf = None  # skip non-DLHD 24/7 entries
+                logging.debug(f"Skipping non-DLHD 24/7/Live Event entry: {line.strip()}")
+                current_extinf = None  # skip non-DLHD 24/7/Live Event entries
         elif line.strip() and not line.startswith("#"):
             # Found a stream URL
             if current_extinf:
@@ -326,10 +326,10 @@ def organize_m3u_by_country(input_path, output_path):
                 total_processed += 1
 
     logging.info(f"Number of countries found: {len(organized)}")
-    logging.info(f"Total DLHD 24/7 channels processed: {total_processed}")
+    logging.info(f"Total DLHD 24/7/Live Event channels processed: {total_processed}")
 
     if total_processed == 0:
-        logging.info("No DLHD 24/7 channels found. No changes made to the output file.")
+        logging.info("No DLHD 24/7 or Live Event channels found. No changes made to the output file.")
         return
 
     # Write output sorted by country
@@ -340,7 +340,7 @@ def organize_m3u_by_country(input_path, output_path):
             for entry in organized[country]:
                 extinf, url = entry
                 # Preserve existing Live Event group-titles
-                if re.search(r'group-title="Live Events"', extinf, re.IGNORECASE):
+                if re.search(r'group-title="Live Events?"', extinf, re.IGNORECASE):
                     new_extinf = extinf
                 else:
                     new_extinf = re.sub(
@@ -351,7 +351,7 @@ def organize_m3u_by_country(input_path, output_path):
                 outfile.write(new_extinf + "\n")
                 outfile.write(url + "\n\n")
 
-    logging.info(f"✅ Filtered and organized DLHD 24/7 channels written to {output_path}")
+    logging.info(f"✅ Filtered and organized DLHD 24/7 and Live Event channels written to {output_path}")
 
 if __name__ == "__main__":
     organize_m3u_by_country(INPUT_FILE, OUTPUT_FILE)
