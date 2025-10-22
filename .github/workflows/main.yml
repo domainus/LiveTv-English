@@ -31,9 +31,9 @@ jobs:
         run: |
           python json_to_epg.py
         
-      - name: Add Logos to EPG
+      - name: Add Logos to M3u
         run: |
-          python add_logos_to_epg.py
+          python add_logos_to_dlhd_m3u.py
 
       - name: Match EPG with m3u
         run: |
