@@ -2923,7 +2923,7 @@
             }
         ]
     },
-    "Tuesday 21st October 2025": {},
+    "Wednesday 22nd October 2025": {},
     "Monday 20th October 2025 - Schedule Time UK GMT": {
         "Soccer</span>": [
             {
@@ -4371,7 +4371,39 @@
         ]
     },
     "Wednesday, October 22, 2025": {
+        "Fight</span>": [
+            {
+                "time": "08:00",
+                "event": "WWE: NXT",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "MMA: UAE WARRIORS 64",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "UAE Warriors 64 Magomedov vs Mezhulmyan",
+                "channels": []
+            }
+        ],
         "Hockey</span>": [
+            {
+                "time": "08:00",
+                "event": "Dallas Stars vs Columbus Blue Jackets",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Nashville Predators vs Anaheim Ducks",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "St. Louis Blues vs Los Angeles Kings",
+                "channels": []
+            },
             {
                 "time": "07:30",
                 "event": "Boston Bruins vs Florida Panthers",
@@ -4403,28 +4435,13 @@
                 "channels": []
             },
             {
-                "time": "08:00",
-                "event": "Dallas Stars vs Columbus Blue Jackets",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Nashville Predators vs Anaheim Ducks",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "St. Louis Blues vs Los Angeles Kings",
-                "channels": []
-            },
-            {
                 "time": "10:00",
                 "event": "Utah Mammoth vs Colorado Avalanche",
                 "channels": []
             },
             {
                 "time": "23:00",
-                "event": "Lada vs Dinamo Minsk",
+                "event": "HC Lada Togliatti vs Dinamo Minsk",
                 "channels": []
             }
         ],
@@ -4441,7 +4458,7 @@
             },
             {
                 "time": "16:30",
-                "event": "Cairns Taipans vs Perth",
+                "event": "Cairns Taipans vs Perth Wildcats",
                 "channels": []
             }
         ],
@@ -4477,12 +4494,7 @@
             },
             {
                 "time": "09:00",
-                "event": "CF America vs Puebla",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Deportivo Pereira vs Envigado FC",
+                "event": "Deportivo Pereira vs Envigado",
                 "channels": []
             },
             {
@@ -4491,33 +4503,28 @@
                 "channels": []
             },
             {
+                "time": "09:00",
+                "event": "CF America vs Puebla",
+                "channels": []
+            },
+            {
                 "time": "10:00",
-                "event": "CS Cartagines vs CD Motagua",
+                "event": "Cartagines vs Motagua",
                 "channels": []
             },
             {
                 "time": "11:00",
-                "event": "Mazatlan FC vs Santos Laguna",
+                "event": "Mazatlan FC vs Santos",
                 "channels": []
             },
             {
                 "time": "11:05",
-                "event": "Monterrey vs Juarez",
+                "event": "Monterrey vs FC Juarez",
                 "channels": []
             },
             {
                 "time": "18:00",
-                "event": "Galatasaray U19 vs Bod\u00f8 / Glimt U19",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Athletic Club U19 vs Qarabag U19",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Gamba Osaka vs Nam Dinh",
+                "event": "Gamba Osaka vs Nam \u0110\u1ecbnh",
                 "channels": []
             },
             {
@@ -4526,33 +4533,8 @@
                 "channels": []
             },
             {
-                "time": "20:00",
-                "event": "Monaco Youth vs Tottenham Hotspur Youth",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "Atalanta U19 vs Slavia Praha U19",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "Monaco U19 vs Tottenham U19",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "Chelsea U19 vs Ajax U19",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "Eintracht Frankfurt U19 vs Liverpool U19",
-                "channels": []
-            },
-            {
                 "time": "20:15",
-                "event": "Ratchaburi FC vs Eastern SC",
+                "event": "Ratchaburi vs Eastern SC",
                 "channels": []
             },
             {
@@ -4562,12 +4544,7 @@
             },
             {
                 "time": "21:00",
-                "event": "Sporting CP U19 vs Olympique Marseille U19",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Spain (W) U17 vs South Korea (W) U17",
+                "event": "Spain U17 W vs South Korea U17 W",
                 "channels": []
             },
             {
@@ -4577,39 +4554,12 @@
             },
             {
                 "time": "21:45",
-                "event": "Goa vs Al Nassr FC Riyadh",
+                "event": "Goa vs Al-Nassr",
                 "channels": []
             },
             {
                 "time": "21:45",
-                "event": "Istiklol Dushanbe vs Al Zawraa Baghdad",
-                "channels": []
-            },
-            {
-                "time": "22:00",
-                "event": "Real Madrid U19 vs Juventus U19",
-                "channels": []
-            },
-            {
-                "time": "22:00",
-                "event": "Bayern M\u00fcnchen U19 vs Club Brugge U19",
-                "channels": []
-            }
-        ],
-        "Fight</span>": [
-            {
-                "time": "08:00",
-                "event": "WWE: NXT",
-                "channels": []
-            },
-            {
-                "time": "23:00",
-                "event": "MMA: UAE WARRIORS 64",
-                "channels": []
-            },
-            {
-                "time": "23:00",
-                "event": "UAE Warriors 64 Magomedov vs Mezhulmyan",
+                "event": "Istiklol Dushanbe vs Al-Zawraa",
                 "channels": []
             }
         ],
@@ -4620,13 +4570,13 @@
                 "channels": []
             },
             {
-                "time": "08:55",
-                "event": "Andre Ilagan vs Brandon Holt",
+                "time": "09:30",
+                "event": "WTA 500: Toray Pan Pacific Open",
                 "channels": []
             },
             {
-                "time": "09:30",
-                "event": "WTA 500: Toray Pan Pacific Open",
+                "time": "09:40",
+                "event": "Ilagan Andre vs Holt Brandon",
                 "channels": []
             },
             {
@@ -4677,168 +4627,8 @@
             }
         ]
     },
-    "Tuesday 21st October 2025 - Extra Schedule Time UK": {
+    "Wednesday 22nd October 2025 - Extra Schedule Time UK": {
         "All matches</span>": [
-            {
-                "time": "18:56",
-                "event": "Irina Balus\u00b7Jessica Failla",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8849138",
-                        "channel_id": "8849138"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Spartak Subotica\u00b7Gran Canaria",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8724512",
-                        "channel_id": "8724512"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Le Mans\u00b7Benfica",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8724514",
-                        "channel_id": "8724514"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Den Bosch\u00b7Helmond",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756420",
-                        "channel_id": "8756420"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Maastricht\u00b7Vitesse Arnhem",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756421",
-                        "channel_id": "8756421"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "TOP Oss\u00b7Jong Ajax Amsterdam",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756422",
-                        "channel_id": "8756422"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Venlo\u00b7Jong Utrecht",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756423",
-                        "channel_id": "8756423"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Hapoel Jerusalem\u00b7Slask Wroclaw",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756424",
-                        "channel_id": "8756424"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "GCK Lions\u00b7EHC Basel",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756425",
-                        "channel_id": "8756425"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Sierre\u00b7EHC Arosa",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756426",
-                        "channel_id": "8756426"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "EHC Winterthur\u00b7EHC Chur Capricorns",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8756427",
-                        "channel_id": "8756427"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "A.Pavlasek/J.Zielinski\u00b7S.Bolelli/A.Vavassori",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8834802",
-                        "channel_id": "8834802"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Chris Wakelin\u00b7Tom Ford",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8843320",
-                        "channel_id": "8843320"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Judd Trump\u00b7Jackson Page",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8843322",
-                        "channel_id": "8843322"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Zurich Wildcats\u00b7Basel",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8846523",
-                        "channel_id": "8846523"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Long Zehuang\u00b7Yuan Sijun",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8846824",
-                        "channel_id": "8846824"
-                    }
-                ]
-            },
             {
                 "time": "19:05",
                 "event": "Moez Echargui\u00b7Arthur Bouquier",
@@ -5820,26 +5610,6 @@
                 ]
             },
             {
-                "time": "00:56",
-                "event": "Federico Bondioli\u00b7Giorgio Tabacco",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8842273",
-                        "channel_id": "8842273"
-                    }
-                ]
-            },
-            {
-                "time": "00:57",
-                "event": "Giulia Alessia Monteleone\u00b7Maria Camila Romero Vargas",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8849142",
-                        "channel_id": "8849142"
-                    }
-                ]
-            },
-            {
                 "time": "01:00",
                 "event": "St. Louis Blues\u00b7Los Angeles Kings",
                 "channels": [
@@ -5880,7 +5650,37 @@
                 ]
             },
             {
-                "time": "01:10",
+                "time": "01:05",
+                "event": "Federico Bondioli\u00b7Giorgio Tabacco",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8842273",
+                        "channel_id": "8842273"
+                    }
+                ]
+            },
+            {
+                "time": "01:06",
+                "event": "Giulia Alessia Monteleone\u00b7Maria Camila Romero Vargas",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8849142",
+                        "channel_id": "8849142"
+                    }
+                ]
+            },
+            {
+                "time": "01:07",
+                "event": "Diletta Cherubini\u00b7Martina Trevisan",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8842880",
+                        "channel_id": "8842880"
+                    }
+                ]
+            },
+            {
+                "time": "01:20",
                 "event": "Rafael Jodar\u00b7Saba Purtseladze",
                 "channels": [
                     {
@@ -5896,16 +5696,6 @@
                     {
                         "channel_name": "Extra Stream CH-8686988",
                         "channel_id": "8686988"
-                    }
-                ]
-            },
-            {
-                "time": "01:50",
-                "event": "Diletta Cherubini\u00b7Martina Trevisan",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8842880",
-                        "channel_id": "8842880"
                     }
                 ]
             },
@@ -7151,6 +6941,16 @@
             },
             {
                 "time": "13:00",
+                "event": "A.Merino/C.Negritu\u00b7I.Marrero Curbelo/D.Poljak",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8836598",
+                        "channel_id": "8836598"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
                 "event": "Casper Ruud\u00b7Quentin Halys",
                 "channels": [
                     {
@@ -7176,6 +6976,16 @@
                     {
                         "channel_name": "Extra Stream CH-8460902",
                         "channel_id": "8460902"
+                    }
+                ]
+            },
+            {
+                "time": "13:20",
+                "event": "R.Bopanna/B.Shelton\u00b7H.Nys/E.R.Vasselin",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8834804",
+                        "channel_id": "8834804"
                     }
                 ]
             },
@@ -7316,6 +7126,16 @@
                     {
                         "channel_name": "Extra Stream CH-8826919",
                         "channel_id": "8826919"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "C.Harrison/E.King\u00b7P.Nouza/P.Rikl",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8842219",
+                        "channel_id": "8842219"
                     }
                 ]
             },
