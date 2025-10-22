@@ -7993,6 +7993,26 @@
     "Wednesday, October 22, 2025": {
         "Tennis</span>": [
             {
+                "time": "09:40",
+                "event": "Center Court: McCartney Kessler vs Linda Noskova",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Ilagan Andre vs Holt Brandon",
+                "channels": []
+            },
+            {
+                "time": "09:38",
+                "event": "Duje Markovina - Carl Emil Overbeck",
+                "channels": []
+            },
+            {
+                "time": "09:35",
+                "event": "Laquisa Khan - Tori Russell",
+                "channels": []
+            },
+            {
                 "time": "09:30",
                 "event": "Tennis WTA Tokyo",
                 "channels": []
@@ -8013,6 +8033,16 @@
                 "channels": []
             },
             {
+                "time": "09:18",
+                "event": "Sarah Rokusek - Katie Swan",
+                "channels": []
+            },
+            {
+                "time": "08:37",
+                "event": "Benjamin O'Connell - Christian Langmo",
+                "channels": []
+            },
+            {
                 "time": "08:10",
                 "event": "Pinnington Jones Jack vs Hijikata Rinky",
                 "channels": []
@@ -8030,16 +8060,6 @@
             {
                 "time": "08:00",
                 "event": "Diletta Cherubini - Martina Trevisan",
-                "channels": []
-            },
-            {
-                "time": "09:40",
-                "event": "Center Court: McCartney Kessler vs Linda Noskova",
-                "channels": []
-            },
-            {
-                "time": "09:40",
-                "event": "Ilagan Andre vs Holt Brandon",
                 "channels": []
             },
             {
@@ -8064,7 +8084,27 @@
             },
             {
                 "time": "13:00",
+                "event": "Guangzhou Court 2: Kristina Mladenovic/Leolia Jeanjean vs Katarzyna Piter/Janice Tjen",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Guangzhou Center Court: Camila Osorio vs Ann Li",
+                "channels": []
+            },
+            {
+                "time": "13:00",
                 "event": "Show Court: Miyu Kato/Makoto Ninomiya vs Gabriela Dabrowski/Sofia Kenin",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Guangzhou Court 2: Emily Appleton/Qianhui Tang vs Alexandra Eala/Nadiia Kichenok",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Guangzhou Center Court: Lulu Sun vs Wang Yafan",
                 "channels": []
             },
             {
@@ -8074,7 +8114,22 @@
             },
             {
                 "time": "16:00",
+                "event": "Guangzhou Center Court: Wang Xiyu vs Elisabetta Cocciaretto",
+                "channels": []
+            },
+            {
+                "time": "16:00",
                 "event": "Center Court: Maya Joint vs Karolina Muchova",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Guangzhou Court 2: Quinn Gleason/Elena Pridankina vs Camila Osorio/Yafan Wang",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Guangzhou Center Court: Zhang Shuai vs Veronika Erjavec",
                 "channels": []
             },
             {
