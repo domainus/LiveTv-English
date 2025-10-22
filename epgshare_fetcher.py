@@ -1,11 +1,8 @@
-
-
 import os
 import requests
 import gzip
 import shutil
 import logging
-import subprocess
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
@@ -36,22 +33,14 @@ def download_and_extract_epg():
     os.remove(file_name_gz)
     logging.info(f"Removed compressed file: {file_name_gz}")
 
+    logging.info(f"EPG extracted successfully to {file_name_xml}")
     return file_name_xml
-
-def commit_and_push(file_path):
-    """Commit and push the extracted XML to GitHub."""
-    logging.info("Committing and pushing updated EPG file to GitHub...")
-
-    subprocess.run(["git", "add", file_path], check=True)
-    subprocess.run(["git", "commit", "-m", f"Update EPG file: {os.path.basename(file_path)}"], check=True)
-    subprocess.run(["git", "push"], check=True)
-
-    logging.info("EPG file committed and pushed successfully.")
 
 def main():
     try:
         xml_file = download_and_extract_epg()
-        commit_and_push(xml_file)
+        # Output the XML path for GitHub Actions
+        print(f"::set-output name=epg_file::{xml_file}")
     except Exception as e:
         logging.error(f"Error: {e}")
         exit(1)
