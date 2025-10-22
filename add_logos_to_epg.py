@@ -31,68 +31,73 @@ def save_cache(cache):
     except Exception as e:
         logging.warning(f"Failed to save cache file: {e}")
 
+import difflib
+import re
+
+def normalize_name(name: str) -> str:
+    name = name.lower()
+    name = re.sub(r'[\s_\-]+', '', name)
+    name = name.replace('&', 'and').replace('+', 'plus')
+    name = name.replace('hd', '').replace('fhd', '').replace('uhd', '')
+    name = re.sub(r'\b(tv|channel|network|sports?|extra|international|premium|the)\b', '', name)
+    return name.strip()
+
 def find_logo(channel_id, channel_name, cache):
     """
-    Try to find a logo for a given channel ID.
-    Search across all country subdirectories under the base URL.
-    Use cache to avoid repeated network requests.
+    Find a logo in ./tv recursively using intelligent name matching.
+    Uses normalized comparisons, substring checks, and fuzzy similarity scoring before falling back.
     """
+    base_dir = "./tv"
     logo_filename = f"{channel_id}.png"
 
     # Check cache first
     if channel_id in cache:
-        cached_entry = cache[channel_id]
-        cached_url = cached_entry.get("url")
-        if cached_url:
-            logging.info(f"Using cached logo URL for {channel_id}: {cached_url}")
-            return cached_url
+        cached = cache[channel_id]
+        path = cached.get("url")
+        if path and os.path.exists(path.replace("file://", "")):
+            return path
 
-    # Get list of countries by scraping the GitHub directory listing
-    countries_url = LOGO_BASE_URL
-    try:
-        response = requests.get("https://api.github.com/repos/tv-logo/tv-logos/contents/countries")
-        if response.status_code == 200:
-            countries = [entry['name'] for entry in response.json() if entry['type'] == 'dir']
-        else:
-            logging.warning(f"Failed to fetch countries list, status code: {response.status_code}")
-            countries = []
-    except Exception as e:
-        logging.error(f"Exception occurred while fetching countries: {e}")
-        countries = []
+    # Build index of available logos
+    available = []
+    for root, _, files in os.walk(base_dir):
+        for f in files:
+            if f.endswith(".png"):
+                available.append((f, os.path.join(root, f)))
 
-    # Try each country URL to find the logo
-    for country in countries:
-        logo_url = f"{LOGO_BASE_URL}{country}/{logo_filename}"
-        # Check if the logo exists (HEAD request)
-        try:
-            head_resp = requests.head(logo_url)
-            if head_resp.status_code == 200:
-                logging.info(f"Logo found at {logo_url}")
-                # Save logo locally under ./tv/logos/{country}
-                os.makedirs(f"./tv/logos/{country}", exist_ok=True)
-                logo_path = f"./tv/logos/{country}/{logo_filename}"
-                try:
-                    img_resp = requests.get(logo_url, timeout=10)
-                    if img_resp.status_code == 200:
-                        with open(logo_path, "wb") as f:
-                            f.write(img_resp.content)
-                        logging.info(f"Saved logo to {logo_path}")
-                    else:
-                        logging.warning(f"Failed to download logo for {channel_id} ({country}): {img_resp.status_code}")
-                except Exception as e:
-                    logging.warning(f"Error saving logo for {channel_id} ({country}): {e}")
-                # Save to cache and return
-                cache[channel_id] = {"name": channel_name, "url": logo_url, "fallback": False}
-                return logo_url
-        except Exception as e:
-            logging.warning(f"Exception during HEAD request to {logo_url}: {e}")
-            continue
+    id_norm = normalize_name(channel_id)
+    name_norm = normalize_name(channel_name)
 
-    # If not found, return the logo URL in the 'us' directory as fallback
-    fallback_url = f"{LOGO_BASE_URL}us/{logo_filename}"
-    logging.info(f"Logo not found in other countries, using fallback: {fallback_url}")
-    cache[channel_id] = {"name": channel_name, "url": fallback_url, "fallback": True}
-    return fallback_url
+    # 1️⃣ Exact filename match
+    for f, path in available:
+        if normalize_name(os.path.splitext(f)[0]) == id_norm:
+            return f"file://{os.path.abspath(path)}"
+
+    # 2️⃣ Partial substring match
+    for f, path in available:
+        fnorm = normalize_name(os.path.splitext(f)[0])
+        if id_norm in fnorm or name_norm in fnorm:
+            return f"file://{os.path.abspath(path)}"
+
+    # 3️⃣ Fuzzy similarity (difflib)
+    candidates = {normalize_name(os.path.splitext(f)[0]): path for f, path in available}
+    best_match = None
+    best_ratio = 0
+    for fnorm, path in candidates.items():
+        ratio = difflib.SequenceMatcher(None, id_norm or name_norm, fnorm).ratio()
+        if ratio > best_ratio:
+            best_match, best_ratio = path, ratio
+
+    if best_match and best_ratio >= 0.7:
+        return f"file://{os.path.abspath(best_match)}"
+
+    # 4️⃣ Fallback logo
+    misc_fallback = "./tv/logos/misc/circle1-247.png"
+    if os.path.exists(misc_fallback):
+        logging.warning(f"No suitable match found for {channel_id}, using backup logo.")
+        logo_url = f"file://{os.path.abspath(misc_fallback)}"
+    else:
+        logo_url = ""
+    return logo_url
 
 
 def main():
