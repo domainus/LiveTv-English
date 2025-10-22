@@ -42,6 +42,12 @@ def normalize_name(name: str) -> str:
     name = re.sub(r'\b(tv|channel|network|sports?|extra|international|premium|the)\b', '', name)
     return name.strip()
 
+GITHUB_LOGO_BASE = "https://raw.githubusercontent.com/ryandriscoll/LiveTv-English/main/tv/"
+
+def to_github_url(local_path):
+    rel_path = os.path.relpath(local_path, "./tv").replace("\\", "/")
+    return f"{GITHUB_LOGO_BASE}{rel_path}"
+
 def find_logo(channel_id, channel_name, cache):
     """
     Find a logo in ./tv recursively using intelligent name matching.
@@ -70,13 +76,13 @@ def find_logo(channel_id, channel_name, cache):
     # 1️⃣ Exact filename match
     for f, path in available:
         if normalize_name(os.path.splitext(f)[0]) == id_norm:
-            return f"file://{os.path.abspath(path)}"
+            return to_github_url(path)
 
     # 2️⃣ Partial substring match
     for f, path in available:
         fnorm = normalize_name(os.path.splitext(f)[0])
         if id_norm in fnorm or name_norm in fnorm:
-            return f"file://{os.path.abspath(path)}"
+            return to_github_url(path)
 
     # 3️⃣ Fuzzy similarity (difflib)
     candidates = {normalize_name(os.path.splitext(f)[0]): path for f, path in available}
@@ -88,13 +94,13 @@ def find_logo(channel_id, channel_name, cache):
             best_match, best_ratio = path, ratio
 
     if best_match and best_ratio >= 0.7:
-        return f"file://{os.path.abspath(best_match)}"
+        return to_github_url(best_match)
 
     # 4️⃣ Fallback logo
     misc_fallback = "./tv/logos/misc/circle1-247.png"
     if os.path.exists(misc_fallback):
         logging.warning(f"No suitable match found for {channel_id}, using backup logo.")
-        logo_url = f"file://{os.path.abspath(misc_fallback)}"
+        logo_url = to_github_url(misc_fallback)
     else:
         logo_url = ""
     return logo_url
