@@ -264,9 +264,6 @@ https://dlhd.dad/watch.php?id=471
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All Soccer Events | FIFA U-17 Women's World Cup : Samoa U17 vs Canada U17 (16:00)
 https://dlhd.dad/watch.php?id=756
 
-#EXTINF:-1 group-title="Live Events",All matches | CA Tembetary·CS 2 de Mayo (22:30)
-https://dlhd.dad/watch.php?id=8794816
-
 #EXTINF:-1 group-title="Live Events",All matches | CA Huracan·Central Cordoba (23:30)
 https://dlhd.dad/watch.php?id=8787065
 
@@ -675,20 +672,20 @@ https://dlhd.dad/watch.php?id=1507
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis ATP - BASEL | ATP - BASEL : Van De Zandschulp B. vs Lehecka J. (10:00)
 https://dlhd.dad/watch.php?id=1511
 
-#EXTINF:-1 group-title="Live Events",All matches | Union de Santa Fe·Defensa y Justicia (23:15)
-https://dlhd.dad/watch.php?id=8787066
-
-#EXTINF:-1 group-title="Live Events",All matches | Astros de Jalisco·Diablos Rojos del Mexico (03:00)
-https://dlhd.dad/watch.php?id=8837772
-
 #EXTINF:-1 group-title="Live Events",All matches | Pietro Marino·Andrea de Marchi (10:00)
 https://dlhd.dad/watch.php?id=8841491
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Botic van de Zandschulp·Jiri Lehecka (11:00)
 https://dlhd.dad/watch.php?id=8841457
 
+#EXTINF:-1 group-title="Live Events",All matches | A.Abbagnato/S.de Stefano·D.Chiesa/A.Moratelli (16:05)
+https://dlhd.dad/watch.php?id=8839955
+
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Matheus Pucinelli de Almeida·Tomas Barrios Vera (17:00)
 https://dlhd.dad/watch.php?id=8849294
+
+#EXTINF:-1 group-title="Live Events",All matches | Enzo Kohlmann de Freitas·Alfred Almasi (18:30)
+https://dlhd.dad/watch.php?id=8855765
 
 #EXTINF:-1 group-title="Live Events",All matches | Alex de Minaur·Filip Misolic (19:15)
 https://dlhd.dad/watch.php?id=8852794
@@ -879,10 +876,7 @@ https://dlhd.dad/watch.php?id=260
 #EXTINF:-1 tvg-id="m4_sports_hungary" group-title="Hungary",M4 Sports Hungary
 https://dlhd.dad/watch.php?id=265
 
-#EXTINF:-1 group-title="Live Events",All matches | Henrikho Kho Wibowo·In Qin Ng (02:00)
-https://dlhd.dad/watch.php?id=8854147
-
-#EXTINF:-1 group-title="Live Events",All matches | Hai Dang Nguyen·Wongsup Wongsup In (06:40)
+#EXTINF:-1 group-title="Live Events",All matches | Hai Dang Nguyen·Wongsup Wongsup In (08:55)
 https://dlhd.dad/watch.php?id=8854113
 
 #EXTINF:-1 group-title="India",Starz In Black
@@ -936,6 +930,9 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 group-title="Live Events",Snooker | Northern Ireland Open | Round 2 (18:00)
 https://dlhd.dad/watch.php?id=41
 
+#EXTINF:-1 group-title="Live Events",All matches | Anna Hertel·Francisca Jorge (14:30)
+https://dlhd.dad/watch.php?id=8846734
+
 #EXTINF:-1 group-title="Ireland",Premier Sports Ireland 1
 https://dlhd.dad/watch.php?id=771
 
@@ -972,10 +969,10 @@ https://dlhd.dad/watch.php?id=703
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Arkansas vs Auburn (23:00)
 https://dlhd.dad/watch.php?id=385
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Portland Hearts of Pine·Spokane Velocity (23:30)
-https://dlhd.dad/watch.php?id=8811246
+#EXTINF:-1 group-title="Live Events",All matches | C.Ferguson/M.Yang·M.W.Kang Leong/S.Rawat (06:06)
+https://dlhd.dad/watch.php?id=8851539
 
-#EXTINF:-1 group-title="Live Events",All matches | H.Y.Xu/L.J.Zhang·K.Kang/A.Tai (07:20)
+#EXTINF:-1 group-title="Live Events",All matches | H.Y.Xu/L.J.Zhang·K.Kang/A.Tai (09:35)
 https://dlhd.dad/watch.php?id=8848778
 
 #EXTINF:-1 tvg-id="cosmote_sport_5_greece" group-title="Israel",Cosmote Sport 5 HD
@@ -1197,15 +1194,6 @@ https://dlhd.dad/watch.php?id=66
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All Soccer Events | Mexico - Liga MX : Mazatlán vs Santos Laguna (03:00)
 https://dlhd.dad/watch.php?id=66
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All Soccer Events | Mexico - Liga MX : Pachuca vs Tigres UANL (01:00)
-https://dlhd.dad/watch.php?id=66
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All Soccer Events | Mexico - Liga MX : Tijuana vs Toluca (03:00)
-https://dlhd.dad/watch.php?id=66
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Am. Football (NCAAF) | NCAAF : Missouri State vs New Mexico State (01:00)
-https://dlhd.dad/watch.php?id=308
-
 #EXTINF:-1 group-title="Mexico",Azteca 7 MX
 https://dlhd.dad/watch.php?id=844
 
@@ -1254,29 +1242,8 @@ https://dlhd.dad/watch.php?id=61
 #EXTINF:-1 tvg-id="bein_sports_mena_english_2" group-title="Middle East & North Africa",beIN Sports MENA English 2
 https://dlhd.dad/watch.php?id=90
 
-#EXTINF:-1 group-title="Live Events",All matches | Koo Takahashi·Cheng-Yi MA (05:20)
+#EXTINF:-1 group-title="Live Events",All matches | Koo Takahashi·Cheng-Yi MA (07:35)
 https://dlhd.dad/watch.php?id=8854116
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Portland Trail Blazers - Minnesota Timberwolves (02:00)
-https://dlhd.dad/watch.php?id=12
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Portland Trail Blazers - Minnesota Timberwolves (02:00)
-https://dlhd.dad/watch.php?id=411
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Portland Trail Blazers - Minnesota Timberwolves (02:00)
-https://dlhd.dad/watch.php?id=898
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Portland Trail Blazers - Minnesota Timberwolves (02:00)
-https://dlhd.dad/watch.php?id=144
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Major League Soccer (MLS) | MLS : Portland Timbers vs Real Salt Lake (02:30)
-https://dlhd.dad/watch.php?id=59
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Portland Trail Blazers·Minnesota Timberwolves (03:00)
-https://dlhd.dad/watch.php?id=8446575
-
-#EXTINF:-1 group-title="Live Events",All matches | Portland Timbers·Real Salt Lake (03:30)
-https://dlhd.dad/watch.php?id=8838852
 
 #EXTINF:-1 tvg-id="espn_1_nl" group-title="Netherlands",ESPN 1 NL
 https://dlhd.dad/watch.php?id=379
@@ -1815,60 +1782,6 @@ https://dlhd.dad/watch.php?id=777
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Boston Celtics vs Philadelphia 76ers (23:30)
 https://dlhd.dad/watch.php?id=754
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (01:00)
-https://dlhd.dad/watch.php?id=9
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Utah Jazz vs Los Angeles Clippers (01:00)
-https://dlhd.dad/watch.php?id=902
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=10
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=44
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=115
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=114
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=111
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=375
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=379
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=926
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=134
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=150
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=1025
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=466
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=82
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Dallas Mavericks vs San Antonio Spurs (01:30)
-https://dlhd.dad/watch.php?id=145
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Phoenix Suns vs Sacramento Kings (02:00)
-https://dlhd.dad/watch.php?id=11
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NBA | NBA : Phoenix Suns vs Sacramento Kings (02:00)
-https://dlhd.dad/watch.php?id=755
-
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Handball | Superliga : Vojvodina vs Metaloplastika (17:00)
 https://dlhd.dad/watch.php?id=940
 
@@ -2025,24 +1938,6 @@ https://dlhd.dad/watch.php?id=1510
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis ATP - BASEL | ATP - BASEL : Mensik J. vs Fonseca J. (17:30)
 https://dlhd.dad/watch.php?id=1510
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis WTA - TOKYO | WTA - TOKYO : Kessler M. vs Noskova L. (01:30)
-https://dlhd.dad/watch.php?id=1524
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis WTA - TOKYO | WTA - TOKYO : Kessler M. vs Noskova L. (01:30)
-https://dlhd.dad/watch.php?id=1501
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis WTA - TOKYO | WTA - TOKYO : Kessler M. vs Noskova L. (01:30)
-https://dlhd.dad/watch.php?id=40
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis WTA - TOKYO | WTA - TOKYO : Mboko V. vs Lys E. (03:00)
-https://dlhd.dad/watch.php?id=1524
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis WTA - TOKYO | WTA - TOKYO : Mboko V. vs Lys E. (03:00)
-https://dlhd.dad/watch.php?id=1501
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis WTA - TOKYO | WTA - TOKYO : Mboko V. vs Lys E. (03:00)
-https://dlhd.dad/watch.php?id=40
-
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Tennis WTA - TOKYO | WTA - TOKYO : Shnaider D. vs Kalinskaya A. (04:30)
 https://dlhd.dad/watch.php?id=1524
 
@@ -2079,377 +1974,149 @@ https://dlhd.dad/watch.php?id=810
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Syracuse vs Boston College (23:00)
 https://dlhd.dad/watch.php?id=664
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Oregon vs UCLA (02:00)
-https://dlhd.dad/watch.php?id=397
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Maria Kozyreva·Louisa Chirico (21:35)
-https://dlhd.dad/watch.php?id=8849175
-
-#EXTINF:-1 group-title="Live Events",All matches | Atletico Huila·Real Soacha Cundinamarca (21:45)
-https://dlhd.dad/watch.php?id=8774386
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | P.Kumar/D.Milavsky·J.V.Goncalves Ceolin/J.Ross (21:57)
-https://dlhd.dad/watch.php?id=8849374
-
-#EXTINF:-1 group-title="Live Events",All matches | K.Collins/A.Rajecki·H.Arakawa/N.Arakawa (22:10)
-https://dlhd.dad/watch.php?id=8844445
-
-#EXTINF:-1 group-title="Live Events",All matches | J.Gimbrere/A.Rogers·E.Kamper/C.Tiglea (22:11)
-https://dlhd.dad/watch.php?id=8849149
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | M.Iyengar/N.Lagaev·A.Arseneault/R.Lacasse (22:12)
-https://dlhd.dad/watch.php?id=8844325
-
-#EXTINF:-1 group-title="Live Events",All matches | Monagas·Academia Puerto Cabello (22:30)
-https://dlhd.dad/watch.php?id=8774387
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Alex Rybakov·Martin Damm Jr (22:30)
-https://dlhd.dad/watch.php?id=8838174
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Gray Voelzke·Mitchell Sheldon (22:45)
-https://dlhd.dad/watch.php?id=8836085
-
-#EXTINF:-1 group-title="Live Events",All matches | Maria Paulina Perez Garcia·Yuliana Lizarazo (23:01)
-https://dlhd.dad/watch.php?id=8849118
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Haley Giavara·Maria Jose Portillo Ramirez (23:06)
-https://dlhd.dad/watch.php?id=8849001
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Julia Grabher·Nauhany Vitoria Leme Da Silva (23:07)
-https://dlhd.dad/watch.php?id=8842358
-
-#EXTINF:-1 group-title="Live Events",All matches | Jay Clarke·Antoine Ghibaudo (23:15)
-https://dlhd.dad/watch.php?id=8849014
-
-#EXTINF:-1 group-title="Live Events",All matches | Ipek Oz·Alana Smith (23:23)
-https://dlhd.dad/watch.php?id=8849239
-
-#EXTINF:-1 group-title="Live Events",All matches | Bautista Durrels Rojo·Mats Bredschneijder (23:25)
-https://dlhd.dad/watch.php?id=8848808
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | E.Adeshina/V.Allen·A.Aksu/D.Ivanova (23:29)
-https://dlhd.dad/watch.php?id=8844326
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | K.Cross/V.Hruncakova·Y.Kitahara/A.Koshiishi (23:29)
-https://dlhd.dad/watch.php?id=8844331
-
-#EXTINF:-1 group-title="Live Events",All matches | Dan Martin·Martin Damm Jr (23:35)
-https://dlhd.dad/watch.php?id=8855312
-
-#EXTINF:-1 group-title="Live Events",All matches | Mayar Sherif·Alice Rame (23:50)
-https://dlhd.dad/watch.php?id=8842369
-
-#EXTINF:-1 group-title="Live Events",All matches | Jack Pinnington Jones·Rinky Hijikata (00:45)
-https://dlhd.dad/watch.php?id=8838172
-
-#EXTINF:-1 group-title="Live Events",All matches | St. Louis Blues·Los Angeles Kings (01:00)
-https://dlhd.dad/watch.php?id=8686080
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Nashville Predators·Anaheim Ducks (01:00)
-https://dlhd.dad/watch.php?id=8686088
-
-#EXTINF:-1 group-title="Live Events",All matches | Dallas Stars·Columbus Blue Jackets (01:00)
-https://dlhd.dad/watch.php?id=8686139
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Real Tomayapo·Bolivar La Paz (01:00)
-https://dlhd.dad/watch.php?id=8714406
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Diletta Cherubini·Martina Trevisan (01:07)
-https://dlhd.dad/watch.php?id=8842880
-
-#EXTINF:-1 group-title="Live Events",All matches | Rafael Jodar·Saba Purtseladze (01:20)
-https://dlhd.dad/watch.php?id=8838173
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Giulia Alessia Monteleone·Maria Camila Romero Vargas (01:29)
-https://dlhd.dad/watch.php?id=8849142
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Independiente del Valle·Atletico MG (01:30)
-https://dlhd.dad/watch.php?id=8686988
-
-#EXTINF:-1 group-title="Live Events",All matches | Benjamin O&#039;Connell·Christian Langmo (01:37)
-https://dlhd.dad/watch.php?id=8845127
-
-#EXTINF:-1 group-title="Live Events",All matches | Andre Ilagan·Brandon Holt (01:55)
-https://dlhd.dad/watch.php?id=8838171
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Deportivo Pereira·Envigado (02:00)
-https://dlhd.dad/watch.php?id=8714381
-
-#EXTINF:-1 group-title="Live Events",All matches | Club America·Puebla (02:00)
-https://dlhd.dad/watch.php?id=8734321
-
-#EXTINF:-1 group-title="Live Events",All matches | Necaxa·Cruz Azul (02:00)
-https://dlhd.dad/watch.php?id=8734323
-
-#EXTINF:-1 group-title="Live Events",All matches | Tian Yao Dong·Eogene Ewe (02:10)
-https://dlhd.dad/watch.php?id=8849236
-
-#EXTINF:-1 group-title="Live Events",All matches | Shawn Hiu·Christian Adinata (02:10)
-https://dlhd.dad/watch.php?id=8854097
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Alexandra Wolf·Shakhnoza Khatamova (02:30)
-https://dlhd.dad/watch.php?id=8836074
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Mccartney Kessler·Linda Noskova (02:39)
-https://dlhd.dad/watch.php?id=8844420
-
-#EXTINF:-1 group-title="Live Events",All matches | Krishna Adi Nugraha·Samuel Lee (02:45)
-https://dlhd.dad/watch.php?id=8854132
-
-#EXTINF:-1 group-title="Live Events",All matches | Ji Hoon Choi·Dendi Triansyah (02:45)
-https://dlhd.dad/watch.php?id=8854154
-
-#EXTINF:-1 group-title="Live Events",All matches | Shogo Ogawa·Joel Tan (02:55)
-https://dlhd.dad/watch.php?id=8854148
-
-#EXTINF:-1 group-title="Live Events",All matches | Korakrit Laotrakul·Raikhan Nur Iswin Akhmad (02:55)
-https://dlhd.dad/watch.php?id=8854152
-
-#EXTINF:-1 group-title="Live Events",All matches | Los Angeles Lakers·Golden State Warriors (03:00)
-https://dlhd.dad/watch.php?id=8418988
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Utah Mammoth·Colorado Avalanche (03:00)
-https://dlhd.dad/watch.php?id=8686144
-
-#EXTINF:-1 group-title="Live Events",All matches | Cartagines·Motagua (03:00)
-https://dlhd.dad/watch.php?id=8762223
-
-#EXTINF:-1 group-title="Live Events",All matches | Fuerza Regia·Panteras (03:00)
-https://dlhd.dad/watch.php?id=8837773
-
-#EXTINF:-1 group-title="Live Events",All matches | Linang Xiao·Ruijie Huang (03:00)
-https://dlhd.dad/watch.php?id=8845766
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Ikumi Yamazaki·Darya Astakhova (03:01)
-https://dlhd.dad/watch.php?id=8851648
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Rada Zolotareva·Ekaterina Reyngold (03:02)
-https://dlhd.dad/watch.php?id=8845607
-
-#EXTINF:-1 group-title="Live Events",All matches | Xiaofei Wang·Akira Santillan (03:02)
-https://dlhd.dad/watch.php?id=8845706
-
-#EXTINF:-1 group-title="Live Events",All matches | Zhuoxuan Bai·Jiaqi Wang (03:03)
-https://dlhd.dad/watch.php?id=8845720
-
-#EXTINF:-1 group-title="Live Events",All matches | Zhan Zheng·Ye Hongyu (03:04)
-https://dlhd.dad/watch.php?id=8845636
-
-#EXTINF:-1 group-title="Live Events",All matches | Wishaya Trongcharoenchaikul·Fanming Meng (03:07)
-https://dlhd.dad/watch.php?id=8845673
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Duje Markovina·Carl Emil Overbeck (03:08)
-https://dlhd.dad/watch.php?id=8850752
-
-#EXTINF:-1 group-title="Live Events",All matches | Laquisa Khan·Tori Russell (03:11)
-https://dlhd.dad/watch.php?id=8852034
-
-#EXTINF:-1 group-title="Live Events",All matches | Bilqis Prasista·Siti Zulaikha (03:25)
-https://dlhd.dad/watch.php?id=8848698
-
-#EXTINF:-1 group-title="Live Events",All matches | Federico Bondioli·Giorgio Tabacco (03:30)
-https://dlhd.dad/watch.php?id=8842273
-
-#EXTINF:-1 group-title="Live Events",All matches | Cruz Hewitt·Filip Peliwo (03:30)
-https://dlhd.dad/watch.php?id=8845392
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Chi Wa Pui·Devika Sihag (03:30)
-https://dlhd.dad/watch.php?id=8848704
-
-#EXTINF:-1 group-title="Live Events",All matches | Elena Micic·Paola Lopez (03:30)
-https://dlhd.dad/watch.php?id=8850833
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Stefan Vujic·Alexander Zgirovsky (03:30)
-https://dlhd.dad/watch.php?id=8852720
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Manami Suizu·Aisyah Sativa Fatetani (03:35)
-https://dlhd.dad/watch.php?id=8848702
-
-#EXTINF:-1 group-title="Live Events",All matches | Ana Sofia Sanchez·Katarina Jokic (03:40)
-https://dlhd.dad/watch.php?id=8842882
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Yu Chen Han·Kavitha Nadjwa Aulia (03:50)
-https://dlhd.dad/watch.php?id=8854096
-
-#EXTINF:-1 group-title="Live Events",All matches | Mazatlan·Santos Laguna (04:00)
-https://dlhd.dad/watch.php?id=8734322
-
-#EXTINF:-1 group-title="Live Events",All matches | Aoran Wang·Yu Hsiou Hsu (04:00)
-https://dlhd.dad/watch.php?id=8850490
-
-#EXTINF:-1 group-title="Live Events",All matches | Tsung-Hao Huang·Lloyd Harris (04:00)
-https://dlhd.dad/watch.php?id=8850655
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Duje Ajdukovic·Yusuke Takahashi (04:00)
-https://dlhd.dad/watch.php?id=8850824
-
-#EXTINF:-1 group-title="Live Events",All matches | Monterrey·Juarez (04:05)
-https://dlhd.dad/watch.php?id=8734325
-
-#EXTINF:-1 group-title="Live Events",All matches | Isharani Baruah·Isabelle Rusli (04:05)
-https://dlhd.dad/watch.php?id=8848703
-
-#EXTINF:-1 group-title="Live Events",All matches | Zhou Mingzhou·Tianhui Zhang (04:07)
-https://dlhd.dad/watch.php?id=8845639
-
-#EXTINF:-1 group-title="Live Events",All matches | Rina Saigo·Honoka Kobayashi (04:08)
-https://dlhd.dad/watch.php?id=8845610
-
-#EXTINF:-1 group-title="Live Events",All matches | Akari Kurihara·So Yul Lee (04:10)
-https://dlhd.dad/watch.php?id=8848701
-
-#EXTINF:-1 group-title="Live Events",All matches | Ignasi Forcano·Xing Dao Chen (04:11)
-https://dlhd.dad/watch.php?id=8845668
-
-#EXTINF:-1 group-title="Live Events",All matches | Yuichiro Inui·Marc Polmans (04:14)
+#EXTINF:-1 group-title="Live Events",All matches | Yuichiro Inui·Marc Polmans (04:29)
 https://dlhd.dad/watch.php?id=8850748
 
-#EXTINF:-1 group-title="Live Events",All matches | Monique Barry·Naiktha Bains (04:18)
-https://dlhd.dad/watch.php?id=8849271
+#EXTINF:-1 group-title="Live Events",All matches | Qian Sun·Xiaoyin Yang (04:36)
+https://dlhd.dad/watch.php?id=8845675
 
-#EXTINF:-1 group-title="Live Events",All matches | N.Melichar/Y.Xu·E.Hozumi/ F.Wu (04:30)
+#EXTINF:-1 group-title="Live Events",All matches | N.Melichar/Y.Xu·E.Hozumi/ F.Wu (04:37)
 https://dlhd.dad/watch.php?id=8834837
 
-#EXTINF:-1 group-title="Live Events",All matches | Yan Yan Cai·Ishika Jaiswal (04:30)
-https://dlhd.dad/watch.php?id=8848705
+#EXTINF:-1 group-title="Live Events",All matches | Isharani Baruah·Isabelle Rusli (04:45)
+https://dlhd.dad/watch.php?id=8848703
 
-#EXTINF:-1 group-title="Live Events",All matches | K.Shibata/N.Yamada·B.J.Goonting/M.M.R.Fazriq (04:35)
-https://dlhd.dad/watch.php?id=8848766
+#EXTINF:-1 group-title="Live Events",All matches | Akari Kurihara·So Yul Lee (04:50)
+https://dlhd.dad/watch.php?id=8848701
 
-#EXTINF:-1 group-title="Live Events",All matches | Sorano Yoshikawa·Salsabila Amiradana (04:40)
-https://dlhd.dad/watch.php?id=8854119
+#EXTINF:-1 group-title="Live Events",All matches | Ignasi Forcano·Xing Dao Chen (04:57)
+https://dlhd.dad/watch.php?id=8845668
 
-#EXTINF:-1 group-title="Live Events",All matches | Jing Hong Kok·Prahdiska Bagas Shujiwo (04:45)
-https://dlhd.dad/watch.php?id=8854117
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Victoria Mboko·Eva Lys (04:59)
+https://dlhd.dad/watch.php?id=8850635
 
-#EXTINF:-1 group-title="Live Events",All matches | P.Kaosamaang/T.Punpanich·X.Y.Boon/Y.B.Lee (04:50)
-https://dlhd.dad/watch.php?id=8848777
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Stefan Vujic·Alexander Zgirovsky (05:19)
+https://dlhd.dad/watch.php?id=8852720
 
-#EXTINF:-1 group-title="Live Events",All matches | C.M.Istanto/A.M.P.Kuranta·S.Josika/Y.R.Putri (04:55)
-https://dlhd.dad/watch.php?id=8848792
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Chiara Marvella Handoyo·An Qi Yuan (05:20)
+https://dlhd.dad/watch.php?id=8854160
 
-#EXTINF:-1 group-title="Live Events",All matches | C.Baker/J.Carbis·P.Lopez/B.Thompson (05:00)
-https://dlhd.dad/watch.php?id=8851530
+#EXTINF:-1 group-title="Live Events",All matches | Cruz Hewitt·Filip Peliwo (05:22)
+https://dlhd.dad/watch.php?id=8845392
 
-#EXTINF:-1 group-title="Live Events",All matches | E.Simmons/A.Smith·T.McGiffin/N.Sato (05:00)
-https://dlhd.dad/watch.php?id=8851534
-
-#EXTINF:-1 group-title="Live Events",All matches | Minoru Koga·Byung Jae Kim (05:00)
-https://dlhd.dad/watch.php?id=8854120
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Vladislav Melnic·Joshua Charlton (05:00)
-https://dlhd.dad/watch.php?id=8855619
-
-#EXTINF:-1 group-title="Live Events",All matches | Cara Korhonen·Reina Goto (05:00)
-https://dlhd.dad/watch.php?id=8855620
-
-#EXTINF:-1 group-title="Live Events",All matches | Riki Takei·Li Yang Su (05:05)
-https://dlhd.dad/watch.php?id=8854115
-
-#EXTINF:-1 group-title="Live Events",All matches | K.Uesugi/S.Watanabe·Y.Shimizu/N.Tajima (05:10)
-https://dlhd.dad/watch.php?id=8833031
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | F.Ferreira Silva/H.Rocha·N.Lammons/J.Rojer (05:10)
-https://dlhd.dad/watch.php?id=8833032
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | E.Agafonov/I.Simakin·Jie Cui/Rigele Te (05:10)
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | E.Agafonov/I.Simakin·Jie Cui/Rigele Te (05:25)
 https://dlhd.dad/watch.php?id=8833036
 
-#EXTINF:-1 group-title="Live Events",All matches | Nozomi Okuhara·Prakriti Bharath (05:10)
-https://dlhd.dad/watch.php?id=8849238
+#EXTINF:-1 group-title="Live Events",All matches | Yan Yan Cai·Ishika Jaiswal (05:30)
+https://dlhd.dad/watch.php?id=8848705
 
-#EXTINF:-1 group-title="Live Events",All matches | M.Aoki/M.Kurashima·S.H.Cheng/Z.Y.Tan (05:25)
-https://dlhd.dad/watch.php?id=8848781
+#EXTINF:-1 group-title="Live Events",All matches | Mutiara Ayu Puspitasari·Pornpicha Choeikeewong (05:30)
+https://dlhd.dad/watch.php?id=8849237
 
-#EXTINF:-1 group-title="Live Events",All matches | Xin Yu Zhou·Chico Aura Dwi Wardoyo (05:40)
-https://dlhd.dad/watch.php?id=8854118
+#EXTINF:-1 group-title="Live Events",All matches | Misaki Matsuda·Xinxin Yao (05:32)
+https://dlhd.dad/watch.php?id=8845609
 
-#EXTINF:-1 group-title="Live Events",All matches | A.Endo/Y.Takei·N.Joaquin/R.Indra (05:45)
-https://dlhd.dad/watch.php?id=8848774
+#EXTINF:-1 group-title="Live Events",All matches | K.Uesugi/S.Watanabe·Y.Shimizu/N.Tajima (05:40)
+https://dlhd.dad/watch.php?id=8833031
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | M.P.Erwiansyah/D.E.Marvino·T.Aderya/S.Herdiansyah (05:50)
-https://dlhd.dad/watch.php?id=8848795
+#EXTINF:-1 group-title="Live Events",All matches | Monique Barry·Naiktha Bains (05:52)
+https://dlhd.dad/watch.php?id=8849271
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | L.Castelnuovo/Chin Kuan Lai·Yukun Wang/A.Santillan (06:00)
-https://dlhd.dad/watch.php?id=8845576
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | F.Ferreira Silva/H.Rocha·N.Lammons/J.Rojer (06:05)
+https://dlhd.dad/watch.php?id=8833032
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | A.Chanta/T.Naklo·A.Kubareva/R.Zolotareva (06:00)
-https://dlhd.dad/watch.php?id=8848612
+#EXTINF:-1 group-title="Live Events",All matches | Rina Saigo·Honoka Kobayashi (06:05)
+https://dlhd.dad/watch.php?id=8845610
 
-#EXTINF:-1 group-title="Live Events",All matches | K.S.Ng/C.I.Tong·I.L.Pramudya/G.R.Sofyan (06:00)
-https://dlhd.dad/watch.php?id=8848788
+#EXTINF:-1 group-title="Live Events",All matches | Jing Hong Kok·Prahdiska Bagas Shujiwo (06:05)
+https://dlhd.dad/watch.php?id=8854117
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | L.Jeanjean/K.Mladenovic·K.Piter/J.Tjen (06:05)
-https://dlhd.dad/watch.php?id=8834856
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Sol Gyu Choi/V.Shem Goh·E.H.Toh/Y.T.Wee (06:05)
-https://dlhd.dad/watch.php?id=8848775
-
-#EXTINF:-1 group-title="Live Events",All matches | Camila Osorio Serrano·Ann Li (06:05)
-https://dlhd.dad/watch.php?id=8850630
-
-#EXTINF:-1 group-title="Live Events",All matches | T.Aizawa/D.Sano·Hang Yee Low/Eng C.Ng (06:10)
-https://dlhd.dad/watch.php?id=8848767
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | S.D.P.Dev/N.K.Sinha·J.Jung/J.Nedunchezhiyan (06:20)
-https://dlhd.dad/watch.php?id=8833033
-
-#EXTINF:-1 group-title="Live Events",All matches | K.Isomura/AorWang·F.Reynolds/J.Watt (06:20)
-https://dlhd.dad/watch.php?id=8833034
-
-#EXTINF:-1 group-title="Live Events",All matches | James Mccabe·Tung-Lin Wu (06:20)
-https://dlhd.dad/watch.php?id=8850736
-
-#EXTINF:-1 group-title="Live Events",All matches | Sholeh Aidil·Yohanes Saut Marcellyno (06:20)
-https://dlhd.dad/watch.php?id=8854151
-
-#EXTINF:-1 group-title="Live Events",All matches | M.Kato/M.Ninomiya·G.Dabrowski/S.Kenin (06:30)
-https://dlhd.dad/watch.php?id=8834832
-
-#EXTINF:-1 group-title="Live Events",All matches | Diana Shnaider·Anna Kalinskaya (06:30)
+#EXTINF:-1 group-title="Live Events",All matches | Diana Shnaider·Anna Kalinskaya (06:08)
 https://dlhd.dad/watch.php?id=8849507
 
-#EXTINF:-1 group-title="Live Events",All matches | Y.C.Han/Y.H.Lee·S.S.Azzahra/A.Z.D.Ramadhani (06:45)
-https://dlhd.dad/watch.php?id=8848783
+#EXTINF:-1 group-title="Live Events",All matches | M.Kato/M.Ninomiya·G.Dabrowski/S.Kenin (06:10)
+https://dlhd.dad/watch.php?id=8834832
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | B.Zhe Goh/Vin Sean Wong·Yi Sheng Lau/Tze Jian Lim (06:50)
-https://dlhd.dad/watch.php?id=8848769
+#EXTINF:-1 group-title="Live Events",All matches | S.Liu/Z.Zheng·Jeffrey Hsu/H.Matsuoka (06:11)
+https://dlhd.dad/watch.php?id=8851540
 
-#EXTINF:-1 group-title="Live Events",All matches | Min Sun Kim·Ni Kadek Dhinda Amartya Pratiwi (06:55)
-https://dlhd.dad/watch.php?id=8848709
+#EXTINF:-1 group-title="Live Events",All matches | K.Shibata/N.Yamada·B.J.Goonting/M.M.R.Fazriq (06:15)
+https://dlhd.dad/watch.php?id=8848766
 
-#EXTINF:-1 group-title="Live Events",All matches | Yulia Yosephin Susanto·Thalita Ramadhani Wiryawan (07:00)
-https://dlhd.dad/watch.php?id=8848706
+#EXTINF:-1 group-title="Live Events",All matches | Sorano Yoshikawa·Salsabila Amiradana (06:30)
+https://dlhd.dad/watch.php?id=8854119
 
-#EXTINF:-1 group-title="Live Events",All matches | W.C.Ng/C.W.Pui·Y.Kato/H.Osawa (07:05)
-https://dlhd.dad/watch.php?id=8848768
+#EXTINF:-1 group-title="Live Events",All matches | P.Kaosamaang/T.Punpanich·X.Y.Boon/Y.B.Lee (06:35)
+https://dlhd.dad/watch.php?id=8848777
 
-#EXTINF:-1 group-title="Live Events",All matches | Hina Akechi·Jing Rui Yang (07:10)
-https://dlhd.dad/watch.php?id=8854114
+#EXTINF:-1 group-title="Live Events",All matches | Jing-Jing Lu/Amy Zhu·Y.Shao/Y.Wang (06:39)
+https://dlhd.dad/watch.php?id=8852399
 
-#EXTINF:-1 group-title="Live Events",All matches | D.Farrell/W.A.Prasetyo·T.Madee/P.Semkunta (07:15)
-https://dlhd.dad/watch.php?id=8848794
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | L.Castelnuovo/Chin Kuan Lai·Yukun Wang/A.Santillan (06:41)
+https://dlhd.dad/watch.php?id=8845576
 
-#EXTINF:-1 group-title="Live Events",All matches | Zhen Yi Ong·Geonyeop Cho (07:25)
-https://dlhd.dad/watch.php?id=8854112
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Vladislav Melnic·Joshua Charlton (06:53)
+https://dlhd.dad/watch.php?id=8855619
 
-#EXTINF:-1 group-title="Live Events",All matches | P.Isaro/N.Kaliyanda Poonacha·Y.H.Hsu/T.H.Huang (07:30)
-https://dlhd.dad/watch.php?id=8833035
+#EXTINF:-1 group-title="Live Events",All matches | K.Isomura/AorWang·F.Reynolds/J.Watt (06:55)
+https://dlhd.dad/watch.php?id=8833034
 
-#EXTINF:-1 group-title="Live Events",All matches | Nutnalin Rattanapanuwong·Ling Ching Wong (07:30)
-https://dlhd.dad/watch.php?id=8848700
+#EXTINF:-1 group-title="Live Events",All matches | C.M.Istanto/A.M.P.Kuranta·S.Josika/Y.R.Putri (07:00)
+https://dlhd.dad/watch.php?id=8848792
 
-#EXTINF:-1 group-title="Live Events",All matches | Weijie Chia/Sheng Hao Lwi·C.C.Pui/P.F.Pui (07:35)
-https://dlhd.dad/watch.php?id=8848776
+#EXTINF:-1 group-title="Live Events",All matches | Riki Takei·Li Yang Su (07:00)
+https://dlhd.dad/watch.php?id=8854115
 
-#EXTINF:-1 group-title="Live Events",All matches | Xu Jun Chen/Ruo Han Guo·Sheng Fa Chen/Chen Lu (07:40)
-https://dlhd.dad/watch.php?id=8848773
+#EXTINF:-1 group-title="Live Events",All matches | James Mccabe·Tung-Lin Wu (07:10)
+https://dlhd.dad/watch.php?id=8850736
 
-#EXTINF:-1 group-title="Live Events",All matches | Faiq Muhammad/Lok Hong Quan·H.C.Cui/J.Q.Peng (07:55)
-https://dlhd.dad/watch.php?id=8848752
+#EXTINF:-1 group-title="Live Events",All matches | C.Baker/J.Carbis·P.Lopez/B.Thompson (07:11)
+https://dlhd.dad/watch.php?id=8851530
+
+#EXTINF:-1 group-title="Live Events",All matches | Nozomi Okuhara·Prakriti Bharath (07:15)
+https://dlhd.dad/watch.php?id=8849238
+
+#EXTINF:-1 group-title="Live Events",All matches | Minoru Koga·Byung Jae Kim (07:15)
+https://dlhd.dad/watch.php?id=8854120
+
+#EXTINF:-1 group-title="Live Events",All matches | E.Simmons/A.Smith·T.McGiffin/N.Sato (07:17)
+https://dlhd.dad/watch.php?id=8851534
+
+#EXTINF:-1 group-title="Live Events",All matches | Federico Bondioli·Giorgio Tabacco (07:21)
+https://dlhd.dad/watch.php?id=8842273
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | A.Chanta/T.Naklo·A.Kubareva/R.Zolotareva (07:21)
+https://dlhd.dad/watch.php?id=8848612
+
+#EXTINF:-1 group-title="Live Events",All matches | Cara Korhonen·Reina Goto (07:24)
+https://dlhd.dad/watch.php?id=8855620
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | S.D.P.Dev/N.K.Sinha·J.Jung/J.Nedunchezhiyan (07:30)
+https://dlhd.dad/watch.php?id=8833033
+
+#EXTINF:-1 group-title="Live Events",All matches | M.Aoki/M.Kurashima·S.H.Cheng/Z.Y.Tan (07:35)
+https://dlhd.dad/watch.php?id=8848781
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | L.Jeanjean/K.Mladenovic·K.Piter/J.Tjen (07:40)
+https://dlhd.dad/watch.php?id=8834856
+
+#EXTINF:-1 group-title="Live Events",All matches | Camila Osorio Serrano·Ann Li (07:40)
+https://dlhd.dad/watch.php?id=8850630
+
+#EXTINF:-1 group-title="Live Events",All matches | A.Endo/Y.Takei·N.Joaquin/R.Indra (07:55)
+https://dlhd.dad/watch.php?id=8848774
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | M.P.Erwiansyah/D.E.Marvino·T.Aderya/S.Herdiansyah (07:55)
+https://dlhd.dad/watch.php?id=8848795
+
+#EXTINF:-1 group-title="Live Events",All matches | Xin Yu Zhou·Chico Aura Dwi Wardoyo (07:55)
+https://dlhd.dad/watch.php?id=8854118
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Twan van Zijl·Stijn Hofman (08:00)
 https://dlhd.dad/watch.php?id=8830352
+
+#EXTINF:-1 group-title="Live Events",All matches | Cian McDonnell·Sidane Pontjodikromo (08:00)
+https://dlhd.dad/watch.php?id=8830361
 
 #EXTINF:-1 group-title="Live Events",All matches | Justin Schlageter·Bas Bouwman (08:00)
 https://dlhd.dad/watch.php?id=8830364
@@ -2457,17 +2124,38 @@ https://dlhd.dad/watch.php?id=8830364
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Alexa Volkov·Anastasiya Kuparev (08:00)
 https://dlhd.dad/watch.php?id=8830452
 
-#EXTINF:-1 group-title="Live Events",All matches | E.Appleton/Q.Tang·A.Eala/N.Kichenok (08:00)
-https://dlhd.dad/watch.php?id=8834857
+#EXTINF:-1 group-title="Live Events",All matches | Nikolaj Katic·Brad Sy-A-Foek (08:00)
+https://dlhd.dad/watch.php?id=8846631
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Katerina Tsygourova·Ane Mintegi Del Olmo (08:00)
+https://dlhd.dad/watch.php?id=8847444
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Alessandra Mazzola·Eleonora Alvisi (08:00)
 https://dlhd.dad/watch.php?id=8847449
 
-#EXTINF:-1 group-title="Live Events",All matches | A.F.Rayhan/D.A.Wahyudi·Hu Ke Yuan/Lin Xiang Yi (08:00)
-https://dlhd.dad/watch.php?id=8848780
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Martha Matoula·Verena Meliss (08:00)
+https://dlhd.dad/watch.php?id=8847459
 
-#EXTINF:-1 group-title="Live Events",All matches | Lulu Sun·Yafan Wang (08:00)
-https://dlhd.dad/watch.php?id=8850706
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Anja Stankovic·Beatrice Ricci (08:00)
+https://dlhd.dad/watch.php?id=8852683
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Linda Sevcikova·Yasmine Kabbaj (08:00)
+https://dlhd.dad/watch.php?id=8854018
+
+#EXTINF:-1 group-title="Live Events",All matches | Andreea Prisacariu·Gaia Maduzzi (08:00)
+https://dlhd.dad/watch.php?id=8854020
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Rositsa Dencheva·Parentini Vallega Montebruno (08:00)
+https://dlhd.dad/watch.php?id=8854168
+
+#EXTINF:-1 group-title="Live Events",All matches | T.Aizawa/D.Sano·Hang Yee Low/Eng C.Ng (08:15)
+https://dlhd.dad/watch.php?id=8848767
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Sol Gyu Choi/V.Shem Goh·E.H.Toh/Y.T.Wee (08:15)
+https://dlhd.dad/watch.php?id=8848775
+
+#EXTINF:-1 group-title="Live Events",All matches | K.S.Ng/C.I.Tong·I.L.Pramudya/G.R.Sofyan (08:15)
+https://dlhd.dad/watch.php?id=8848788
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | T.Babos/L.Stefani·T.Mihalikova/O.Nicholls (08:30)
 https://dlhd.dad/watch.php?id=8834838
@@ -2475,11 +2163,23 @@ https://dlhd.dad/watch.php?id=8834838
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Maya Joint·Karolina Muchova (08:30)
 https://dlhd.dad/watch.php?id=8845288
 
+#EXTINF:-1 group-title="Live Events",All matches | Sholeh Aidil·Yohanes Saut Marcellyno (08:35)
+https://dlhd.dad/watch.php?id=8854151
+
+#EXTINF:-1 group-title="Live Events",All matches | P.Isaro/N.Kaliyanda Poonacha·Y.H.Hsu/T.H.Huang (08:40)
+https://dlhd.dad/watch.php?id=8833035
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | B.Zhe Goh/Vin Sean Wong·Yi Sheng Lau/Tze Jian Lim (08:55)
+https://dlhd.dad/watch.php?id=8848769
+
+#EXTINF:-1 group-title="Live Events",All matches | Y.C.Han/Y.H.Lee·S.S.Azzahra/A.Z.D.Ramadhani (08:55)
+https://dlhd.dad/watch.php?id=8848783
+
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Giovanni Oradini·Gianluca Cadenasso (09:00)
 https://dlhd.dad/watch.php?id=8841400
 
-#EXTINF:-1 group-title="Live Events",All matches | Guang Zu Lu·Li Shifeng (09:00)
-https://dlhd.dad/watch.php?id=8844631
+#EXTINF:-1 group-title="Live Events",All matches | Line Kjaersfeldt·Kirsty Gilmour (09:00)
+https://dlhd.dad/watch.php?id=8844936
 
 #EXTINF:-1 group-title="Live Events",All matches | Sebastiano Cocola·Manuel Mazza (09:00)
 https://dlhd.dad/watch.php?id=8846604
@@ -2493,14 +2193,29 @@ https://dlhd.dad/watch.php?id=8846652
 #EXTINF:-1 group-title="Live Events",All matches | Giammarco Gandolfi·Martin Krumich (09:00)
 https://dlhd.dad/watch.php?id=8846670
 
+#EXTINF:-1 group-title="Live Events",All matches | Adrian Oetzbach·Mikail Alimli (09:00)
+https://dlhd.dad/watch.php?id=8846825
+
+#EXTINF:-1 group-title="Live Events",All matches | Robin Catry·Jonathan Mridha (09:00)
+https://dlhd.dad/watch.php?id=8846827
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Kirill Kivattsev·Ben Jones (09:00)
+https://dlhd.dad/watch.php?id=8846843
+
 #EXTINF:-1 group-title="Live Events",All matches | Cheng K.Chen/Yin H.Hsu·Chun Man Tang/Ying Suet Tse (09:00)
 https://dlhd.dad/watch.php?id=8847339
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Camilla Gennaro·Lavinia Luciano (09:00)
+https://dlhd.dad/watch.php?id=8847461
 
 #EXTINF:-1 group-title="Live Events",All matches | Hugo Maurice·Juan Cruz Martin Manzano (09:00)
 https://dlhd.dad/watch.php?id=8847485
 
 #EXTINF:-1 group-title="Live Events",All matches | Michele Mecarelli·Felix Gill (09:00)
 https://dlhd.dad/watch.php?id=8847488
+
+#EXTINF:-1 group-title="Live Events",All matches | Min Sun Kim·Ni Kadek Dhinda Amartya Pratiwi (09:05)
+https://dlhd.dad/watch.php?id=8848709
 
 #EXTINF:-1 group-title="Live Events",All matches | Oliwia Szymczuch·Aliaksandra Skapets (09:10)
 https://dlhd.dad/watch.php?id=8829282
@@ -2510,9 +2225,6 @@ https://dlhd.dad/watch.php?id=8830467
 
 #EXTINF:-1 group-title="Live Events",All matches | Katarzyna Wysoczanska·Anais Gabriel (09:10)
 https://dlhd.dad/watch.php?id=8830469
-
-#EXTINF:-1 group-title="Live Events",All matches | Line Kjaersfeldt·Kirsty Gilmour (09:10)
-https://dlhd.dad/watch.php?id=8844936
 
 #EXTINF:-1 group-title="Live Events",All matches | A.Dunn/J.Macpherson·J.M.Lee/Y.J.Chae (09:10)
 https://dlhd.dad/watch.php?id=8847486
@@ -2529,8 +2241,23 @@ https://dlhd.dad/watch.php?id=8830725
 #EXTINF:-1 group-title="Live Events",All matches | Tim Heger·Janos Fekete (09:15)
 https://dlhd.dad/watch.php?id=8830727
 
+#EXTINF:-1 group-title="Live Events",All matches | Yulia Yosephin Susanto·Thalita Ramadhani Wiryawan (09:15)
+https://dlhd.dad/watch.php?id=8848706
+
+#EXTINF:-1 group-title="Live Events",All matches | W.C.Ng/C.W.Pui·Y.Kato/H.Osawa (09:15)
+https://dlhd.dad/watch.php?id=8848768
+
+#EXTINF:-1 group-title="Live Events",All matches | Hina Akechi·Jing Rui Yang (09:15)
+https://dlhd.dad/watch.php?id=8854114
+
+#EXTINF:-1 group-title="Live Events",All matches | Guang Zu Lu·Li Shifeng (09:20)
+https://dlhd.dad/watch.php?id=8844631
+
 #EXTINF:-1 group-title="Live Events",All matches | Tomoka Miyazaki·Putri Kusuma Wardani (09:20)
 https://dlhd.dad/watch.php?id=8845009
+
+#EXTINF:-1 group-title="Live Events",All matches | D.Farrell/W.A.Prasetyo·T.Madee/P.Semkunta (09:25)
+https://dlhd.dad/watch.php?id=8848794
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Maxim Mrva·Chris Rodesch (09:30)
 https://dlhd.dad/watch.php?id=8836620
@@ -2544,6 +2271,12 @@ https://dlhd.dad/watch.php?id=8847448
 #EXTINF:-1 group-title="Live Events",All matches | Julien Carraggi·Hongyang Weng (09:30)
 https://dlhd.dad/watch.php?id=8848754
 
+#EXTINF:-1 group-title="Live Events",All matches | Amandine Hesse·Alice Robbe (09:30)
+https://dlhd.dad/watch.php?id=8848796
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Lucie Nguyen Tan·Anna Siskova (09:30)
+https://dlhd.dad/watch.php?id=8848799
+
 #EXTINF:-1 group-title="Live Events",All matches | Joao Antonio·Ruben Fernandez Ruiz (09:30)
 https://dlhd.dad/watch.php?id=8849172
 
@@ -2553,8 +2286,23 @@ https://dlhd.dad/watch.php?id=8849173
 #EXTINF:-1 group-title="Live Events",All matches | Alejandro Lopez Escribano·John Chin (09:30)
 https://dlhd.dad/watch.php?id=8849174
 
+#EXTINF:-1 group-title="Live Events",All matches | Nutnalin Rattanapanuwong·Ling Ching Wong (09:35)
+https://dlhd.dad/watch.php?id=8848700
+
+#EXTINF:-1 group-title="Live Events",All matches | Zhen Yi Ong·Geonyeop Cho (09:35)
+https://dlhd.dad/watch.php?id=8854112
+
+#EXTINF:-1 group-title="Live Events",All matches | E.Appleton/Q.Tang·A.Eala/N.Kichenok (09:40)
+https://dlhd.dad/watch.php?id=8834857
+
 #EXTINF:-1 group-title="Live Events",All matches | Koki Watanabe·Ayush Shetty (09:40)
 https://dlhd.dad/watch.php?id=8844647
+
+#EXTINF:-1 group-title="Live Events",All matches | Lulu Sun·Yafan Wang (09:40)
+https://dlhd.dad/watch.php?id=8850706
+
+#EXTINF:-1 group-title="Live Events",All matches | Weijie Chia/Sheng Hao Lwi·C.C.Pui/P.F.Pui (09:45)
+https://dlhd.dad/watch.php?id=8848776
 
 #EXTINF:-1 group-title="Live Events",All matches | Kenta Nishimoto·Jonatan Christie (09:50)
 https://dlhd.dad/watch.php?id=8844629
@@ -2562,8 +2310,8 @@ https://dlhd.dad/watch.php?id=8844629
 #EXTINF:-1 group-title="Live Events",All matches | R.Garcia/L.Rodriguez·Hong Wei Ye/N.G.Chan (09:50)
 https://dlhd.dad/watch.php?id=8847338
 
-#EXTINF:-1 group-title="Live Events",All matches | Q.Gleason/E.Pridankina·C.Osorio/Y.Wang (10:00)
-https://dlhd.dad/watch.php?id=8834859
+#EXTINF:-1 group-title="Live Events",All matches | Xu Jun Chen/Ruo Han Guo·Sheng Fa Chen/Chen Lu (09:55)
+https://dlhd.dad/watch.php?id=8848773
 
 #EXTINF:-1 group-title="Live Events",All matches | T.Hilderbrand/R.Seggerman·A.Reymond/L.Sanchez (10:00)
 https://dlhd.dad/watch.php?id=8835300
@@ -2577,14 +2325,50 @@ https://dlhd.dad/watch.php?id=8843323
 #EXTINF:-1 group-title="Live Events",All matches | M.Lambert/C.Pognante·X.Y.Ong/C.Ting (10:00)
 https://dlhd.dad/watch.php?id=8846048
 
+#EXTINF:-1 group-title="Live Events",All matches | Kai Wehnelt·Filippo Romano (10:00)
+https://dlhd.dad/watch.php?id=8846829
+
 #EXTINF:-1 group-title="Live Events",All matches | Marta Lombardini·Lisa Pigato (10:00)
 https://dlhd.dad/watch.php?id=8847416
+
+#EXTINF:-1 group-title="Live Events",All matches | Noah Thurner·Arthur Nagel (10:00)
+https://dlhd.dad/watch.php?id=8848749
+
+#EXTINF:-1 group-title="Live Events",All matches | Alice Gillan·Kajsa Rinaldo Persson (10:00)
+https://dlhd.dad/watch.php?id=8849005
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Valentina Ryser·Ivana Sebestova (10:00)
+https://dlhd.dad/watch.php?id=8849009
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Enrique Collar·Oliver Sanders (10:00)
 https://dlhd.dad/watch.php?id=8849169
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Thepchaiya Un-Nooh·Mark Davis (10:00)
 https://dlhd.dad/watch.php?id=8852377
+
+#EXTINF:-1 group-title="Live Events",All matches | Matthew Summers·James Story (10:00)
+https://dlhd.dad/watch.php?id=8852482
+
+#EXTINF:-1 group-title="Live Events",All matches | Federica Urgesi·Angelica Raggi (10:00)
+https://dlhd.dad/watch.php?id=8854023
+
+#EXTINF:-1 group-title="Live Events",All matches | Georgia Pedone·Isabella Maria Serban (10:00)
+https://dlhd.dad/watch.php?id=8854029
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Matisse Bobichon·Marat Sharipov (10:00)
+https://dlhd.dad/watch.php?id=8854088
+
+#EXTINF:-1 group-title="Live Events",All matches | Jelle Sels·Rhys Lawlor (10:00)
+https://dlhd.dad/watch.php?id=8854104
+
+#EXTINF:-1 group-title="Live Events",All matches | Angelica Sara·Jennifer Ruggeri (10:00)
+https://dlhd.dad/watch.php?id=8854167
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Niklas Schell·Christian Djonov (10:00)
+https://dlhd.dad/watch.php?id=8854363
+
+#EXTINF:-1 group-title="Live Events",All matches | Faiq Muhammad/Lok Hong Quan·H.C.Cui/J.Q.Peng (10:05)
+https://dlhd.dad/watch.php?id=8848752
 
 #EXTINF:-1 group-title="Live Events",All matches | Yu Po Pai·Michelle Li (10:10)
 https://dlhd.dad/watch.php?id=8845006
@@ -2594,6 +2378,12 @@ https://dlhd.dad/watch.php?id=8847443
 
 #EXTINF:-1 group-title="Live Events",All matches | Wen Yu Zhang·Ga Eun Kim (10:10)
 https://dlhd.dad/watch.php?id=8848800
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Dyip·Converge Fiberxers (10:15)
+https://dlhd.dad/watch.php?id=8732439
+
+#EXTINF:-1 group-title="Live Events",All matches | A.F.Rayhan/D.A.Wahyudi·Hu Ke Yuan/Lin Xiang Yi (10:15)
+https://dlhd.dad/watch.php?id=8848780
 
 #EXTINF:-1 group-title="Live Events",All matches | Natsuki Nidaira·Ratchanok Intanon (10:20)
 https://dlhd.dad/watch.php?id=8848770
@@ -2606,6 +2396,27 @@ https://dlhd.dad/watch.php?id=8844699
 
 #EXTINF:-1 group-title="Live Events",All matches | Anupama Upadhyaya·Yue Han (10:30)
 https://dlhd.dad/watch.php?id=8844934
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | C.Bosman/K.Veldman·A.Cirotte/M.Mattel (10:30)
+https://dlhd.dad/watch.php?id=8847494
+
+#EXTINF:-1 group-title="Live Events",All matches | Laura Mair·Zuzanna Kolonus (10:30)
+https://dlhd.dad/watch.php?id=8848753
+
+#EXTINF:-1 group-title="Live Events",All matches | Anastasiia Firman·Matilde Jorge (10:30)
+https://dlhd.dad/watch.php?id=8848798
+
+#EXTINF:-1 group-title="Live Events",All matches | Ella Mcdonald·Alicia Dudeney (10:30)
+https://dlhd.dad/watch.php?id=8849012
+
+#EXTINF:-1 group-title="Live Events",All matches | Gilles Arnaud Bailly·Daniel Batista (10:30)
+https://dlhd.dad/watch.php?id=8850646
+
+#EXTINF:-1 group-title="Live Events",All matches | Sebastian Fanselow·Diogo Marques (10:30)
+https://dlhd.dad/watch.php?id=8850649
+
+#EXTINF:-1 group-title="Live Events",All matches | Jack Loge·Matyas Fuele (10:30)
+https://dlhd.dad/watch.php?id=8850651
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | S.Agostini/K.Stevenson·S.Latinovic/S.Walkow (10:40)
 https://dlhd.dad/watch.php?id=8835286
@@ -2640,6 +2451,27 @@ https://dlhd.dad/watch.php?id=8846671
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | E.Alvisi/A.Prisacariu·A.Gentili/G.Mais (11:00)
 https://dlhd.dad/watch.php?id=8846830
 
+#EXTINF:-1 group-title="Live Events",All matches | Ruby Cooling·Yuriko Lily Miyazaki (11:00)
+https://dlhd.dad/watch.php?id=8849006
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Iva Primorac·Harmony Tan (11:00)
+https://dlhd.dad/watch.php?id=8849007
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Carles Hernandez·Alejandro Turriziani Alvarez (11:00)
+https://dlhd.dad/watch.php?id=8849489
+
+#EXTINF:-1 group-title="Live Events",All matches | Clement Chidekh·Marcus Walters (11:00)
+https://dlhd.dad/watch.php?id=8852460
+
+#EXTINF:-1 group-title="Live Events",All matches | Carlota Martinez Cirez·Anne Schaefer (11:00)
+https://dlhd.dad/watch.php?id=8854036
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Ryan James Storrie·Nemanja Malesevic (11:00)
+https://dlhd.dad/watch.php?id=8854135
+
+#EXTINF:-1 group-title="Live Events",All matches | P.K.Go/M.X.Teoh·Yi Jing Li/Xu Min Luo (11:00)
+https://dlhd.dad/watch.php?id=8855617
+
 #EXTINF:-1 group-title="Live Events",All matches | S.Ambrosio/A.Zantedeschi·T.Morderger/Y.Morderger (11:05)
 https://dlhd.dad/watch.php?id=8839957
 
@@ -2667,6 +2499,21 @@ https://dlhd.dad/watch.php?id=8844625
 #EXTINF:-1 group-title="Live Events",All matches | Y.H.Hsu/J.Y.Lin·P.K.L.Tan/M.Thinaah (11:30)
 https://dlhd.dad/watch.php?id=8846051
 
+#EXTINF:-1 group-title="Live Events",All matches | Cagla Buyukakcay·Tiphanie Lemaitre (11:30)
+https://dlhd.dad/watch.php?id=8846733
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Valentini Grammatikopoulou·Chelsea Fontenel (11:30)
+https://dlhd.dad/watch.php?id=8848740
+
+#EXTINF:-1 group-title="Live Events",All matches | Justina Mikulskyte·Mimi Xu (11:30)
+https://dlhd.dad/watch.php?id=8849004
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | O.Boullay/J.Van Zyl·Y.Bartashevich/M.Partaud (11:30)
+https://dlhd.dad/watch.php?id=8850470
+
+#EXTINF:-1 group-title="Live Events",All matches | Q.Gleason/E.Pridankina·C.Osorio/Y.Wang (11:40)
+https://dlhd.dad/watch.php?id=8834859
+
 #EXTINF:-1 group-title="Live Events",All matches | Di Huang/Yang Liu·F.Alfian/M.S.Fikri (11:40)
 https://dlhd.dad/watch.php?id=8844690
 
@@ -2688,6 +2535,12 @@ https://dlhd.dad/watch.php?id=8835797
 #EXTINF:-1 group-title="Live Events",All matches | S.F.Goh/N.Izzuddin·T.Hoki/Y.Kobayashi (12:00)
 https://dlhd.dad/watch.php?id=8844684
 
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Anouck Vrancken Peeters·Eva Bennemann (12:00)
+https://dlhd.dad/watch.php?id=8846840
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Erika Andreeva·Sonja Zhenikhova (12:00)
+https://dlhd.dad/watch.php?id=8847499
+
 #EXTINF:-1 group-title="Live Events",All matches | D.Eichenseher/F.J.Planinsek·J.Antonio/M.Semedo (12:00)
 https://dlhd.dad/watch.php?id=8849179
 
@@ -2697,8 +2550,14 @@ https://dlhd.dad/watch.php?id=8849181
 #EXTINF:-1 group-title="Live Events",All matches | J.Graca/T.Torres·M.Martinez/S.Pecak (12:00)
 https://dlhd.dad/watch.php?id=8849183
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Shuai Zhang·Veronika Erjavec (12:00)
-https://dlhd.dad/watch.php?id=8851600
+#EXTINF:-1 group-title="Live Events",All matches | Lui Maxted·Hamish Stewart (12:00)
+https://dlhd.dad/watch.php?id=8854133
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Anton Matusevich·James Beaven (12:00)
+https://dlhd.dad/watch.php?id=8854370
+
+#EXTINF:-1 group-title="Live Events",All matches | R.Cowley/J.Markiewicz·P.Jordan/J.Tyler (12:00)
+https://dlhd.dad/watch.php?id=8854376
 
 #EXTINF:-1 group-title="Live Events",All matches | Jana Fett·Sofia Costoulas (12:05)
 https://dlhd.dad/watch.php?id=8851596
@@ -2709,11 +2568,11 @@ https://dlhd.dad/watch.php?id=8835744
 #EXTINF:-1 group-title="Live Events",All matches | Yushi Tanaka·Brian Yang (12:10)
 https://dlhd.dad/watch.php?id=8844680
 
-#EXTINF:-1 group-title="Live Events",All matches | P.Krishnamurthy Roy/K.S.Pratheek·Y.Sin Ong/Ee Yi Teo (12:10)
-https://dlhd.dad/watch.php?id=8844698
-
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | K.Selvam/S.Singhi·R.Panda/S.Panda (12:10)
 https://dlhd.dad/watch.php?id=8846044
+
+#EXTINF:-1 group-title="Live Events",All matches | N.Hara/R.Kiyose·L.J.Bao/S.X.Zhang (12:10)
+https://dlhd.dad/watch.php?id=8855618
 
 #EXTINF:-1 group-title="Live Events",All matches | L.R.Carnando/B.Maulana·Aaron Chia/Wooi Yik Soh (12:20)
 https://dlhd.dad/watch.php?id=8844691
@@ -2724,17 +2583,38 @@ https://dlhd.dad/watch.php?id=8852455
 #EXTINF:-1 group-title="Live Events",All matches | Clement Tabur·Mae Malige (12:20)
 https://dlhd.dad/watch.php?id=8853667
 
+#EXTINF:-1 group-title="Live Events",All matches | Phoenix Fuelmasters·NLEX Road Warriors (12:30)
+https://dlhd.dad/watch.php?id=8732440
+
 #EXTINF:-1 group-title="Live Events",All matches | Alexei Popyrin·Matteo Berrettini (12:30)
 https://dlhd.dad/watch.php?id=8835801
 
 #EXTINF:-1 group-title="Live Events",All matches | K.Mitsuhashi/H.Okamura·S.K.Gutama/M.Isfahani (12:30)
 https://dlhd.dad/watch.php?id=8844696
 
+#EXTINF:-1 group-title="Live Events",All matches | P.Krishnamurthy Roy/K.S.Pratheek·Y.Sin Ong/Ee Yi Teo (12:30)
+https://dlhd.dad/watch.php?id=8844698
+
+#EXTINF:-1 group-title="Live Events",All matches | Antonia Schmidt·Berfu Cengiz (12:30)
+https://dlhd.dad/watch.php?id=8846841
+
 #EXTINF:-1 group-title="Live Events",All matches | M.R.Ardianto/R.Hidayat·S.Rankireddy/C.Shetty (12:30)
 https://dlhd.dad/watch.php?id=8848873
 
+#EXTINF:-1 group-title="Live Events",All matches | Jessika Ponchet·Indianna Spink (12:30)
+https://dlhd.dad/watch.php?id=8849010
+
 #EXTINF:-1 group-title="Live Events",All matches | Casper Ruud·Quentin Halys (13:00)
 https://dlhd.dad/watch.php?id=8841454
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Kaitlin Quevedo·Alexis Blokhina (13:00)
+https://dlhd.dad/watch.php?id=8846804
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Julia Avdeeva·Mika Stojsavljevic (13:00)
+https://dlhd.dad/watch.php?id=8849008
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Anna Petkovic·Tessa Johanna Brockmann (13:00)
+https://dlhd.dad/watch.php?id=8849187
 
 #EXTINF:-1 group-title="Live Events",All matches | Stephen Maguire·SI Jiahui (13:00)
 https://dlhd.dad/watch.php?id=8852815
@@ -2775,8 +2655,14 @@ https://dlhd.dad/watch.php?id=8836556
 #EXTINF:-1 group-title="Live Events",All matches | Damir Dzumhur·Corentin Moutet (13:30)
 https://dlhd.dad/watch.php?id=8841445
 
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Jenny Lim·Margaux Rouvroy (13:30)
+https://dlhd.dad/watch.php?id=8846739
+
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Daniil Medvedev·Nuno Borges (13:40)
 https://dlhd.dad/watch.php?id=8835806
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Shuai Zhang·Veronika Erjavec (13:40)
+https://dlhd.dad/watch.php?id=8851600
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Samorin·Spartak Trnava (14:00)
 https://dlhd.dad/watch.php?id=8762307
@@ -2814,6 +2700,12 @@ https://dlhd.dad/watch.php?id=8826919
 #EXTINF:-1 group-title="Live Events",All matches | C.Harrison/E.King·P.Nouza/P.Rikl (14:30)
 https://dlhd.dad/watch.php?id=8842219
 
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | C.Fontenel/O.Gavrila·D.Gorska/K.Lazarenko (14:30)
+https://dlhd.dad/watch.php?id=8848718
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | H.Bougouffa/G.Kalamaris·D.Martynov/M.Villet (14:30)
+https://dlhd.dad/watch.php?id=8850446
+
 #EXTINF:-1 group-title="Live Events",All matches | S.Kielan/F.Pieczonka·F.Maestrelli/F.Passaro (14:40)
 https://dlhd.dad/watch.php?id=8835295
 
@@ -2835,8 +2727,20 @@ https://dlhd.dad/watch.php?id=8459858
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Sutjeska Niksic·Lovcen (15:00)
 https://dlhd.dad/watch.php?id=8826929
 
+#EXTINF:-1 group-title="Live Events",All matches | Haruna Arakawa·Amelia Rajecki (15:00)
+https://dlhd.dad/watch.php?id=8843448
+
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Gabriela Andrea Knutson·Eva Guerrero Alvarez (15:00)
 https://dlhd.dad/watch.php?id=8853633
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Ava Markham·Jenny Duerst (15:00)
+https://dlhd.dad/watch.php?id=8855439
+
+#EXTINF:-1 group-title="Live Events",All matches | Alex Knaff·Romain Andres (15:15)
+https://dlhd.dad/watch.php?id=8846758
+
+#EXTINF:-1 group-title="Live Events",All matches | M.Donald/T.Handel·J.Karlsson Wistrand/J.Mridha (15:15)
+https://dlhd.dad/watch.php?id=8854365
 
 #EXTINF:-1 group-title="Live Events",All matches | George Loffhagen·Daniil Glinka (15:20)
 https://dlhd.dad/watch.php?id=8851475
@@ -2847,8 +2751,17 @@ https://dlhd.dad/watch.php?id=8762343
 #EXTINF:-1 group-title="Live Events",All matches | Hugo Grenier·Lucas Poullain (15:30)
 https://dlhd.dad/watch.php?id=8846718
 
+#EXTINF:-1 group-title="Live Events",All matches | Amandine Monnot·Weronika Ewald (15:30)
+https://dlhd.dad/watch.php?id=8846732
+
+#EXTINF:-1 group-title="Live Events",All matches | M.Kubka/S.Sakellaridi·I.A.Abendroth/J.A.Abendroth (15:30)
+https://dlhd.dad/watch.php?id=8854205
+
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Jenson Brooksby·Alejandro Davidovich Fokina (15:40)
 https://dlhd.dad/watch.php?id=8847389
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | N.Barrientos/M.Vocel·E.Ruusuvuori/O.Virtanen (15:50)
+https://dlhd.dad/watch.php?id=8835302
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | M.Arevalo/M.Pavic·F.Cobolli/C.Moutet (15:50)
 https://dlhd.dad/watch.php?id=8836214
@@ -2877,14 +2790,35 @@ https://dlhd.dad/watch.php?id=8781200
 #EXTINF:-1 group-title="Live Events",All matches | Mornar Bar·OFK Grbalj (16:00)
 https://dlhd.dad/watch.php?id=8826933
 
+#EXTINF:-1 group-title="Live Events",All matches | Kayla Cross·Jasmijn Gimbrere (16:00)
+https://dlhd.dad/watch.php?id=8843451
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Oscar Lacides·Daniel Milavsky (16:00)
+https://dlhd.dad/watch.php?id=8849693
+
 #EXTINF:-1 group-title="Live Events",All matches | Matteo Martineau·Henri Squire (16:00)
 https://dlhd.dad/watch.php?id=8852689
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Anastasia Zolotareva·Sinja Kraus (16:05)
+https://dlhd.dad/watch.php?id=8853738
+
+#EXTINF:-1 group-title="Live Events",All matches | Y.Baluska/A.Gil Garcia·A.Nagel/F.Romano (16:15)
+https://dlhd.dad/watch.php?id=8854366
+
+#EXTINF:-1 group-title="Live Events",All matches | N.Parizzia/D.Wenger·K.Wehnelt/T.Zeuch (16:15)
+https://dlhd.dad/watch.php?id=8854367
+
+#EXTINF:-1 group-title="Live Events",All matches | HIFK Helsinki·HPK Hameenlinna (16:30)
+https://dlhd.dad/watch.php?id=8604926
 
 #EXTINF:-1 group-title="Live Events",All matches | Pelicans Lahti·Tappara Tampere (16:30)
 https://dlhd.dad/watch.php?id=8604927
 
 #EXTINF:-1 group-title="Live Events",All matches | Jukurit Mikkeli·KalPa Kuopio (16:30)
 https://dlhd.dad/watch.php?id=8604929
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | TPS Turku·Vaasan Sport (16:30)
+https://dlhd.dad/watch.php?id=8604930
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Emlak Konut SK (F)·Crvena Zvezda (F) (16:30)
 https://dlhd.dad/watch.php?id=8696507
@@ -2903,6 +2837,12 @@ https://dlhd.dad/watch.php?id=8762401
 
 #EXTINF:-1 group-title="Live Events",All matches | FA Siauliai·Banga Gargzdai (16:30)
 https://dlhd.dad/watch.php?id=8762405
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Juventus Utena·BC Siauliai (16:30)
+https://dlhd.dad/watch.php?id=8762406
+
+#EXTINF:-1 group-title="Live Events",All matches | Rilski Sportist·Start Lublin (16:30)
+https://dlhd.dad/watch.php?id=8762407
 
 #EXTINF:-1 group-title="Live Events",All matches | Chojniczanka Chojnice·Hutnik Krakow (16:30)
 https://dlhd.dad/watch.php?id=8794836
@@ -2985,6 +2925,24 @@ https://dlhd.dad/watch.php?id=8762460
 #EXTINF:-1 group-title="Live Events",All matches | CBK Mersin (F)·Zaragoza (F) (17:00)
 https://dlhd.dad/watch.php?id=8762463
 
+#EXTINF:-1 group-title="Live Events",All matches | Falco Szombathely·Bakken Bears (17:00)
+https://dlhd.dad/watch.php?id=8762464
+
+#EXTINF:-1 group-title="Live Events",All matches | Tartu Ulikool·Porto (17:00)
+https://dlhd.dad/watch.php?id=8762465
+
+#EXTINF:-1 group-title="Live Events",All matches | AEK Larnaca·Petkim Spor (17:00)
+https://dlhd.dad/watch.php?id=8762466
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | CSM Corona Brasov·CSM Oradea (17:00)
+https://dlhd.dad/watch.php?id=8762467
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Keravnos Strovolou·Cedevita Junior (17:00)
+https://dlhd.dad/watch.php?id=8762468
+
+#EXTINF:-1 group-title="Live Events",All matches | Anorthosis Famagusta·Zaragoza (17:00)
+https://dlhd.dad/watch.php?id=8762469
+
 #EXTINF:-1 group-title="Live Events",All matches | Kauno Zalgiris·FK Zalgiris (17:00)
 https://dlhd.dad/watch.php?id=8762528
 
@@ -2994,14 +2952,29 @@ https://dlhd.dad/watch.php?id=8823772
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Taylor Fritz·Valentin Vacherot (17:00)
 https://dlhd.dad/watch.php?id=8835750
 
+#EXTINF:-1 group-title="Live Events",All matches | J.Boulais/M.Krueger·Z.Fuchs/W.Thayne (17:00)
+https://dlhd.dad/watch.php?id=8837497
+
 #EXTINF:-1 group-title="Live Events",All matches | Roman Andres Burruchaga·Joao Eduardo Schiessl (17:00)
 https://dlhd.dad/watch.php?id=8842396
 
-#EXTINF:-1 group-title="Live Events",All matches | Sebastian Gima·Juan Manuel Cerundolo (17:00)
-https://dlhd.dad/watch.php?id=8849295
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Anastasia Tikhonova·Dasha Ivanova (17:00)
+https://dlhd.dad/watch.php?id=8843452
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Victoria Allen·Esther Adeshina (17:00)
+https://dlhd.dad/watch.php?id=8843456
+
+#EXTINF:-1 group-title="Live Events",All matches | Oceane Dodin·Nahia Berecoechea (17:00)
+https://dlhd.dad/watch.php?id=8846752
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Igor Gimenez·Adolfo Daniel Vallejo (17:00)
 https://dlhd.dad/watch.php?id=8849296
+
+#EXTINF:-1 group-title="Live Events",All matches | Sebastian Gima·Juan Manuel Cerundolo (17:05)
+https://dlhd.dad/watch.php?id=8849295
+
+#EXTINF:-1 group-title="Live Events",All matches | Ekaterine Gorgodze·Leyre Romero Gormaz (17:05)
+https://dlhd.dad/watch.php?id=8854211
 
 #EXTINF:-1 group-title="Live Events",All matches | Jamie Mackenzie·Matej Dodig (17:10)
 https://dlhd.dad/watch.php?id=8853214
@@ -3015,11 +2988,23 @@ https://dlhd.dad/watch.php?id=8604939
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Sparta Praga·Vítkovice (17:30)
 https://dlhd.dad/watch.php?id=8751543
 
+#EXTINF:-1 group-title="Live Events",All matches | Peristeri·Kutaisi (17:30)
+https://dlhd.dad/watch.php?id=8762486
+
+#EXTINF:-1 group-title="Live Events",All matches | KB Trepca·Lowen Braunschweig (17:30)
+https://dlhd.dad/watch.php?id=8762535
+
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Bohemians Praga·Mlada Boleslav (17:30)
 https://dlhd.dad/watch.php?id=8799780
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Luca Van Assche·Sascha Wayenburg (17:30)
 https://dlhd.dad/watch.php?id=8836754
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Luis Carlos Alvarez Valdes·Asahi Harazaki (17:30)
+https://dlhd.dad/watch.php?id=8849690
+
+#EXTINF:-1 group-title="Live Events",All matches | Henry Searle·Felix Corwin (17:30)
+https://dlhd.dad/watch.php?id=8855530
 
 #EXTINF:-1 tvg-id="sporting_tv" group-title="Live Events",All matches | Kolstad·Sporting Lisabona (17:45)
 https://dlhd.dad/watch.php?id=8762488
@@ -3029,6 +3014,9 @@ https://dlhd.dad/watch.php?id=8762489
 
 #EXTINF:-1 group-title="Live Events",All matches | Konyaspor·Besiktas (18:00)
 https://dlhd.dad/watch.php?id=8758639
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Pelister·Prievidza (18:00)
+https://dlhd.dad/watch.php?id=8762183
 
 #EXTINF:-1 group-title="Live Events",All matches | Mora·Sodertalje (18:00)
 https://dlhd.dad/watch.php?id=8762491
@@ -3045,6 +3033,9 @@ https://dlhd.dad/watch.php?id=8762494
 #EXTINF:-1 group-title="Live Events",All matches | Kalmar·Modo (18:00)
 https://dlhd.dad/watch.php?id=8762495
 
+#EXTINF:-1 group-title="Live Events",All matches | AIK Stockholm·Ostersunds (18:00)
+https://dlhd.dad/watch.php?id=8762496
+
 #EXTINF:-1 group-title="Live Events",All matches | Troja-Ljungby·Nybro (18:00)
 https://dlhd.dad/watch.php?id=8762497
 
@@ -3054,8 +3045,17 @@ https://dlhd.dad/watch.php?id=8762498
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Frederikshavn White Hawks·Sonderjyske (18:00)
 https://dlhd.dad/watch.php?id=8762506
 
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Falu IF·Vallentuna (18:00)
+https://dlhd.dad/watch.php?id=8762521
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Surahammar·Hudiksvalls (18:00)
+https://dlhd.dad/watch.php?id=8762522
+
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Levhartice Chomutov (F)·Kibirkstis-Vici (F) (18:00)
 https://dlhd.dad/watch.php?id=8762534
+
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Rasta Vechta·Sporting Lisabona (18:00)
+https://dlhd.dad/watch.php?id=8762536
 
 #EXTINF:-1 group-title="Live Events",All matches | Uni Girona (F)·Bourges (F) (18:00)
 https://dlhd.dad/watch.php?id=8762542
@@ -3063,11 +3063,20 @@ https://dlhd.dad/watch.php?id=8762542
 #EXTINF:-1 group-title="Live Events",All matches | Rizespor·Basaksehir (18:00)
 https://dlhd.dad/watch.php?id=8798324
 
+#EXTINF:-1 group-title="Live Events",All matches | Pirlo Kufstein Towers·Swarco Raiders (18:00)
+https://dlhd.dad/watch.php?id=8811538
+
+#EXTINF:-1 group-title="Live Events",All matches | Flammes Carolo (F)·Schio (F) (18:00)
+https://dlhd.dad/watch.php?id=8823777
+
 #EXTINF:-1 group-title="Live Events",All matches | Mats Rosenkranz·Murphy Cassone (18:00)
 https://dlhd.dad/watch.php?id=8854176
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Linda Klimovicova·Anna Lena Friedsam (18:00)
 https://dlhd.dad/watch.php?id=8854362
+
+#EXTINF:-1 group-title="Live Events",All matches | R.Hijikata/M.Kiger·J.Clarke/J.Maginley (18:10)
+https://dlhd.dad/watch.php?id=8837494
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Pedro Boscardin Dias·Juan Pablo Ficovich (18:10)
 https://dlhd.dad/watch.php?id=8837522
@@ -3086,6 +3095,9 @@ https://dlhd.dad/watch.php?id=8853766
 
 #EXTINF:-1 group-title="Live Events",All matches | JL Bourg·Lietkabelis (18:30)
 https://dlhd.dad/watch.php?id=8604936
+
+#EXTINF:-1 group-title="Live Events",All matches | Mats Bredschneijder·Mitchell Sheldon (18:30)
+https://dlhd.dad/watch.php?id=8855766
 
 #EXTINF:-1 group-title="Live Events",All matches | Giulio Zeppieri·August Holmgren (18:40)
 https://dlhd.dad/watch.php?id=8852456
@@ -3114,6 +3126,9 @@ https://dlhd.dad/watch.php?id=8849111
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Maccabi Tel Aviv·Real Madrid (19:05)
 https://dlhd.dad/watch.php?id=8362542
 
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Victoria Bosio·Panna Udvardy (19:05)
+https://dlhd.dad/watch.php?id=8853641
+
 #EXTINF:-1 group-title="Live Events",All matches | Alfredo Perez·Johannus Monday (19:10)
 https://dlhd.dad/watch.php?id=8854924
 
@@ -3138,6 +3153,9 @@ https://dlhd.dad/watch.php?id=8696506
 #EXTINF:-1 group-title="Live Events",All matches | Zaglebie Lubin (F)·Kobierzyce (F) (19:30)
 https://dlhd.dad/watch.php?id=8762575
 
+#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Sassari·CS Valcea 1924 (19:30)
+https://dlhd.dad/watch.php?id=8762582
+
 #EXTINF:-1 group-title="Live Events",All matches | Swansea City·Queens Park Rangers (19:45)
 https://dlhd.dad/watch.php?id=8332420
 
@@ -3149,6 +3167,9 @@ https://dlhd.dad/watch.php?id=8731452
 
 #EXTINF:-1 group-title="Live Events",All matches | Nantes·Aalborg (19:45)
 https://dlhd.dad/watch.php?id=8762586
+
+#EXTINF:-1 group-title="Live Events",All matches | Anwil Wloclawek·PAOK Salonic (19:45)
+https://dlhd.dad/watch.php?id=8762592
 
 #EXTINF:-1 group-title="Live Events",All matches | Sheffield Wednesday·Middlesbrough (20:00)
 https://dlhd.dad/watch.php?id=8332419
@@ -3165,47 +3186,14 @@ https://dlhd.dad/watch.php?id=8854198
 #EXTINF:-1 group-title="Live Events",All matches | Carabobo·Metropolitanos (22:30)
 https://dlhd.dad/watch.php?id=8774493
 
+#EXTINF:-1 group-title="Live Events",All matches | Defence Force FC·Mount Pleasant (23:00)
+https://dlhd.dad/watch.php?id=8762627
+
 #EXTINF:-1 group-title="Live Events",All matches | Thiago Moura Monteiro·Juan Carlos Prado Angelo (23:00)
 https://dlhd.dad/watch.php?id=8837524
 
 #EXTINF:-1 group-title="Live Events",All matches | Jordan Thompson·Erik Arutiunian (23:00)
 https://dlhd.dad/watch.php?id=8853736
-
-#EXTINF:-1 group-title="Live Events",All matches | Memphis Grizzlies·New Orleans Pelicans (01:00)
-https://dlhd.dad/watch.php?id=8446560
-
-#EXTINF:-1 tvg-id="chicago_sports_network" group-title="Live Events",All matches | Chicago Bulls·Detroit Pistons (01:00)
-https://dlhd.dad/watch.php?id=8446568
-
-#EXTINF:-1 group-title="Live Events",All matches | Milwaukee Bucks·Washington Wizards (01:00)
-https://dlhd.dad/watch.php?id=8446621
-
-#EXTINF:-1 group-title="Live Events",All matches | Flamengo·Racing Club (01:30)
-https://dlhd.dad/watch.php?id=8693200
-
-#EXTINF:-1 tvg-id="chicago_sports_network" group-title="Live Events",All matches | Chicago Fire·Orlando City (01:30)
-https://dlhd.dad/watch.php?id=8838853
-
-#EXTINF:-1 group-title="Live Events",All matches | Utah Jazz·Los Angeles Clippers (02:00)
-https://dlhd.dad/watch.php?id=8446623
-
-#EXTINF:-1 group-title="Live Events",All matches | Pachuca·UANL Tigres (02:00)
-https://dlhd.dad/watch.php?id=8734324
-
-#EXTINF:-1 group-title="Live Events",All matches | Queretaro·Guadalajara (02:00)
-https://dlhd.dad/watch.php?id=8734326
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Dallas Mavericks·San Antonio Spurs (02:30)
-https://dlhd.dad/watch.php?id=8446571
-
-#EXTINF:-1 group-title="Live Events",All matches | Phoenix Suns·Sacramento Kings (03:00)
-https://dlhd.dad/watch.php?id=8446572
-
-#EXTINF:-1 group-title="Live Events",All matches | Atlas·Club Leon (04:00)
-https://dlhd.dad/watch.php?id=8734328
-
-#EXTINF:-1 group-title="Live Events",All matches | UNAM Pumas·Atletico San Luis (04:05)
-https://dlhd.dad/watch.php?id=8734330
 
 #EXTINF:-1 group-title="Live Events",All matches | Tai Po FC·Beijing Guoan (11:00)
 https://dlhd.dad/watch.php?id=8459744
@@ -3224,12 +3212,6 @@ https://dlhd.dad/watch.php?id=8768563
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | EV Zug·Ajoie (18:45)
 https://dlhd.dad/watch.php?id=8618941
-
-#EXTINF:-1 group-title="Live Events",All matches | LDU Quito·Palmeiras (01:30)
-https://dlhd.dad/watch.php?id=8692846
-
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Golden State Warriors·Denver Nuggets (03:00)
-https://dlhd.dad/watch.php?id=8446628
 
 #EXTINF:-1 group-title="Live Events",All matches | Orijent 1919·Dugopolje (14:00)
 https://dlhd.dad/watch.php?id=8774813
@@ -3308,9 +3290,6 @@ https://dlhd.dad/watch.php?id=8783431
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Defensor Sporting·Montevideo City Torque (23:30)
 https://dlhd.dad/watch.php?id=8839481
-
-#EXTINF:-1 group-title="Live Events",All matches | Toronto Blue Jays·Los Angeles Dodgers (01:00)
-https://dlhd.dad/watch.php?id=8849545
 
 #EXTINF:-1 group-title="Live Events",All matches | Suwon Bluewings·Jeonnam Dragons (06:00)
 https://dlhd.dad/watch.php?id=8587781
@@ -3416,9 +3395,6 @@ https://dlhd.dad/watch.php?id=8352630
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Cerro Largo·Racing Montevideo (22:30)
 https://dlhd.dad/watch.php?id=8823339
-
-#EXTINF:-1 group-title="Live Events",All matches | Cruz Azul·Monterrey (04:05)
-https://dlhd.dad/watch.php?id=8734334
 
 #EXTINF:-1 group-title="Live Events",All matches | Incheon United·Gyeongnam (06:00)
 https://dlhd.dad/watch.php?id=8623953
@@ -5178,9 +5154,6 @@ https://dlhd.dad/watch.php?id=758
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All Soccer Events | Canadian Premier League : HFX Wanderers FC vs York United FC (22:30)
 https://dlhd.dad/watch.php?id=115
 
-#EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All Soccer Events | United States - NCAA Women's Soccer : Gonzaga vs Santa Clara (01:00)
-https://dlhd.dad/watch.php?id=316
-
 #EXTINF:-1 group-title="Live Events",WWE | WWE NXT (00:00)
 https://dlhd.dad/watch.php?id=300
 
@@ -5340,12 +5313,6 @@ https://dlhd.dad/watch.php?id=166
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",Volleyball | Champions League : Napredak vs Olympiakos (19:00)
 https://dlhd.dad/watch.php?id=630
 
-#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Hanwha LIFEPLUS International Crown (02:00)
-https://dlhd.dad/watch.php?id=449
-
-#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour Hanwha LIFEPLUS International Crown (02:00)
-https://dlhd.dad/watch.php?id=318
-
 #EXTINF:-1 group-title="Live Events",Gymnastics | Artistic Gymnastics World Championships Men's All-Around Competition Final (11:30)
 https://dlhd.dad/watch.php?id=357
 
@@ -5358,23 +5325,20 @@ https://dlhd.dad/watch.php?id=265
 #EXTINF:-1 group-title="Live Events",Gymnastics | Artistic Gymnastics World Championships Men's All-Around Competition Final (11:30)
 https://dlhd.dad/watch.php?id=145
 
-#EXTINF:-1 group-title="Live Events",All matches | Sarah Rokusek·Katie Swan (02:18)
-https://dlhd.dad/watch.php?id=8845566
-
-#EXTINF:-1 group-title="Live Events",All matches | E.Perez/T.Townsend·S.Hunter/D.Krawczyk (03:07)
-https://dlhd.dad/watch.php?id=8834839
-
-#EXTINF:-1 group-title="Live Events",All matches | Zhenxiong Dong·Grigoriy Lomakin (04:12)
+#EXTINF:-1 group-title="Live Events",All matches | Zhenxiong Dong·Grigoriy Lomakin (05:38)
 https://dlhd.dad/watch.php?id=8851862
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | Elizara Yaneva·Eva Maria Ionescu (08:00)
 https://dlhd.dad/watch.php?id=8846653
 
-#EXTINF:-1 group-title="Live Events",All matches | Xiyu Wang·Elisabetta Cocciaretto (10:00)
-https://dlhd.dad/watch.php?id=8846743
-
 #EXTINF:-1 group-title="Live Events",All matches | Federico Iannaccone·Simone Macchione (10:00)
 https://dlhd.dad/watch.php?id=8847489
+
+#EXTINF:-1 group-title="Live Events",All matches | Patrick Brady·Loann Massard (11:00)
+https://dlhd.dad/watch.php?id=8853042
+
+#EXTINF:-1 group-title="Live Events",All matches | Xiyu Wang·Elisabetta Cocciaretto (11:40)
+https://dlhd.dad/watch.php?id=8846743
 
 #EXTINF:-1 tvg-id="v_sport_premium" group-title="Live Events",All matches | P.Aunion/A.Mazdrashki·D.Molokova Ferreira/G.Valdoleiros (12:00)
 https://dlhd.dad/watch.php?id=8849182
