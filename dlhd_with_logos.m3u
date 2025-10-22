@@ -60,7 +60,7 @@ https://dlhd.dad/watch.php?id=787
 #EXTINF:-1 tvg-id="fox_sports_2_argentina" group-title="Argentina"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Fox Sports 2 Argentina
 https://dlhd.dad/watch.php?id=788
 
-#EXTINF:-1 tvg-id="fox_sports_argentina" group-title="Argentina"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Fox Sports 3 Argentina
+#EXTINF:-1 tvg-id="fox_sports_2_argentina" group-title="Argentina"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Fox Sports 3 Argentina
 https://dlhd.dad/watch.php?id=789
 
 #EXTINF:-1 tvg-id="tnt_sports_argentina" group-title="Argentina"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",TYC Sports Argentina
@@ -312,7 +312,7 @@ https://dlhd.dad/watch.php?id=779
 #EXTINF:-1 tvg-id="max_sport_2_croatia" group-title="Croatia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Max Sport 2 Croatia
 https://dlhd.dad/watch.php?id=780
 
-#EXTINF:-1 tvg-id="lfc_tv" group-title="Croatia"" tvg-logo="./tv/logos/countries/croatia/sportklub-golf-hr.png",Sport KLUB Golf Croatia
+#EXTINF:-1 tvg-id="sport_klub_3_croatia" group-title="Croatia"" tvg-logo="./tv/logos/countries/croatia/sportklub-golf-hr.png",Sport KLUB Golf Croatia
 https://dlhd.dad/watch.php?id=710
 
 #EXTINF:-1 tvg-id="cytavision_sports_1_cyprus" group-title="Cyprus"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Cytavision Sports 1 Cyprus
@@ -408,7 +408,7 @@ https://dlhd.dad/watch.php?id=807
 #EXTINF:-1 tvg-id="tv2_sport_denmark" group-title="Denmark"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",TV2 Sport X Denmark
 https://dlhd.dad/watch.php?id=808
 
-#EXTINF:-1 tvg-id="tv3_sport_denmark_hd" group-title="Denmark"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",TV3 Sport Denmark
+#EXTINF:-1 tvg-id="tv2_sport_denmark" group-title="Denmark"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",TV3 Sport Denmark
 https://dlhd.dad/watch.php?id=809
 
 #EXTINF:-1 tvg-id="tv2_sport_denmark" group-title="Denmark"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",TV2 Sport Denmark
@@ -474,7 +474,7 @@ https://dlhd.dad/watch.php?id=273
 #EXTINF:-1 tvg-id="canal+_france" group-title="France"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ France
 https://dlhd.dad/watch.php?id=121
 
-#EXTINF:-1 tvg-id="canal+_france" group-title="France"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Sport France
+#EXTINF:-1 tvg-id="canal+_sport_france" group-title="France"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Sport France
 https://dlhd.dad/watch.php?id=122
 
 #EXTINF:-1 tvg-id="canal+_foot_france" group-title="France"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Foot France
@@ -498,16 +498,16 @@ https://dlhd.dad/watch.php?id=772
 #EXTINF:-1 tvg-id="eurosport_1_france" group-title="France"" tvg-logo="./tv/logos/countries/france/eurosport-2-fr.png",Eurosport 2 France
 https://dlhd.dad/watch.php?id=773
 
-#EXTINF:-1 group-title="France"" tvg-logo="./tv/logos/countries/france/france-2-fr.png",France 2
+#EXTINF:-1 group-title="France" tvg-id="france2.fr"" tvg-logo="./tv/logos/countries/france/france-2-fr.png",France 2
 https://dlhd.dad/watch.php?id=950
 
-#EXTINF:-1 group-title="France"" tvg-logo="./tv/logos/countries/france/france-3-fr.png",France 3
+#EXTINF:-1 group-title="France" tvg-id="france3.fr"" tvg-logo="./tv/logos/countries/france/france-3-fr.png",France 3
 https://dlhd.dad/watch.php?id=951
 
 #EXTINF:-1 group-title="France"" tvg-logo="./tv/logos/countries/france/france-4-fr.png",France 4
 https://dlhd.dad/watch.php?id=952
 
-#EXTINF:-1 group-title="France"" tvg-logo="./tv/logos/countries/france/france-5-fr.png",France 5
+#EXTINF:-1 group-title="France" tvg-id="france5.fr"" tvg-logo="./tv/logos/countries/france/france-5-fr.png",France 5
 https://dlhd.dad/watch.php?id=953
 
 #EXTINF:-1 tvg-id="l'équipe_france" group-title="France"" tvg-logo="./tv/logos/countries/france/lequipe-fr.png",L'Equipe France
@@ -1092,19 +1092,19 @@ https://dlhd.dad/watch.php?id=43
 #EXTINF:-1 group-title="Other"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Rally Tv
 https://dlhd.dad/watch.php?id=607
 
-#EXTINF:-1 group-title="Other"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SONY TEN 1
+#EXTINF:-1 group-title="Other" tvg-id="sony-ten-1.in"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SONY TEN 1
 https://dlhd.dad/watch.php?id=885
 
-#EXTINF:-1 group-title="Other"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SONY TEN 2
+#EXTINF:-1 group-title="Other" tvg-id="sony-ten-2.in"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SONY TEN 2
 https://dlhd.dad/watch.php?id=886
 
-#EXTINF:-1 group-title="Other"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SONY TEN 3
+#EXTINF:-1 group-title="Other" tvg-id="sony-ten-3.in"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SONY TEN 3
 https://dlhd.dad/watch.php?id=887
 
-#EXTINF:-1 group-title="Other"" tvg-logo="./tv/logos/countries/united-states/smithsonian-channel-us.png",Smithsonian Channel
+#EXTINF:-1 group-title="Other" tvg-id="smithsonian.us"" tvg-logo="./tv/logos/countries/united-states/smithsonian-channel-us.png",Smithsonian Channel
 https://dlhd.dad/watch.php?id=603
 
-#EXTINF:-1 group-title="Other"" tvg-logo="./tv/logos/countries/united-states/telemundo-us.png",Telemundo
+#EXTINF:-1 group-title="Other" tvg-id="telemundo.us"" tvg-logo="./tv/logos/countries/united-states/telemundo-us.png",Telemundo
 https://dlhd.dad/watch.php?id=131
 
 #EXTINF:-1 group-title="Other"" tvg-logo="./tv/logos/countries/poland/tvp-info-pl.png",TVP INFO
@@ -1200,10 +1200,10 @@ https://dlhd.dad/watch.php?id=741
 #EXTINF:-1 tvg-id="canal+_sport_5_poland" group-title="Poland"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Sport Poland
 https://dlhd.dad/watch.php?id=48
 
-#EXTINF:-1 tvg-id="canal+_extra_2_poland" group-title="Poland"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 2 Poland
+#EXTINF:-1 tvg-id="canal+_sport_5_poland" group-title="Poland"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 2 Poland
 https://dlhd.dad/watch.php?id=73
 
-#EXTINF:-1 tvg-id="canal+_360_poland" group-title="Poland"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 3 Poland
+#EXTINF:-1 tvg-id="canal+_sport_5_poland" group-title="Poland"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 3 Poland
 https://dlhd.dad/watch.php?id=259
 
 #EXTINF:-1 tvg-id="canal+_sport_5_poland" group-title="Poland"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 5 Poland
@@ -1251,7 +1251,7 @@ https://dlhd.dad/watch.php?id=47
 #EXTINF:-1 tvg-id="polsat_sport_2_poland" group-title="Poland"" tvg-logo="./tv/logos/countries/poland/polsat-sport-2-pl.png",Polsat Sport 2 Poland
 https://dlhd.dad/watch.php?id=50
 
-#EXTINF:-1 tvg-id="polsat_sport_extra_3_poland" group-title="Poland"" tvg-logo="./tv/logos/countries/poland/polsat-sport-3-pl.png",Polsat Sport 3 Poland
+#EXTINF:-1 tvg-id="polsat_sport_3_poland" group-title="Poland"" tvg-logo="./tv/logos/countries/poland/polsat-sport-3-pl.png",Polsat Sport 3 Poland
 https://dlhd.dad/watch.php?id=129
 
 #EXTINF:-1 tvg-id="polsat_sport_poland" group-title="Poland"" tvg-logo="./tv/logos/countries/poland/polsat-news-pl.png",Polsat News Poland
@@ -1329,7 +1329,7 @@ https://dlhd.dad/watch.php?id=289
 #EXTINF:-1 tvg-id="sport_tv1_portugal" group-title="Portugal"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Sport TV3 Portugal
 https://dlhd.dad/watch.php?id=454
 
-#EXTINF:-1 tvg-id="sport_tv5_portugal_(ch-290)" group-title="Portugal"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Sport TV5 Portugal
+#EXTINF:-1 tvg-id="sport_tv1_portugal" group-title="Portugal"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Sport TV5 Portugal
 https://dlhd.dad/watch.php?id=290
 
 #EXTINF:-1 tvg-id="sport_tv1_portugal" group-title="Portugal"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Sport TV6 Portugal
@@ -1338,7 +1338,7 @@ https://dlhd.dad/watch.php?id=291
 #EXTINF:-1 tvg-id="sport_tv1_portugal" group-title="Portugal"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SIC Portugal
 https://dlhd.dad/watch.php?id=722
 
-#EXTINF:-1 tvg-id="sporting_tv" group-title="Portugal"" tvg-logo="./tv/logos/countries/portugal/sporting-tv-pt.png",Sporting TV Portugal
+#EXTINF:-1 tvg-id="sport_tv1_portugal" group-title="Portugal"" tvg-logo="./tv/logos/countries/portugal/sporting-tv-pt.png",Sporting TV Portugal
 https://dlhd.dad/watch.php?id=716
 
 #EXTINF:-1 tvg-id="sport_tv1_portugal" group-title="Portugal"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",TVI Portugal
@@ -1368,7 +1368,7 @@ https://dlhd.dad/watch.php?id=578
 #EXTINF:-1 tvg-id="bein_sports_en_español" group-title="Qatar"" tvg-logo="./tv/logos/countries/united-states/bein-sports-espanol-us.png",beIN SPORTS en Espa単ol
 https://dlhd.dad/watch.php?id=372
 
-#EXTINF:-1 tvg-id="bein_sports_malaysia" group-title="Qatar"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",beIN Sports 1 Malaysia
+#EXTINF:-1 tvg-id="bein_sports_3_malaysia" group-title="Qatar"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",beIN Sports 1 Malaysia
 https://dlhd.dad/watch.php?id=712
 
 #EXTINF:-1 tvg-id="bein_sports_2_malaysia" group-title="Qatar"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",beIN Sports 2 Malaysia
@@ -1434,7 +1434,7 @@ https://dlhd.dad/watch.php?id=127
 #EXTINF:-1 tvg-id="match_premier_russia" group-title="Russia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",МАТЧ! БОЕЦ Russia
 https://dlhd.dad/watch.php?id=395
 
-#EXTINF:-1 group-title="Saudi Arabia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SSC Sport 1
+#EXTINF:-1 group-title="Saudi Arabia" tvg-id="ssc-sport-1.sa"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SSC Sport 1
 https://dlhd.dad/watch.php?id=614
 
 #EXTINF:-1 group-title="Saudi Arabia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",SSC Sport 2
@@ -1470,7 +1470,7 @@ https://dlhd.dad/watch.php?id=429
 #EXTINF:-1 tvg-id="arena_sport_2_serbia" group-title="Serbia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Arena Sport 2 Serbia
 https://dlhd.dad/watch.php?id=430
 
-#EXTINF:-1 tvg-id="arena_3_premium_serbia" group-title="Serbia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Arena Sport 3 Serbia
+#EXTINF:-1 tvg-id="arena_sport_3_serbia" group-title="Serbia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Arena Sport 3 Serbia
 https://dlhd.dad/watch.php?id=431
 
 #EXTINF:-1 tvg-id="arena_sport_4_serbia" group-title="Serbia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Arena Sport 4 Serbia
@@ -1494,7 +1494,7 @@ https://dlhd.dad/watch.php?id=942
 #EXTINF:-1 tvg-id="arena_sport_8_serbia" group-title="Serbia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Arena Sport 8 Serbia
 https://dlhd.dad/watch.php?id=943
 
-#EXTINF:-1 tvg-id="arena_sport_1_serbia" group-title="Serbia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Arena Sport 9 Serbia
+#EXTINF:-1 tvg-id="arena_sport_3_serbia" group-title="Serbia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Arena Sport 9 Serbia
 https://dlhd.dad/watch.php?id=944
 
 #EXTINF:-1 tvg-id="arena_sport_10_serbia" group-title="Serbia"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Arena Sport 10 Serbia
@@ -1545,7 +1545,7 @@ https://dlhd.dad/watch.php?id=414
 #EXTINF:-1 tvg-id="supersport_laliga" group-title="South Africa"" tvg-logo="./tv/logos/countries/south-africa/supersport-laliga-za.png",SuperSport LaLiga
 https://dlhd.dad/watch.php?id=415
 
-#EXTINF:-1 tvg-id="supersport_variety" group-title="South Africa"" tvg-logo="./tv/logos/countries/south-africa/supersport-variety1-za.png",SuperSport Variety 1
+#EXTINF:-1 tvg-id="supersport_variety_3" group-title="South Africa"" tvg-logo="./tv/logos/countries/south-africa/supersport-variety1-za.png",SuperSport Variety 1
 https://dlhd.dad/watch.php?id=416
 
 #EXTINF:-1 tvg-id="supersport_variety_2" group-title="South Africa"" tvg-logo="./tv/logos/countries/south-africa/supersport-variety2-za.png",SuperSport Variety 2
@@ -1554,7 +1554,7 @@ https://dlhd.dad/watch.php?id=417
 #EXTINF:-1 tvg-id="supersport_variety_3" group-title="South Africa"" tvg-logo="./tv/logos/countries/south-africa/supersport-variety3-za.png",SuperSport Variety 3
 https://dlhd.dad/watch.php?id=418
 
-#EXTINF:-1 tvg-id="supersport_variety" group-title="South Africa"" tvg-logo="./tv/logos/countries/south-africa/supersport-variety4-za.png",SuperSport Variety 4
+#EXTINF:-1 tvg-id="supersport_variety_3" group-title="South Africa"" tvg-logo="./tv/logos/countries/south-africa/supersport-variety4-za.png",SuperSport Variety 4
 https://dlhd.dad/watch.php?id=419
 
 #EXTINF:-1 tvg-id="supersport_variety" group-title="South Africa"" tvg-logo="./tv/logos/countries/south-africa/supersport-rugby-za.png",SuperSport Rugby
@@ -1602,7 +1602,7 @@ https://dlhd.dad/watch.php?id=448
 #EXTINF:-1 tvg-id="dazn1_de" group-title="Spain"" tvg-logo="./tv/logos/countries/spain/dazn-f1-es.png",DAZN F1 ES
 https://dlhd.dad/watch.php?id=537
 
-#EXTINF:-1 group-title="Spain"" tvg-logo="./tv/logos/countries/spain/dazn-laliga-es.png",DAZN LaLiga
+#EXTINF:-1 group-title="Spain" tvg-id="dazn-laliga.es"" tvg-logo="./tv/logos/countries/spain/dazn-laliga-es.png",DAZN LaLiga
 https://dlhd.dad/watch.php?id=538
 
 #EXTINF:-1 tvg-id="eurosport_1_spain" group-title="Spain"" tvg-logo="./tv/logos/countries/india/eurosport-in.png",EuroSport 1 Spain
@@ -1620,7 +1620,7 @@ https://dlhd.dad/watch.php?id=539
 #EXTINF:-1 group-title="Spain"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",La Sexta Spain
 https://dlhd.dad/watch.php?id=534
 
-#EXTINF:-1 group-title="Spain"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Movistar Laliga
+#EXTINF:-1 group-title="Spain" tvg-id="movistar-laliga.es"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Movistar Laliga
 https://dlhd.dad/watch.php?id=84
 
 #EXTINF:-1 tvg-id="movistar_deportes_3_spain" group-title="Spain"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Movistar Deportes Spain
@@ -1845,19 +1845,19 @@ https://dlhd.dad/watch.php?id=36
 #EXTINF:-1 tvg-id="sky_sports_racing_uk" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-action-uk.png",Sky Sports Action UK
 https://dlhd.dad/watch.php?id=37
 
-#EXTINF:-1 tvg-id="sky_sports_main_event" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
+#EXTINF:-1 tvg-id="sky-sports-main-event.uk" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 https://dlhd.dad/watch.php?id=38
 
 #EXTINF:-1 tvg-id="sky_sports_tennis_uk" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-tennis-uk.png",Sky Sports Tennis UK
 https://dlhd.dad/watch.php?id=46
 
-#EXTINF:-1 tvg-id="sky_sport_premier_league_de" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-premier-league-uk.png",Sky sports Premier League
+#EXTINF:-1 tvg-id="sky-sports-premier-league.uk" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-premier-league-uk.png",Sky sports Premier League
 https://dlhd.dad/watch.php?id=130
 
 #EXTINF:-1 group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK
 https://dlhd.dad/watch.php?id=60
 
-#EXTINF:-1 tvg-id="sky_sports_cricket" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
+#EXTINF:-1 tvg-id="sky-sports-cricket.uk" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
 https://dlhd.dad/watch.php?id=65
 
 #EXTINF:-1 group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-sports-golf-uk.png",Sky Sports Golf UK
@@ -1929,7 +1929,7 @@ https://dlhd.dad/watch.php?id=708
 #EXTINF:-1 group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/hd/sky-witness-hd-uk.png",Sky Witness HD
 https://dlhd.dad/watch.php?id=361
 
-#EXTINF:-1 group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/sky-atlantic-uk.png",Sky Atlantic
+#EXTINF:-1 group-title="UK" tvg-id="sky-atlantic.uk"" tvg-logo="./tv/logos/countries/united-kingdom/sky-atlantic-uk.png",Sky Atlantic
 https://dlhd.dad/watch.php?id=362
 
 #EXTINF:-1 tvg-id="tnt_sports_1_uk" group-title="UK"" tvg-logo="./tv/logos/countries/united-kingdom/tnt-sports-1-uk.png",TNT Sports 1 UK
@@ -1965,7 +1965,7 @@ https://dlhd.dad/watch.php?id=302
 #EXTINF:-1 tvg-id="acc_network_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/amc-us.png",AMC USA
 https://dlhd.dad/watch.php?id=303
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/animal-planet-us.png",Animal Planet
+#EXTINF:-1 group-title="USA" tvg-id="animal-planet.us"" tvg-logo="./tv/logos/countries/united-states/animal-planet-us.png",Animal Planet
 https://dlhd.dad/watch.php?id=304
 
 #EXTINF:-1 tvg-id="acc_network_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/acc-network-us.png",ACC Network USA
@@ -1986,7 +1986,7 @@ https://dlhd.dad/watch.php?id=923
 #EXTINF:-1 tvg-id="bein_sports_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/bein-sports-us.png",BeIN SPORTS USA
 https://dlhd.dad/watch.php?id=425
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/boomerang-us.png",Boomerang
+#EXTINF:-1 group-title="USA" tvg-id="boomerang.us"" tvg-logo="./tv/logos/countries/united-states/boomerang-us.png",Boomerang
 https://dlhd.dad/watch.php?id=648
 
 #EXTINF:-1 tvg-id="btn_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/bet-us.png",BET USA
@@ -2001,7 +2001,7 @@ https://dlhd.dad/watch.php?id=397
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",CW PIX 11 USA
 https://dlhd.dad/watch.php?id=280
 
-#EXTINF:-1 tvg-id="cbs_sports_network_usa" group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",CBS USA
+#EXTINF:-1 tvg-id="tbs_usa" group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",CBS USA
 https://dlhd.dad/watch.php?id=52
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/court-tv-us.png",Court TV USA
@@ -2013,10 +2013,10 @@ https://dlhd.dad/watch.php?id=300
 #EXTINF:-1 tvg-id="cbs_sports_network_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/cnbc-us.png",CNBC USA
 https://dlhd.dad/watch.php?id=309
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/comedy-central-us.png",Comedy Central
+#EXTINF:-1 group-title="USA" tvg-id="comedy-central.us"" tvg-logo="./tv/logos/countries/united-states/comedy-central-us.png",Comedy Central
 https://dlhd.dad/watch.php?id=310
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/cartoon-network-us.png",Cartoon Network
+#EXTINF:-1 group-title="USA" tvg-id="cartoon-network.us"" tvg-logo="./tv/logos/countries/united-states/cartoon-network-us.png",Cartoon Network
 https://dlhd.dad/watch.php?id=339
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/cnn-us.png",CNN USA
@@ -2025,7 +2025,7 @@ https://dlhd.dad/watch.php?id=345
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/cinemax-us.png",Cinemax USA
 https://dlhd.dad/watch.php?id=374
 
-#EXTINF:-1 tvg-id="cbssn" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/cbs-sports-network-us.png",CBS Sports Network (CBSSN)
+#EXTINF:-1 tvg-id="cbs_sports_network_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/cbs-sports-network-us.png",CBS Sports Network (CBSSN)
 https://dlhd.dad/watch.php?id=308
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/cozi-tv-us.png",COZI TV USA
@@ -2055,16 +2055,16 @@ https://dlhd.dad/watch.php?id=910
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/discovery-channel-us.png",Discovery Life Channel
 https://dlhd.dad/watch.php?id=311
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/disney-channel-us.png",Disney Channel
+#EXTINF:-1 group-title="USA" tvg-id="disney-channel.us"" tvg-logo="./tv/logos/countries/united-states/disney-channel-us.png",Disney Channel
 https://dlhd.dad/watch.php?id=312
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/discovery-channel-us.png",Discovery Channel
+#EXTINF:-1 group-title="USA" tvg-id="discovery-channel.us"" tvg-logo="./tv/logos/countries/united-states/discovery-channel-us.png",Discovery Channel
 https://dlhd.dad/watch.php?id=313
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/discovery-family-us.png",Discovery Family
 https://dlhd.dad/watch.php?id=657
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/disney-xd-us.png",Disney XD
+#EXTINF:-1 group-title="USA" tvg-id="disney-xd.us"" tvg-logo="./tv/logos/countries/united-states/disney-xd-us.png",Disney XD
 https://dlhd.dad/watch.php?id=314
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/destination-america-us.png",Destination America
@@ -2082,7 +2082,7 @@ https://dlhd.dad/watch.php?id=45
 #EXTINF:-1 tvg-id="espnu_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/espn-u-us.png",ESPNU USA
 https://dlhd.dad/watch.php?id=316
 
-#EXTINF:-1 tvg-id="espn_deportes" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/espn-deportes-us.png",ESPN Deportes
+#EXTINF:-1 tvg-id="espn-deportes.us" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/espn-deportes-us.png",ESPN Deportes
 https://dlhd.dad/watch.php?id=375
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/espnews-us.png",ESPNews
@@ -2124,7 +2124,7 @@ https://dlhd.dad/watch.php?id=298
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/freeform-us.png",Freeform
 https://dlhd.dad/watch.php?id=301
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/fox-news-us.png",Fox News
+#EXTINF:-1 group-title="USA" tvg-id="fox-news.us"" tvg-logo="./tv/logos/countries/united-states/fox-news-us.png",Fox News
 https://dlhd.dad/watch.php?id=347
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/fxm-movie-channel-us.png",FX Movie Channel
@@ -2145,7 +2145,7 @@ https://dlhd.dad/watch.php?id=768
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/weather-channel-us.png",Fox Weather Channel
 https://dlhd.dad/watch.php?id=775
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Arizona
+#EXTINF:-1 group-title="USA" tvg-id="fanduel_sports_network_florida"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Arizona
 https://dlhd.dad/watch.php?id=890
 
 #EXTINF:-1 tvg-id="fanduel_sports_network_detroit" group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Detroit
@@ -2157,7 +2157,7 @@ https://dlhd.dad/watch.php?id=892
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Great Lakes
 https://dlhd.dad/watch.php?id=893
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Indiana
+#EXTINF:-1 group-title="USA" tvg-id="fanduel_sports_network_florida"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Indiana
 https://dlhd.dad/watch.php?id=894
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Midwest
@@ -2247,7 +2247,7 @@ https://dlhd.dad/watch.php?id=322
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Headline News
 https://dlhd.dad/watch.php?id=323
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/hgtv-us.png",HGTV
+#EXTINF:-1 group-title="USA" tvg-id="hgtv.us"" tvg-logo="./tv/logos/countries/united-states/hgtv-us.png",HGTV
 https://dlhd.dad/watch.php?id=382
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/investigation-discovery-us.png",Investigation Discovery (ID USA)
@@ -2274,7 +2274,7 @@ https://dlhd.dad/watch.php?id=389
 #EXTINF:-1 tvg-id="msg_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/msg-us.png",MSG USA
 https://dlhd.dad/watch.php?id=765
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",MSNBC
+#EXTINF:-1 group-title="USA" tvg-id="msnbc.us"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",MSNBC
 https://dlhd.dad/watch.php?id=327
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/magnolia-network-us.png",Magnolia Network
@@ -2310,7 +2310,7 @@ https://dlhd.dad/watch.php?id=277
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/nhl-network-us.png",NHL Network USA
 https://dlhd.dad/watch.php?id=663
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/nfl-red-zone-us.png",NFL RedZone
+#EXTINF:-1 group-title="USA" tvg-id="nfl-redzone.us"" tvg-logo="./tv/logos/countries/united-states/nfl-red-zone-us.png",NFL RedZone
 https://dlhd.dad/watch.php?id=667
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/nick-music-us.png",Nick Music
@@ -2328,7 +2328,7 @@ https://dlhd.dad/watch.php?id=404
 #EXTINF:-1 tvg-id="nbcs_philadelphia_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/nbcsn-philadelphia-us.png",NBC Sports Philadelphia
 https://dlhd.dad/watch.php?id=777
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/nfl-network-us.png",NFL Network
+#EXTINF:-1 group-title="USA" tvg-id="nfl-network.us"" tvg-logo="./tv/logos/countries/united-states/nfl-network-us.png",NFL Network
 https://dlhd.dad/watch.php?id=405
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",NBC Sports Bay Area
@@ -2349,13 +2349,13 @@ https://dlhd.dad/watch.php?id=292
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/netherlands/national-geographic-nl.png",National Geographic (NGC)
 https://dlhd.dad/watch.php?id=328
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/nick-jr-us.png",NICK JR
+#EXTINF:-1 group-title="USA" tvg-id="nick-jr.us"" tvg-logo="./tv/logos/countries/united-states/nick-jr-us.png",NICK JR
 https://dlhd.dad/watch.php?id=329
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/nick-us.png",NICK
 https://dlhd.dad/watch.php?id=330
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/nick-toons-us.png",Nicktoons
+#EXTINF:-1 group-title="USA" tvg-id="nicktoons.us"" tvg-logo="./tv/logos/countries/united-states/nick-toons-us.png",Nicktoons
 https://dlhd.dad/watch.php?id=649
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/newsmax2-us.png",Newsmax USA
@@ -2376,7 +2376,7 @@ https://dlhd.dad/watch.php?id=332
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/outdoor-channel-us.png",Outdoor Channel USA
 https://dlhd.dad/watch.php?id=848
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/paramount-network-us.png",Paramount Network
+#EXTINF:-1 group-title="USA" tvg-id="paramount-network.us"" tvg-logo="./tv/logos/countries/united-states/paramount-network-us.png",Paramount Network
 https://dlhd.dad/watch.php?id=334
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",POP TV USA
@@ -2385,7 +2385,7 @@ https://dlhd.dad/watch.php?id=653
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/pac-12-network-us.png",Pac-12 Network USA
 https://dlhd.dad/watch.php?id=287
 
-#EXTINF:-1 tvg-id="cbs_sports_network_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/pbs-us.png",PBS USA
+#EXTINF:-1 tvg-id="tbs_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/pbs-us.png",PBS USA
 https://dlhd.dad/watch.php?id=210
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Reelz Channel
@@ -2442,13 +2442,13 @@ https://dlhd.dad/watch.php?id=695
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",StarzPlay CricLife 1 HD
 https://dlhd.dad/watch.php?id=284
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Science Channel
+#EXTINF:-1 group-title="USA" tvg-id="science-channel.us"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",Science Channel
 https://dlhd.dad/watch.php?id=294
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/showtime-us.png",Showtime USA
 https://dlhd.dad/watch.php?id=333
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/media/star.png",Starz
+#EXTINF:-1 group-title="USA" tvg-id="starz.us"" tvg-logo="./tv/logos/misc/media/star.png",Starz
 https://dlhd.dad/watch.php?id=335
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/syfy-us.png",SYFY USA
@@ -2487,13 +2487,13 @@ https://dlhd.dad/watch.php?id=66
 #EXTINF:-1 tvg-id="tbs_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/tbs-us.png",TBS USA
 https://dlhd.dad/watch.php?id=336
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",TLC
+#EXTINF:-1 group-title="USA" tvg-id="tlc.us"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",TLC
 https://dlhd.dad/watch.php?id=337
 
 #EXTINF:-1 tvg-id="tnt_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/tnt-us.png",TNT USA
 https://dlhd.dad/watch.php?id=338
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/travel-channel-us.png",Travel Channel
+#EXTINF:-1 group-title="USA" tvg-id="travel-channel.us"" tvg-logo="./tv/logos/countries/united-states/travel-channel-us.png",Travel Channel
 https://dlhd.dad/watch.php?id=340
 
 #EXTINF:-1 tvg-id="trutv_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/tru-tv-us.png",TruTV USA
@@ -2526,7 +2526,7 @@ https://dlhd.dad/watch.php?id=343
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/universal-kids-us.png",Universal Kids USA
 https://dlhd.dad/watch.php?id=668
 
-#EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/us-local/univision/univision-us.png",Univision
+#EXTINF:-1 group-title="USA" tvg-id="univision.us"" tvg-logo="./tv/logos/countries/united-states/us-local/univision/univision-us.png",Univision
 https://dlhd.dad/watch.php?id=132
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/vh1-us.png",VH1 USA
@@ -2541,7 +2541,7 @@ https://dlhd.dad/watch.php?id=376
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/countries/united-states/we-tv-us.png",WETV USA
 https://dlhd.dad/watch.php?id=655
 
-#EXTINF:-1 tvg-id="yes_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/yes-network-us.png",YES Network USA
+#EXTINF:-1 tvg-id="sec_network_usa" group-title="USA"" tvg-logo="./tv/logos/countries/united-states/yes-network-us.png",YES Network USA
 https://dlhd.dad/watch.php?id=763
 
 #EXTINF:-1 group-title="USA"" tvg-logo="./tv/logos/misc/24-7/circle1-247.png",5 USA
