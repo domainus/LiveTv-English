@@ -318,7 +318,7 @@ def categorize_live_event(line):
         if sterm in norm_title:
             return "Live Events - All Soccer Matches"
     # NFL / American football
-    if "nfl" in norm_title or "american football" in norm_title:
+    if "nfl" in norm_title or "am. football" in norm_title:
         return "Live Events - Am. Football"
     # Basketball
     if "nba" in norm_title or "basketball" in norm_title:
