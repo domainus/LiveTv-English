@@ -43,6 +43,10 @@ jobs:
         run: |
           python add_country_categories_to_dlhd.py
 
+      - name: Update EPGSHare EPG
+        run: |
+          python epgshare_fetcher.py
+
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Actions"
