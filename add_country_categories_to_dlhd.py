@@ -295,19 +295,59 @@ def extract_country(line):
     logging.info(f"Country not detected, marking as Other for line: {display}")
     return "Other"
 
+
+def categorize_live_event(line):
+    """
+    Inspects the channel title and returns a more specific Live Events subcategory.
+    """
+    # Extract title from EXTINF line
+    try:
+        display = line.split(",", 1)[1].strip()
+    except IndexError:
+        display = line
+    title = display.lower()
+    # Normalize for keyword searching
+    norm_title = re.sub(r'[^a-z0-9 ]', ' ', title)
+    norm_title = re.sub(r'\s+', ' ', norm_title)
+    # Soccer
+    soccer_terms = [
+        "soccer", "football", "liga", "champions", "world cup", "premier league",
+        "serie a", "bundesliga", "laliga", "la liga", "uefa", "epl", "ligue 1", "copa", "mls"
+    ]
+    for sterm in soccer_terms:
+        if sterm in norm_title:
+            return "Live Events - All Soccer Matches"
+    # NFL / American football
+    if "nfl" in norm_title or "american football" in norm_title:
+        return "Live Events - Am. Football"
+    # Basketball
+    if "nba" in norm_title or "basketball" in norm_title:
+        return "Live Events - Basketball"
+    # Cricket
+    if "cricket" in norm_title:
+        return "Live Events - Cricket"
+    # MMA
+    if "ufc" in norm_title or "mma" in norm_title:
+        return "Live Events - MMA"
+    # Default
+    return "Live Events - All Matches"
+
+
 def organize_m3u_by_country(input_path, output_path):
     """
     Processes only DLHD 24/7 entries, groups them by country, and
-    updates their group-title to the country name.
+    updates their group-title to the country name. Adds subcategories for Live Events.
     """
     logging.info(f"Reading input file: {input_path}")
     with open(input_path, "r", encoding="utf-8") as infile:
         lines = infile.readlines()
 
     organized = defaultdict(list)
+    live_events_categorized = defaultdict(list)  # For new live events subgroups
     current_extinf = None
     current_country = None
     total_processed = 0
+    total_live_events = 0
 
     for line in lines:
         if line.startswith("#EXTINF"):
@@ -322,32 +362,50 @@ def organize_m3u_by_country(input_path, output_path):
         elif line.strip() and not line.startswith("#"):
             # Found a stream URL
             if current_extinf:
-                organized[current_country].append([current_extinf, line.strip()])
+                # Detect Live Events and categorize further
+                if re.search(r'group-title="Live Events?"', current_extinf, re.IGNORECASE):
+                    subcat = categorize_live_event(current_extinf)
+                    live_events_categorized[subcat].append([current_extinf, line.strip()])
+                    total_live_events += 1
+                else:
+                    organized[current_country].append([current_extinf, line.strip()])
                 total_processed += 1
 
     logging.info(f"Number of countries found: {len(organized)}")
     logging.info(f"Total DLHD 24/7/Live Event channels processed: {total_processed}")
+    logging.info(f"Total Live Event channels categorized: {total_live_events}")
 
     if total_processed == 0:
         logging.info("No DLHD 24/7 or Live Event channels found. No changes made to the output file.")
         return
 
-    # Write output sorted by country
+    # Write output sorted by country and live event category
     logging.info(f"Writing grouped entries to output file: {output_path}")
     with open(output_path, "w", encoding="utf-8") as outfile:
         outfile.write("#EXTM3U\n\n")
+        # Write DLHD 24/7 grouped by country
         for country in sorted(organized.keys()):
             for entry in organized[country]:
                 extinf, url = entry
-                # Preserve existing Live Event group-titles
-                if re.search(r'group-title="Live Events?"', extinf, re.IGNORECASE):
-                    new_extinf = extinf
-                else:
-                    new_extinf = re.sub(
-                        r'group-title="[^"]*"',
-                        f'group-title="{country}"',
-                        extinf
-                    )
+                # Only update group-title for DLHD 24/7, not Live Events
+                new_extinf = re.sub(
+                    r'group-title="[^"]*"',
+                    f'group-title="{country}"',
+                    extinf
+                )
+                outfile.write(new_extinf + "\n")
+                outfile.write(url + "\n\n")
+        # Write Live Events by subcategory, sorted by subcat name
+        for subcat in sorted(live_events_categorized.keys()):
+            for entry in live_events_categorized[subcat]:
+                extinf, url = entry
+                # Update group-title to include subcategory
+                new_extinf = re.sub(
+                    r'group-title="Live Events?"',
+                    f'group-title="{subcat}"',
+                    extinf,
+                    flags=re.IGNORECASE
+                )
                 outfile.write(new_extinf + "\n")
                 outfile.write(url + "\n\n")
 
