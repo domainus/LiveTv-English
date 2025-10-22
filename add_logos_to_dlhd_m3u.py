@@ -10,6 +10,7 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 LOGO_DIR = "./tv"
 FALLBACK_LOGO = "./tv/logos/misc/24-7/circle1-247.png"
 OUTPUT_FILE = "dlhd_with_logos.m3u"
+INPUT_FILE = "dlhd_with_country_categories.m3u"
 
 def get_logo_files(base_dir):
     """Recursively get all logo files under the tv directory."""
@@ -70,7 +71,7 @@ def add_logos_to_m3u(input_path, output_path):
     logging.info(f"Output written to {output_path}")
 
 if __name__ == "__main__":
-    input_file = input("Enter input .m3u file path: ").strip()
+    input_file = INPUT_FILE
     if not os.path.exists(input_file):
         logging.error(f"File not found: {input_file}")
         exit(1)

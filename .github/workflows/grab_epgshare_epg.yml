@@ -1,4 +1,4 @@
-name: RUN SCRIPT
+name: Grab EPGShare EPG
 on:
   schedule:
     - cron: '0 6 * * *'
@@ -23,25 +23,9 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright python-dateutil python-dotenv
           playwright install
 
-      - name: Gather m3u
+      - name: Update EPGSHare EPG
         run: |
-          python m3u.py
-
-      - name: Convert JSON guide to EPG
-        run: |
-          python json_to_epg.py
-
-      - name: Match EPG with m3u
-        run: |
-          python match_epg_with_m3u.py
-
-      - name: Add Country Categories to DLHD
-        run: |
-          python add_country_categories_to_dlhd.py
-
-      - name: Add Logos to M3u
-        run: |
-          python add_logos_to_dlhd_m3u.py
+          python epgshare_fetcher.py
 
       - name: Configure Git
         run: |
