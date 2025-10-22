@@ -4371,6 +4371,62 @@
         ]
     },
     "Wednesday, October 22, 2025": {
+        "Tennis</span>": [
+            {
+                "time": "08:10",
+                "event": "Pinnington Jones Jack vs Hijikata Rinky",
+                "channels": []
+            },
+            {
+                "time": "08:06",
+                "event": "Giulia Alessia Monteleone - Maria Camila Romero Vargas",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Rafael Jodar - Saba Purtseladze",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Diletta Cherubini - Martina Trevisan",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "WTA 500: Toray Pan Pacific Open",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Ilagan Andre vs Holt Brandon",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "ATP 500: Erste Bank Open",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "ATP 500: Swiss Indoors Basel Open",
+                "channels": []
+            }
+        ],
+        "Baseball</span>": [
+            {
+                "time": "08:08",
+                "event": "Milwaukee Brewers - Los Angeles Dodgers",
+                "channels": []
+            }
+        ],
+        "Other</span>": [
+            {
+                "time": "08:00",
+                "event": "Tomayapo - Bolivar",
+                "channels": []
+            }
+        ],
         "Fight</span>": [
             {
                 "time": "08:00",
@@ -4478,6 +4534,11 @@
         ],
         "Football</span>": [
             {
+                "time": "07:00",
+                "event": "Millonarios vs Atl\u00e9tico Bucaramanga",
+                "channels": []
+            },
+            {
                 "time": "06:30",
                 "event": "Portland Hearts of Pine vs Spokane Velocity",
                 "channels": []
@@ -4563,33 +4624,6 @@
                 "channels": []
             }
         ],
-        "Tennis</span>": [
-            {
-                "time": "08:10",
-                "event": "Pinnington Jones Jack vs Hijikata Rinky",
-                "channels": []
-            },
-            {
-                "time": "09:30",
-                "event": "WTA 500: Toray Pan Pacific Open",
-                "channels": []
-            },
-            {
-                "time": "09:40",
-                "event": "Ilagan Andre vs Holt Brandon",
-                "channels": []
-            },
-            {
-                "time": "19:30",
-                "event": "ATP 500: Erste Bank Open",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "ATP 500: Swiss Indoors Basel Open",
-                "channels": []
-            }
-        ],
         "Golf</span>": [
             {
                 "time": "09:00",
@@ -4629,66 +4663,6 @@
     },
     "Wednesday 22nd October 2025 - Extra Schedule Time UK": {
         "All matches</span>": [
-            {
-                "time": "19:05",
-                "event": "Moez Echargui\u00b7Arthur Bouquier",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8838928",
-                        "channel_id": "8838928"
-                    }
-                ]
-            },
-            {
-                "time": "19:15",
-                "event": "Al Hilal\u00b7Al Sadd Doha",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8460997",
-                        "channel_id": "8460997"
-                    }
-                ]
-            },
-            {
-                "time": "19:15",
-                "event": "Rudy Ceccon\u00b7Matias Ponce De Leon Gomila",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8836087",
-                        "channel_id": "8836087"
-                    }
-                ]
-            },
-            {
-                "time": "19:15",
-                "event": "Jacob Fearnley\u00b7Alexander Zverev",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8841443",
-                        "channel_id": "8841443"
-                    }
-                ]
-            },
-            {
-                "time": "19:20",
-                "event": "Ayumi Koshiishi\u00b7Alexandra Vagramov",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8843454",
-                        "channel_id": "8843454"
-                    }
-                ]
-            },
-            {
-                "time": "19:25",
-                "event": "Bautista Durrels Rojo\u00b7William Freshwater",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8848807",
-                        "channel_id": "8848807"
-                    }
-                ]
-            },
             {
                 "time": "19:30",
                 "event": "Warona Mdlulwa\u00b7A.C.U.Ukaegbu",
@@ -5650,16 +5624,6 @@
                 ]
             },
             {
-                "time": "01:05",
-                "event": "Federico Bondioli\u00b7Giorgio Tabacco",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-8842273",
-                        "channel_id": "8842273"
-                    }
-                ]
-            },
-            {
                 "time": "01:06",
                 "event": "Giulia Alessia Monteleone\u00b7Maria Camila Romero Vargas",
                 "channels": [
@@ -5696,6 +5660,16 @@
                     {
                         "channel_name": "Extra Stream CH-8686988",
                         "channel_id": "8686988"
+                    }
+                ]
+            },
+            {
+                "time": "01:31",
+                "event": "Federico Bondioli\u00b7Giorgio Tabacco",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8842273",
+                        "channel_id": "8842273"
                     }
                 ]
             },
