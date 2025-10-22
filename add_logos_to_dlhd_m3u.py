@@ -1,5 +1,3 @@
-
-
 import os
 import re
 import difflib
@@ -8,7 +6,8 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
 LOGO_DIR = "./tv"
-FALLBACK_LOGO = "./tv/logos/misc/24-7/circle1-247.png"
+GITHUB_LOGO_BASE_URL = "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/"
+FALLBACK_LOGO_URL = GITHUB_LOGO_BASE_URL + "logos/misc/24-7/circle1-247.png"
 OUTPUT_FILE = "dlhd_with_logos.m3u"
 INPUT_FILE = "dlhd_with_country_categories.m3u"
 
@@ -28,9 +27,10 @@ def best_logo_match(channel_name, logo_map):
     normalized = re.sub(r'[^a-z0-9 ]', '', channel_name.lower())
     best = difflib.get_close_matches(normalized, logo_map.keys(), n=1, cutoff=0.7)
     if best:
-        return logo_map[best[0]]
+        relative_path = os.path.relpath(logo_map[best[0]], LOGO_DIR).replace("\\", "/")
+        return GITHUB_LOGO_BASE_URL + relative_path
     # fallback
-    return FALLBACK_LOGO
+    return FALLBACK_LOGO_URL
 
 def add_logos_to_m3u(input_path, output_path):
     """Read M3U file, match each channel to a logo, and add tvg-logo attribute."""
@@ -48,16 +48,16 @@ def add_logos_to_m3u(input_path, output_path):
             match = re.search(r",(.+)", line)
             if match:
                 channel_name = match.group(1).strip()
-                logo_path = best_logo_match(channel_name, logos)
-                if logo_path == FALLBACK_LOGO:
+                logo_url = best_logo_match(channel_name, logos)
+                if logo_url == FALLBACK_LOGO_URL:
                     fallback_count += 1
                 else:
                     match_count += 1
 
                 if 'tvg-logo="' in line:
-                    new_line = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_path}"', line)
+                    new_line = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', line)
                 else:
-                    new_line = line.strip().replace(",", f'" tvg-logo="{logo_path}",', 1)
+                    new_line = line.strip().replace(",", f'" tvg-logo="{logo_url}",', 1)
                 output_lines.append(new_line + "\n")
             else:
                 output_lines.append(line)
