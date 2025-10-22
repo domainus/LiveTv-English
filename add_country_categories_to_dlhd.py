@@ -1,6 +1,9 @@
 import re
 from collections import defaultdict
 import logging
+import os
+import difflib
+import xml.etree.ElementTree as ET
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -333,14 +336,81 @@ def categorize_live_event(line):
     return "Live Events - All Matches"
 
 
+import json
+
+def load_known_channel_ids(json_path="known_channel_ids.json"):
+    """Load a dictionary of known canonical channel IDs (from IPTV-ORG schema)."""
+    if not os.path.exists(json_path):
+        logging.warning(f"Known ID file not found: {json_path}")
+        return {}
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    # Normalize keys for case-insensitive lookup
+    return {k.lower(): v for k, v in data.items()}
+
+def parse_epg(epg_path):
+    """
+    Parses an XMLTV EPG file and returns a mapping of channel id -> list of display-names.
+    """
+    epg_map = {}
+    try:
+        tree = ET.parse(epg_path)
+        root = tree.getroot()
+        for ch in root.findall("channel"):
+            chid = ch.attrib.get("id", "").strip()
+            names = [dn.text.strip() for dn in ch.findall("display-name") if dn.text and dn.text.strip()]
+            if chid and names:
+                epg_map[chid] = names
+    except Exception as e:
+        logging.error(f"Failed to parse EPG file {epg_path}: {e}")
+    return epg_map
+
+def find_best_epg_match(channel_name, epg_map):
+    """
+    Uses fuzzy matching to find the best EPG channel id for a given channel_name.
+    Returns the best matching EPG id or None if no good match.
+    """
+    # Normalize channel name
+    norm_name = channel_name.lower().strip()
+    norm_name = re.sub(r'[^a-z0-9 ]', ' ', norm_name)
+    norm_name = re.sub(r'\s+', ' ', norm_name).strip()
+    best_score = 0
+    best_id = None
+    for chid, names in epg_map.items():
+        for disp in names:
+            disp_norm = disp.lower().strip()
+            disp_norm = re.sub(r'[^a-z0-9 ]', ' ', disp_norm)
+            disp_norm = re.sub(r'\s+', ' ', disp_norm).strip()
+            score = difflib.SequenceMatcher(None, norm_name, disp_norm).ratio()
+            if score > best_score:
+                best_score = score
+                best_id = chid
+    # Consider only strong matches
+    if best_score >= 0.85:
+        return best_id
+    return None
+
+
 def organize_m3u_by_country(input_path, output_path):
     """
     Processes only DLHD 24/7 entries, groups them by country, and
     updates their group-title to the country name. Adds subcategories for Live Events.
+    Integrates EPG channel ID matching if epg.xml is present.
     """
     logging.info(f"Reading input file: {input_path}")
     with open(input_path, "r", encoding="utf-8") as infile:
         lines = infile.readlines()
+        
+    known_ids = load_known_channel_ids()
+    
+    # Check for EPG file in the same directory
+    epg_map = {}
+    epg_matches = 0
+    epg_path = os.path.join(os.path.dirname(os.path.abspath(input_path)), "epg.xml")
+    if os.path.exists(epg_path):
+        logging.info(f"EPG file detected: {epg_path}. Parsing for channel ID matching...")
+        epg_map = parse_epg(epg_path)
+        logging.info(f"EPG channels loaded: {len(epg_map)}")
 
     organized = defaultdict(list)
     live_events_categorized = defaultdict(list)  # For new live events subgroups
@@ -349,11 +419,39 @@ def organize_m3u_by_country(input_path, output_path):
     total_processed = 0
     total_live_events = 0
 
-    for line in lines:
+    # Remove misplaced pre-loop EPG matching block (epg_id assignment before channel_name is defined)
+
+    for idx, line in enumerate(lines):
         if line.startswith("#EXTINF"):
             # Process entries with DLHD 24/7 or Live Event(s) in group-title
             if 'DLHD 24/7' in line or re.search(r'group-title="Live Events?"', line, re.IGNORECASE):
-                current_extinf = line.strip()
+                extinf_line = line.strip()
+                # Extract channel name for EPG matching
+                try:
+                    channel_name = extinf_line.split(",", 1)[1].strip()
+                except IndexError:
+                    channel_name = extinf_line
+                # EPG ID matching: first try known_ids, then fuzzy EPG map if available
+                epg_id = None
+                if channel_name.lower() in known_ids:
+                    epg_id = known_ids[channel_name.lower()]
+                elif epg_map:
+                    epg_id = find_best_epg_match(channel_name, epg_map)
+                if epg_id:
+                    # Inject or update tvg-id attribute
+                    if re.search(r'tvg-id="[^"]*"', extinf_line):
+                        extinf_line = re.sub(r'tvg-id="[^"]*"', f'tvg-id="{epg_id}"', extinf_line)
+                    else:
+                        # Insert tvg-id before first comma or after first quote
+                        m = re.search(r'(")([^"]*)(")', extinf_line)
+                        if m:
+                            # Insert tvg-id after the last quote in the attribute list
+                            extinf_line = re.sub(r'(")([^"]*)(")', r'\1\2\3 tvg-id="' + epg_id + '"', extinf_line, count=1)
+                        else:
+                            # Fallback: before comma
+                            extinf_line = extinf_line.replace(",", f' tvg-id="{epg_id}",', 1)
+                    epg_matches += 1
+                current_extinf = extinf_line
                 current_country = extract_country(line)
                 logging.debug(f"Processing channel '{line.strip()}' detected as {current_country}")
             else:
@@ -374,6 +472,8 @@ def organize_m3u_by_country(input_path, output_path):
     logging.info(f"Number of countries found: {len(organized)}")
     logging.info(f"Total DLHD 24/7/Live Event channels processed: {total_processed}")
     logging.info(f"Total Live Event channels categorized: {total_live_events}")
+    if epg_map:
+        logging.info(f"Channels matched to EPG IDs: {epg_matches}")
 
     if total_processed == 0:
         logging.info("No DLHD 24/7 or Live Event channels found. No changes made to the output file.")

@@ -31,10 +31,6 @@ jobs:
         run: |
           python json_to_epg.py
 
-      - name: Match EPG with m3u
-        run: |
-          python match_epg_with_m3u.py
-
       - name: Add Country Categories to DLHD
         run: |
           python add_country_categories_to_dlhd.py
