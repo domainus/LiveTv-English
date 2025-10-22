@@ -31,13 +31,18 @@ jobs:
         run: |
           python json_to_epg.py
 
+      - name: Update EPG with Known Channel IDs
+        run: |
+          python match_epg_with_known_channels.py
+
       - name: Add Country Categories to DLHD
         run: |
           python add_country_categories_to_dlhd.py
 
-      - name: Add Logos to M3u
+      - name: Add Logos to M3u and EPG
         run: |
           python add_logos_to_dlhd_m3u.py
+          python add_logos_to_epg.py
 
       - name: Configure Git
         run: |

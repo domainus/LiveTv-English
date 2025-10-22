@@ -207,4 +207,4 @@ def update_epg_with_known_ids(epg_path, known_ids_path, output_path):
 
 
 if __name__ == "__main__":
-    update_epg_with_known_ids("epg.xml", "known_channel_ids.json", "epg_updated.xml")
+    update_epg_with_known_ids("epg.xml", "known_channel_ids.json", "epg.xml")
