@@ -27,11 +27,6 @@ def download_epg(epg_url):
     os.makedirs(EPG_DIR, exist_ok=True)
     file_name_gz = os.path.join(EPG_DIR, os.path.basename(epg_url))
 
-    # Check if file already exists
-    if os.path.exists(file_name_gz):
-        logging.info(f"Skipping {file_name_gz} (already exists)")
-        return None
-
     # Check file size before downloading
     head = requests.head(epg_url)
     size = int(head.headers.get("Content-Length", 0)) / (1024 * 1024)
