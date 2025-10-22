@@ -4,6 +4,7 @@ import logging
 import os
 import difflib
 import unicodedata
+import json
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 
@@ -139,5 +140,71 @@ def main():
 
     logging.info(f"✅ Updated playlist written to {OUTPUT_FILE} with {tvg_id_added_count} tvg-ids added.")
 
+def update_epg_with_known_ids(epg_path, known_ids_path, output_path):
+    """Update EPG channel ids based on known_channel_ids.json"""
+    # Load known IDs JSON
+    try:
+        with open(known_ids_path, "r", encoding="utf-8") as f:
+            known_ids = json.load(f)
+    except Exception as e:
+        logging.error(f"Failed to load known IDs JSON from {known_ids_path}: {e}")
+        return
+
+    # Read EPG content, handling .rtf by extracting XML content
+    _, ext = os.path.splitext(epg_path.lower())
+    xml_content = None
+    try:
+        if ext == ".rtf":
+            with open(epg_path, "r", encoding="utf-8") as f:
+                rtf_text = f.read()
+            # Simple extraction of XML inside RTF: find first '<' and last '>'
+            start = rtf_text.find("<")
+            end = rtf_text.rfind(">")
+            if start == -1 or end == -1 or end <= start:
+                logging.error(f"Could not find XML content inside RTF file {epg_path}")
+                return
+            xml_content = rtf_text[start:end+1]
+            root = ET.fromstring(xml_content)
+        else:
+            tree = ET.parse(epg_path)
+            root = tree.getroot()
+    except Exception as e:
+        logging.error(f"Failed to parse EPG XML from {epg_path}: {e}")
+        return
+
+    # Build mapping from old ids to new ids
+    old_to_new_id = {}
+
+    # Iterate channels and update ids if display-name matches known ids
+    for channel in root.findall("channel"):
+        name_elem = channel.find("display-name")
+        if name_elem is not None and name_elem.text:
+            display_name_norm = name_elem.text.strip().lower()
+            if display_name_norm in known_ids:
+                old_id = channel.get("id")
+                new_id = known_ids[display_name_norm]
+                if old_id != new_id:
+                    logging.info(f"Updating channel id for '{name_elem.text.strip()}': '{old_id}' -> '{new_id}'")
+                    old_to_new_id[old_id] = new_id
+                    channel.set("id", new_id)
+
+    # Update programme elements channel attribute if matching old ids
+    for programme in root.findall("programme"):
+        ch = programme.get("channel")
+        if ch in old_to_new_id:
+            new_ch = old_to_new_id[ch]
+            logging.info(f"Updating programme channel attribute: '{ch}' -> '{new_ch}'")
+            programme.set("channel", new_ch)
+
+    # Write updated XML to output_path
+    try:
+        tree = ET.ElementTree(root)
+        tree.write(output_path, encoding="utf-8", xml_declaration=True)
+        logging.info(f"Updated EPG saved to {output_path}")
+    except Exception as e:
+        logging.error(f"Failed to write updated EPG XML to {output_path}: {e}")
+
+
+
 if __name__ == "__main__":
-    main()
+    update_epg_with_known_ids("epg.xml", "known_channel_ids.json", "epg_updated.xml")
