@@ -339,11 +339,15 @@ def organize_m3u_by_country(input_path, output_path):
         for country in sorted(organized.keys()):
             for entry in organized[country]:
                 extinf, url = entry
-                new_extinf = re.sub(
-                    r'group-title="[^"]*"',
-                    f'group-title="{country}"',
-                    extinf
-                )
+                # Preserve existing Live Event group-titles
+                if re.search(r'group-title="Live Event"', extinf, re.IGNORECASE):
+                    new_extinf = extinf
+                else:
+                    new_extinf = re.sub(
+                        r'group-title="[^"]*"',
+                        f'group-title="{country}"',
+                        extinf
+                    )
                 outfile.write(new_extinf + "\n")
                 outfile.write(url + "\n\n")
 
