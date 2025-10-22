@@ -54,7 +54,11 @@ def extract_country(line):
         "nz": "New Zealand", "nzl": "New Zealand", "new zealand": "New Zealand",
         "pk": "Pakistan", "pak": "Pakistan", "pakistan": "Pakistan",
         "ie": "Ireland", "irl": "Ireland", "ireland": "Ireland",
-        "bundesliga": "Germany"
+        "bundesliga": "Germany",
+        "bosnia and herzegovina": "Bosnia and Herzegovina",
+        "south africa": "South Africa",
+        "hungary": "Hungary",
+        "bangladesh": "Bangladesh"
     }
 
     # --- Brand heuristics ---
@@ -118,7 +122,54 @@ def extract_country(line):
         "antenna tv": "USA", "cozi tv": "USA", "buzzr": "USA", "game show network": "USA", "gsn": "USA",
         "c-span": "USA", "c-span2": "USA", "c-span3": "USA",
         "tbn": "USA", "daystar": "USA", "eternity": "USA", "ewtn": "USA", "insp": "USA",
-        "magnolia": "USA", "own": "USA"
+        "magnolia": "USA", "own": "USA",
+        # Additional entries from dlhd.rtf
+        "fanduel": "USA", "ahc": "USA", "cleotv": "USA", "c span": "USA", "law & crime": "USA",
+        "headline news": "USA", "freeform": "USA", "motor trend": "USA", "reelz": "USA",
+        "grit": "USA", "great american family": "USA", "altitude": "USA", "root sports": "USA",
+        "space city": "USA", "nfl redzone": "USA", "tennis channel": "USA", "nick": "USA",
+        "tvland": "USA", "fyi": "USA", "wwe": "USA",
+        # UK
+        "sky sports": "UK", "sky crime": "UK", "sky witness": "UK", "sky atlantic": "UK",
+        "sky sports premier league": "UK", "sky sports main event": "UK", "sky sports cricket": "UK",
+        "e4": "UK", "dave": "UK",
+        # Malaysia
+        "astro supersport": "Malaysia", "astro cricket": "Malaysia",
+        # Qatar / Arab World
+        "ssc sport": "Saudi Arabia", "alkass": "Qatar", "abu dhabi": "UAE",
+        # Greece
+        "cosmote": "Greece", "vodafone sport": "Greece",
+        # South Africa
+        "supersport": "South Africa", "dstv": "South Africa",
+        # Romania
+        "prima sport": "Romania",
+        # Ireland
+        "rte": "Ireland",
+        # Netherlands
+        "rtl": "Netherlands",
+        # Spain
+        "dazn laliga": "Spain", "movistar laliga": "Spain", "laliga": "Spain",
+        # Hungary
+        "m4 sports": "Hungary",
+        # Pakistan
+        "ptv sports": "Pakistan",
+        # Bangladesh
+        "t sports bd": "Bangladesh",
+        # Sweden
+        "tv4": "Sweden", "v film": "Sweden",
+        # Canada
+        "citytv": "Canada", "tva sports": "Canada",
+        # Colombia
+        "win sports": "Colombia",
+        # France
+        "automoto": "France",
+        # Israel
+        "channel 10 israel": "Israel",
+        # Germany
+        "sportdigital fussball": "Germany",
+        # Serbia / Balkans
+        "arena sport": "Serbia", "arena sport bih": "Bosnia and Herzegovina",
+        "arena sport croatia": "Croatia", "arena sport premium": "Serbia"
     })
 
     # --- 1) tvg-country ---
@@ -230,8 +281,8 @@ def extract_country(line):
     if re.search(r"[\u0400-\u04FF]", display):  # Cyrillic
         return "Russia"
 
-    logging.info(f"Country not detected, marking as Unknown for line: {display}")
-    return "Unknown"
+    logging.info(f"Country not detected, marking as Other for line: {display}")
+    return "Other"
 
 def organize_m3u_by_country(input_path, output_path):
     """
