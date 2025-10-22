@@ -58,7 +58,11 @@ def extract_country(line):
         "bosnia and herzegovina": "Bosnia and Herzegovina",
         "south africa": "South Africa",
         "hungary": "Hungary",
-        "bangladesh": "Bangladesh"
+        "bangladesh": "Bangladesh",
+        # Cyprus mappings
+        "cy": "Cyprus", "cyp": "Cyprus", "cyprus": "Cyprus",
+        # Australia mappings
+        "au": "Australia", "aus": "Australia", "australia": "Australia"
     }
 
     # --- Brand heuristics ---
@@ -91,6 +95,9 @@ def extract_country(line):
     }
     # --- Expanded USA channel/network map ---
     brand_map.update({
+        # Fix incorrect categorization
+        "universion": "Mexico",
+        "sky history": "UK",
         # Major U.S. broadcast and cable networks
         "fox news": "USA", "msnbc": "USA", "cnn en español": "USA",
         "nbc news": "USA", "abc news": "USA", "cbs news": "USA",
@@ -257,7 +264,11 @@ def extract_country(line):
         "new zealand": "New Zealand",
         "pakistan": "Pakistan",
         "ireland": "Ireland",
-        "bundesliga": "Germany"
+        "bundesliga": "Germany",
+        # Cyprus priority keyword
+        "cyprus": "Cyprus",
+        # Australia priority keyword
+        "australia": "Australia"
     }.items():
         if keyword in display_normalized:
             logging.debug(f"Detected specific country keyword '{keyword}' overriding brand match")
