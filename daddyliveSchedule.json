@@ -6375,1005 +6375,861 @@
             }
         ]
     },
-    "Sunday 7th December 2025": {},
+    "Monday 08th Dec 2025 - Schedule Time UK GMT": {
+        "Soccer</span>": [
+            {
+                "time": "11:30",
+                "event": "Soccer : Modena vs Catanzaro",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-458",
+                        "channel_id": "458"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "Soccer : Pisa vs Parma",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-457",
+                        "channel_id": "457"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-464",
+                        "channel_id": "464"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "Soccer : Farense vs Vizela",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-463",
+                        "channel_id": "463"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "Soccer : UTA Arad vs Petrolul 52",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-460",
+                        "channel_id": "460"
+                    }
+                ]
+            },
+            {
+                "time": "16:15",
+                "event": "Soccer : Bari 1908 vs Pescara",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-458",
+                        "channel_id": "458"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Soccer : Hamburger SV vs K\u00f6ln",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-453",
+                        "channel_id": "453"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Soccer : Udinese vs Genoa",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-457",
+                        "channel_id": "457"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-464",
+                        "channel_id": "464"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Soccer : Be\u015fikta\u015f vs Gaziantep FK",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-461",
+                        "channel_id": "461"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-465",
+                        "channel_id": "465"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Soccer : Korona Kielce vs Wis\u0142a P\u0142ock",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-459",
+                        "channel_id": "459"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Soccer : Boto\u015fani vs Rapid Bucure\u015fti",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-460",
+                        "channel_id": "460"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Soccer : Brackley Town vs Burton Albion",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-455",
+                        "channel_id": "455"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "Soccer : Torino vs Milan",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-457",
+                        "channel_id": "457"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-465",
+                        "channel_id": "465"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "Soccer : Reims vs Laval",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-454",
+                        "channel_id": "454"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Soccer : Wolverhampton Wanderers vs Manchester United",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-451",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-473",
+                        "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-469",
+                        "channel_id": "469"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Soccer : Osasuna vs Levante",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-452",
+                        "channel_id": "452"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-456",
+                        "channel_id": "456"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-453",
+                        "channel_id": "453"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-474",
+                        "channel_id": "474"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-470",
+                        "channel_id": "470"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Soccer : Gimnasia La Plata vs Estudiantes",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-465",
+                        "channel_id": "465"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "Soccer : Vit\u00f3ria Guimar\u00e3es vs Gil Vicente",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-464",
+                        "channel_id": "464"
+                    }
+                ]
+            }
+        ],
+        "Basketball</span>": [
+            {
+                "time": "17:30",
+                "event": "Lega A : Virtus Bologna vs. Derthona Basket",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-458",
+                        "channel_id": "458"
+                    }
+                ]
+            }
+        ],
+        "NFL</span>": [
+            {
+                "time": "01:15",
+                "event": "NFL : Los Angeles Chargers vs Philadelphia Eagles",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-451",
+                        "channel_id": "451"
+                    }
+                ]
+            }
+        ]
+    },
     "Sunday 07th December 2025 - Schedule Time UK GMT": {
         "Soccer</span>": [
             {
                 "time": "11:00",
                 "event": "Soccer : Lusitania FC Lourosa vs Portimonense",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-463",
+                        "channel_id": "463"
+                    }
+                ]
             },
             {
                 "time": "11:15",
                 "event": "Soccer : Utrecht vs Twente",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-461",
+                        "channel_id": "461"
+                    }
+                ]
             },
             {
                 "time": "11:30",
                 "event": "Soccer : Cremonese vs Lecce",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-457",
+                        "channel_id": "457"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-453",
+                        "channel_id": "453"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-464",
+                        "channel_id": "464"
+                    }
+                ]
             },
             {
                 "time": "11:30",
-                "event": "Soccer : Gen\u00e7lerbirli\u011fi vs Fatih Karag\u00fcmr\u00fck",
-                "channels": []
+                "event": "Soccer : Genclerbirligi vs Fatih Karagumruk",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-460",
+                        "channel_id": "460"
+                    }
+                ]
             },
             {
                 "time": "12:00",
                 "event": "Soccer : Leicester City WFC vs Manchester City",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-469",
+                        "channel_id": "469"
+                    }
+                ]
             },
             {
                 "time": "12:30",
                 "event": "Soccer : Slough Town vs Macclesfield",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-455",
+                        "channel_id": "455"
+                    }
+                ]
             },
             {
                 "time": "13:00",
                 "event": "Soccer : Elche vs Girona",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-452",
+                        "channel_id": "452"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-456",
+                        "channel_id": "456"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-475",
+                        "channel_id": "475"
+                    }
+                ]
             },
             {
                 "time": "14:00",
                 "event": "Soccer : Brighton &amp; Hove Albion vs West Ham United",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-451",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-474",
+                        "channel_id": "474"
+                    }
+                ]
             },
             {
                 "time": "14:00",
                 "event": "Soccer : Nice vs Angers SCO",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-454",
+                        "channel_id": "454"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-465",
+                        "channel_id": "465"
+                    }
+                ]
             },
             {
                 "time": "14:00",
                 "event": "Soccer : Cagliari vs Roma",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-457",
+                        "channel_id": "457"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-464",
+                        "channel_id": "464"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-469",
+                        "channel_id": "469"
+                    }
+                ]
             },
             {
                 "time": "14:00",
-                "event": "Soccer : Kocaelispor vs Kas\u0131mpa\u015fa",
-                "channels": []
+                "event": "Soccer : Kocaelispor vs Kasimpasa",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-460",
+                        "channel_id": "460"
+                    }
+                ]
             },
             {
                 "time": "14:30",
                 "event": "Soccer : Boreham Wood vs Newport County",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-455",
+                        "channel_id": "455"
+                    }
+                ]
             },
             {
                 "time": "14:30",
                 "event": "Soccer : Hamburger SV vs Werder Bremen",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-453",
+                        "channel_id": "453"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-475",
+                        "channel_id": "475"
+                    }
+                ]
             },
             {
                 "time": "15:00",
                 "event": "Soccer : Celtic vs Hearts",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-459",
+                        "channel_id": "459"
+                    }
+                ]
             },
             {
                 "time": "15:15",
                 "event": "Soccer : Valencia vs Sevilla",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-452",
+                        "channel_id": "452"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-456",
+                        "channel_id": "456"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-473",
+                        "channel_id": "473"
+                    }
+                ]
             },
             {
                 "time": "15:30",
                 "event": "Soccer : Gateshead vs Walsall",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-455",
+                        "channel_id": "455"
+                    }
+                ]
             },
             {
                 "time": "15:30",
                 "event": "Soccer : Estoril vs Moreirense",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-463",
+                        "channel_id": "463"
+                    }
+                ]
             },
             {
                 "time": "15:30",
-                "event": "Soccer : Chaves vs Pa\u00e7os de Ferreira",
-                "channels": []
+                "event": "Soccer : Chaves vs Pacos de Ferreira",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-466",
+                        "channel_id": "466"
+                    }
+                ]
             },
             {
                 "time": "15:30",
                 "event": "Soccer : Larissa vs Panathinaikos",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-461",
+                        "channel_id": "461"
+                    }
+                ]
             },
             {
                 "time": "16:15",
                 "event": "Soccer : Auxerre vs Metz",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-454",
+                        "channel_id": "454"
+                    }
+                ]
             },
             {
                 "time": "16:15",
                 "event": "Soccer : Empoli vs Palermo",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-458",
+                        "channel_id": "458"
+                    }
+                ]
             },
             {
                 "time": "16:30",
                 "event": "Soccer : Fulham vs Crystal Palace",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-451",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-474",
+                        "channel_id": "474"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-469",
+                        "channel_id": "469"
+                    }
+                ]
             },
             {
                 "time": "16:30",
                 "event": "Soccer : Borussia Dortmund vs Hoffenheim",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-453",
+                        "channel_id": "453"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-475",
+                        "channel_id": "475"
+                    }
+                ]
             },
             {
                 "time": "17:00",
                 "event": "Soccer : Lazio vs Bologna",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-457",
+                        "channel_id": "457"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-465",
+                        "channel_id": "465"
+                    }
+                ]
             },
             {
                 "time": "17:00",
-                "event": "Soccer : G\u00f6ztepe vs Trabzonspor",
-                "channels": []
+                "event": "Soccer : Goztepe vs Trabzonspor",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-460",
+                        "channel_id": "460"
+                    }
+                ]
             },
             {
                 "time": "17:30",
                 "event": "Soccer : Espanyol vs Rayo Vallecano",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-452",
+                        "channel_id": "452"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-456",
+                        "channel_id": "456"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-473",
+                        "channel_id": "473"
+                    }
+                ]
             },
             {
                 "time": "17:30",
                 "event": "Soccer : Blackpool vs Carlisle United",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-455",
+                        "channel_id": "455"
+                    }
+                ]
             },
             {
                 "time": "17:30",
-                "event": "Soccer : Deportivo La Coru\u00f1a vs CD Castellon",
-                "channels": []
+                "event": "Soccer : Deportivo La Coruna vs CD Castellon",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-459",
+                        "channel_id": "459"
+                    }
+                ]
             },
             {
                 "time": "18:00",
                 "event": "Soccer : Alverca vs Nacional",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-464",
+                        "channel_id": "464"
+                    }
+                ]
             },
             {
                 "time": "18:00",
                 "event": "Soccer : Estrela vs Arouca",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-466",
+                        "channel_id": "466"
+                    }
+                ]
             },
             {
                 "time": "18:30",
                 "event": "Soccer : Sampdoria vs Carrarese",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-458",
+                        "channel_id": "458"
+                    }
+                ]
             },
             {
                 "time": "19:00",
                 "event": "Soccer : AEK Athens vs Atromitos",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-461",
+                        "channel_id": "461"
+                    }
+                ]
             },
             {
                 "time": "19:00",
                 "event": "Soccer : Mirassol vs Flamengo",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-468",
+                        "channel_id": "468"
+                    }
+                ]
             },
             {
                 "time": "19:00",
-                "event": "Soccer : Cear\u00e1 vs Palmeiras",
-                "channels": []
+                "event": "Soccer : Ceara vs Palmeiras",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-463",
+                        "channel_id": "463"
+                    }
+                ]
             },
             {
                 "time": "19:00",
                 "event": "Soccer : Fluminense vs Bahia",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-471",
+                        "channel_id": "471"
+                    }
+                ]
             },
             {
                 "time": "19:00",
                 "event": "Soccer : Santos vs Cruzeiro",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-472",
+                        "channel_id": "472"
+                    }
+                ]
             },
             {
                 "time": "19:00",
                 "event": "Soccer : Corinthians vs Juventude",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-460",
+                        "channel_id": "460"
+                    }
+                ]
             },
             {
                 "time": "19:45",
                 "event": "Soccer : Lorient vs Olympique Lyonnais",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-454",
+                        "channel_id": "454"
+                    }
+                ]
             },
             {
                 "time": "19:45",
                 "event": "Soccer : Napoli vs Juventus",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-455",
+                        "channel_id": "455"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-457",
+                        "channel_id": "457"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-453",
+                        "channel_id": "453"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-465",
+                        "channel_id": "465"
+                    }
+                ]
             },
             {
                 "time": "20:00",
                 "event": "Soccer : Real Madrid vs Celta de Vigo",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-452",
+                        "channel_id": "452"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-456",
+                        "channel_id": "456"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-473",
+                        "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-469",
+                        "channel_id": "469"
+                    }
+                ]
             },
             {
                 "time": "20:00",
                 "event": "Soccer : Granada vs Ceuta",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-459",
+                        "channel_id": "459"
+                    }
+                ]
             },
             {
                 "time": "20:30",
                 "event": "Soccer : Tondela vs Porto",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-463",
+                        "channel_id": "463"
+                    }
+                ]
             },
             {
                 "time": "22:00",
                 "event": "Soccer : Boca Juniors vs Racing Club",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-459",
+                        "channel_id": "459"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-465",
+                        "channel_id": "465"
+                    }
+                ]
             }
         ],
         "Am. Football - NFL</span>": [
             {
                 "time": "21:25",
                 "event": "NFL : Green Bay Packers vs Chicago Bears",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-451",
+                        "channel_id": "451"
+                    }
+                ]
             },
             {
                 "time": "01:20",
                 "event": "NFL : Kansas City Chiefs vs Houston Texans",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-451",
+                        "channel_id": "451"
+                    }
+                ]
             }
         ],
         "Combat Sports</span>": [
             {
                 "time": "08:00",
                 "event": "Judo: Grand Slam in Tokyo Grand Slam in Tokyo. Day 2",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-465",
+                        "channel_id": "465"
+                    }
+                ]
             }
         ],
         "MotorSports</span>": [
             {
                 "time": "13:00",
                 "event": "Formula 1: Abu Dhabi F1 Grand Prix Race",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-459",
+                        "channel_id": "459"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-458",
+                        "channel_id": "458"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-472",
+                        "channel_id": "472"
+                    }
+                ]
             }
         ],
         "Basketball</span>": [
             {
                 "time": "20:30",
                 "event": "NBA : Toronto Raptors vs Boston Celtics",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-464",
+                        "channel_id": "464"
+                    }
+                ]
             },
             {
                 "time": "00:00",
                 "event": "NBA : Chicago Bulls vs Golden State Warriors",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-455",
+                        "channel_id": "455"
+                    },
+                    {
+                        "channel_name": "Extra Stream CH-463",
+                        "channel_id": "463"
+                    }
+                ]
             },
             {
                 "time": "00:30",
                 "event": "NBA : Philadelphia 76ers vs Los Angeles Lakers",
-                "channels": []
-            }
-        ]
-    },
-    "Sunday, December 7, 2025": {
-        "Basketball</span>": [
-            {
-                "time": "13:30",
-                "event": "Perth Wildcats vs Adelaide 36ers",
-                "channels": []
-            },
-            {
-                "time": "11:59",
-                "event": "Cal State Fullerton vs Hawai'i",
-                "channels": []
-            },
-            {
-                "time": "11:30",
-                "event": "South East Melbourne Phoenix vs Melbourne United",
-                "channels": []
-            },
-            {
-                "time": "11:00",
-                "event": "Arizona vs Auburn",
-                "channels": []
-            },
-            {
-                "time": "11:00",
-                "event": "UC Irvine vs Cal State-Northridge",
-                "channels": []
-            },
-            {
-                "time": "10:00",
-                "event": "Long Beach State vs UC San Diego",
-                "channels": []
-            },
-            {
-                "time": "09:30",
-                "event": "Dallas Mavericks vs Houston Rockets",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "CSU Bakersfield vs UC Santa Barbara",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Arkansas State vs Little Rock",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Mainland Pouakai W vs Southern Hoiho W",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Northern Iowa vs Wichita State",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Tennessee vs Illinois",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Minnesota Timberwolves vs Los Angeles Clippers",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Miami Heat vs Sacramento Kings",
-                "channels": []
-            },
-            {
-                "time": "08:30",
-                "event": "Detroit Pistons vs Milwaukee Bucks",
-                "channels": []
-            },
-            {
-                "time": "08:30",
-                "event": "Cleveland Cavaliers vs Golden State Warriors",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Ole Miss vs 23 St. John's",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Washington Wizards vs Atlanta Hawks",
-                "channels": []
-            },
-            {
-                "time": "06:00",
-                "event": "Brooklyn Nets - New Orleans Pelicans",
-                "channels": []
-            },
-            {
-                "time": "14:30",
-                "event": "Southside W vs Bendigo W",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "Joventut Badalona vs Basquet Manresa",
-                "channels": []
-            }
-        ],
-        "Fight</span>": [
-            {
-                "time": "13:00",
-                "event": "UFC 323: Post-Fight Press Conference",
-                "channels": []
-            },
-            {
-                "time": "12:00",
-                "event": "Highest In The Room 4",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "All Elite Wrestling AEW : Collision",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Pitbull vs Lamont Roach Jr.",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "AEW Collision",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "NXT Deadline",
-                "channels": []
-            },
-            {
-                "time": "07:00",
-                "event": "UFC 323: Dvalishvili vs. Yan 2",
-                "channels": []
-            },
-            {
-                "time": "06:30",
-                "event": "Isaac Cruz vs. Lamont Roach",
-                "channels": []
-            }
-        ],
-        "Football</span>": [
-            {
-                "time": "13:00",
-                "event": "WS Wanderers W vs Sydney W",
-                "channels": []
-            },
-            {
-                "time": "13:00",
-                "event": "Jeju SK vs Suwon Samsung Bluewings",
-                "channels": []
-            },
-            {
-                "time": "12:50",
-                "event": "Adelaide W vs Brisbane Roar W",
-                "channels": []
-            },
-            {
-                "time": "12:10",
-                "event": "Tokushima Vortis vs J\u00fabilo Iwata",
-                "channels": []
-            },
-            {
-                "time": "12:00",
-                "event": "JEF United Chiba vs RB Omiya Ardija",
-                "channels": []
-            },
-            {
-                "time": "11:10",
-                "event": "Tigres vs Cruz Azul",
-                "channels": []
-            },
-            {
-                "time": "11:00",
-                "event": "Melbourne City W vs Wellington Phoenix W",
-                "channels": []
-            },
-            {
-                "time": "14:30",
-                "event": "Suwon FC vs Bucheon FC 1995",
-                "channels": []
-            },
-            {
-                "time": "15:00",
-                "event": "Central Coast Mariners W vs Newcastle W",
-                "channels": []
-            },
-            {
-                "time": "16:35",
-                "event": "Adelaide United vs Brisbane Roar",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Feyenoord W vs PEC Zwolle W",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Athletic Bilbao W vs Levante W",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Alhama W vs Badalona W",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Dynamo Makhachkala vs Pari NN",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Lusitania FC vs Portimonense",
-                "channels": []
-            },
-            {
-                "time": "18:15",
-                "event": "Termalica B-B. vs Jagiellonia",
-                "channels": []
-            },
-            {
-                "time": "18:30",
-                "event": "Genclerbirligi vs Fatih Karagumruk",
-                "channels": []
-            },
-            {
-                "time": "18:30",
-                "event": "Inter W vs Genoa W",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "Tottenham W vs Aston Villa W",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "Manchester Utd W vs West Ham W",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "London City Lionesses W vs Brighton W",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "Leicester W vs Manchester City W",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "Lusit\u00e2nia Lourosa vs Portimonense",
-                "channels": []
-            },
-            {
-                "time": "19:15",
-                "event": "Bruk-Bet Termalica Nieciecza vs Jagiellonia Bia\u0142ystok",
-                "channels": []
-            },
-            {
-                "time": "19:15",
-                "event": "Utrecht vs Twente",
-                "channels": []
-            },
-            {
-                "time": "19:30",
-                "event": "1. FC Nurnberg vs SpVgg Greuther Furth",
-                "channels": []
-            },
-            {
-                "time": "19:30",
-                "event": "2 Bundesliga Konferenz",
-                "channels": []
-            },
-            {
-                "time": "19:30",
-                "event": "Mannheim vs Saarbrucken",
-                "channels": []
-            },
-            {
-                "time": "19:30",
-                "event": "Cremonese vs Lecce",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "FA WSL: Leicester City WFC vs Manchester City W",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "FA WSL: London City Lionesses vs Brighton W",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "FC Nordsjaelland vs Silkeborg IF",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "Hoffenheim W vs Union Berlin W",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "Jablonec vs Bohemians 1905",
-                "channels": []
-            },
-            {
-                "time": "20:30",
-                "event": "Waldhof Mannheim vs FC Saarbr\u00fccken",
-                "channels": []
-            },
-            {
-                "time": "20:30",
-                "event": "Slough Town vs Macclesfield",
-                "channels": []
-            },
-            {
-                "time": "20:30",
-                "event": "Eintracht Braunschweig vs Holstein Kiel",
-                "channels": []
-            },
-            {
-                "time": "20:30",
-                "event": "Mechelen vs Charleroi",
-                "channels": []
-            },
-            {
-                "time": "20:30",
-                "event": "FC N\u00fcrnberg vs Greuther F\u00fcrth",
-                "channels": []
-            },
-            {
-                "time": "20:30",
-                "event": "Hertha vs Magdeburg",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Elche vs Girona",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "C\u00e1diz vs Racing de Santander",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Winterthur vs Basel",
-                "channels": []
-            },
-            {
-                "time": "21:30",
-                "event": "FC Volendam vs NEC Nijmegen",
-                "channels": []
-            },
-            {
-                "time": "21:30",
-                "event": "AZ Alkmaar vs Go Ahead Eagles",
-                "channels": []
-            },
-            {
-                "time": "21:45",
-                "event": "Cracovia vs Lech Pozna\u0144",
-                "channels": []
-            },
-            {
-                "time": "22:00",
-                "event": "Feirense vs Academico Viseu",
-                "channels": []
-            },
-            {
-                "time": "22:00",
-                "event": "Serie A Women: Fiorentina W vs Ternana W",
-                "channels": []
-            },
-            {
-                "time": "22:00",
-                "event": "Cagliari vs Roma",
-                "channels": []
-            },
-            {
-                "time": "22:00",
-                "event": "Kocaelispor vs Kas\u0131mpa\u015fa",
-                "channels": []
-            },
-            {
-                "time": "22:00",
-                "event": "Nice vs Angers",
-                "channels": []
-            },
-            {
-                "time": "22:00",
-                "event": "Brighton and Hove Albion vs West Ham United",
-                "channels": []
-            },
-            {
-                "time": "22:30",
-                "event": "FA WSL: Chelsea W vs Everton W",
-                "channels": []
-            },
-            {
-                "time": "22:30",
-                "event": "Boreham Wood vs Newport County",
-                "channels": []
-            },
-            {
-                "time": "22:30",
-                "event": "Hamburg vs Werder Bremen",
-                "channels": []
-            },
-            {
-                "time": "23:00",
-                "event": "Asteras Tripolis vs Levadiakos",
-                "channels": []
-            },
-            {
-                "time": "23:00",
-                "event": "Celtic vs Heart of Midlothian",
-                "channels": []
-            },
-            {
-                "time": "23:15",
-                "event": "Leganes vs Cordoba",
-                "channels": []
-            },
-            {
-                "time": "23:15",
-                "event": "Valencia vs Sevilla",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Lausanne vs FC Lugano",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Larisa vs Panathinaikos",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Segunda Liga: Chaves vs Pacos Ferreira",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Sion vs Young Boys",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Chaves vs Pa\u00e7os de Ferreira",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Gateshead vs Walsall",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Estoril Praia vs Moreirense",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Hansa Rostock vs Alemannia Aachen",
-                "channels": []
-            },
-            {
-                "time": "23:45",
-                "event": "Sparta Rotterdam vs NAC Breda",
-                "channels": []
-            }
-        ],
-        "Cricket</span>": [
-            {
-                "time": "12:00",
-                "event": "Australia vs. England",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Sharjah Warriorz vs MI Emirates",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "South Africa W vs Ireland W",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "West Africa T20I Trophy: Rwanda vs Zambia",
-                "channels": []
-            },
-            {
-                "time": "22:30",
-                "event": "Dubai Capitals vs Abu Dhabi Knight Riders",
-                "channels": []
-            }
-        ],
-        "Hockey</span>": [
-            {
-                "time": "11:00",
-                "event": "Vancouver Canucks vs Minnesota Wild",
-                "channels": []
-            },
-            {
-                "time": "11:00",
-                "event": "Edmonton Oilers vs Winnipeg Jets",
-                "channels": []
-            },
-            {
-                "time": "11:00",
-                "event": "Seattle Kraken vs Detroit Red Wings",
-                "channels": []
-            },
-            {
-                "time": "10:00",
-                "event": "Los Angeles Kings vs Chicago Blackhawks",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Calgary Flames vs Utah Mammoth",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Carolina Hurricanes vs Nashville Predators",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Toronto Maple Leafs vs Montreal Canadiens",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Tampa Bay Lightning vs New York Islanders",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Ottawa Senators vs St. Louis Blues",
-                "channels": []
-            },
-            {
-                "time": "08:00",
-                "event": "Boston Bruins vs New Jersey Devils",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Nurnberg Ice Tigers vs Grizzly Wolfsburg",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Iserlohn Roosters vs Straubing Tigers",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Eisb\u00e4ren Berlin vs Dresdner Eislowen",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Frankfurt Lowen vs Munchen",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "Adler Mannheim vs Augsburger Panther",
-                "channels": []
-            },
-            {
-                "time": "23:30",
-                "event": "ERC Ingolstadt vs Schwenninger Wild Wings",
-                "channels": []
-            }
-        ],
-        "American-football</span>": [
-            {
-                "time": "11:00",
-                "event": "UC Davis vs Rhode Island",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Virginia Cavaliers - Duke Blue Devils",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Virginia vs Duke",
-                "channels": []
-            },
-            {
-                "time": "09:00",
-                "event": "Ohio State vs Indiana",
-                "channels": []
-            }
-        ],
-        "Other</span>": [
-            {
-                "time": "10:30",
-                "event": "Australian Open | DP World Tour",
-                "channels": []
-            },
-            {
-                "time": "07:30",
-                "event": "Early Prelims UFC 323 \ud83d\udd25\u2b50\ud83d\udca5",
-                "channels": []
-            },
-            {
-                "time": "07:00",
-                "event": "Stateline Rumble 5",
-                "channels": []
-            },
-            {
-                "time": "07:00",
-                "event": "Ring Wars Bxng Philadelphia",
-                "channels": []
-            },
-            {
-                "time": "20:30",
-                "event": "Sardinia UCI Cyclo Cross World Championships: Women's Elite",
-                "channels": []
-            },
-            {
-                "time": "22:30",
-                "event": "Ultimate Tennis Showdown",
-                "channels": []
-            }
-        ],
-        "Golf</span>": [
-            {
-                "time": "09:30",
-                "event": "Crown Australian Open - Final Rd SKY",
-                "channels": []
-            },
-            {
-                "time": "07:00",
-                "event": "Grass League Championship",
-                "channels": []
-            },
-            {
-                "time": "16:00",
-                "event": "Nedbank Golf Challenge Final Rd",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "Skechers World Champions Cup (Day Three)",
-                "channels": []
-            }
-        ],
-        "Rugby</span>": [
-            {
-                "time": "15:05",
-                "event": "World Rugby Sevens Cape Town Day 2: Session 1",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "USA Perpignan vs Dragons",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Section Paloise vs Northampton Saints",
-                "channels": []
-            },
-            {
-                "time": "23:15",
-                "event": "Gloucester vs Castres Olympique",
-                "channels": []
-            }
-        ],
-        "Motor-sports</span>": [
-            {
-                "time": "17:15",
-                "event": "Abu Dhabi Feature Race",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "FIA Formula 1 2025: Abu Dhabi F1GP PRE Race",
-                "channels": []
-            },
-            {
-                "time": "20:00",
-                "event": "F1 Kids Abu Dhabi",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Race | Yas Marina Circuit | 306.2 Kms",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "FIA F1 World Championship: FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025: Race",
-                "channels": []
-            },
-            {
-                "time": "21:00",
-                "event": "Abu Dhabi Grand Prix",
-                "channels": []
-            }
-        ],
-        "Billiards</span>": [
-            {
-                "time": "19:30",
-                "event": "Snooker UK Championship",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-452",
+                        "channel_id": "452"
+                    }
+                ]
             }
         ]
     }
