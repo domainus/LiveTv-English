@@ -3,299 +3,434 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : 1. FC Magdeburg vs Holstein Kiel (12:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sparta Rotterdam vs Heerenveen (11:15)
 https://dlhd.dad/watch.php?id=1
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arminia Bielefeld vs Kaiserslautern (12:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AC Milan vs Sassuolo (11:30)
 https://dlhd.dad/watch.php?id=2
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arminia Bielefeld vs Kaiserslautern (12:00)
-https://dlhd.dad/watch.php?id=460
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AC Milan vs Sassuolo (11:30)
+https://dlhd.dad/watch.php?id=451
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Karlsruher SC vs SC Paderborn 07 (12:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AC Milan vs Sassuolo (11:30)
+https://dlhd.dad/watch.php?id=457
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AC Milan vs Sassuolo (11:30)
+https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AC Milan vs Sassuolo (11:30)
+https://dlhd.dad/watch.php?id=464
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Leicester W vs London City Lionesses W (11:55)
 https://dlhd.dad/watch.php?id=3
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Karlsruher SC vs SC Paderborn 07 (12:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Karlsruher SC vs SC Paderborn 07 (12:00)
-https://dlhd.dad/watch.php?id=473
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Everton W vs Arsenal W (12:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : West Ham United W vs Liverpool W (11:55)
 https://dlhd.dad/watch.php?id=4
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Wolverhampton W vs Nottingham Forest W (12:15)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Brighton & Hove Albion W vs Chelsea W (12:00)
 https://dlhd.dad/watch.php?id=5
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Norwich City vs Southampton (12:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Brighton & Hove Albion W vs Chelsea W (12:00)
+https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Manchester City W vs Aston Villa W (12:00)
 https://dlhd.dad/watch.php?id=6
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Norwich City vs Southampton (12:30)
-https://dlhd.dad/watch.php?id=455
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Norwich City vs Southampton (12:30)
-https://dlhd.dad/watch.php?id=466
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Norwich City vs Southampton (12:30)
-https://dlhd.dad/watch.php?id=469
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AFC Wimbledon vs Mansfield Town (12:30)
-https://dlhd.dad/watch.php?id=452
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atletico Madrid vs Valencia (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nantes W vs Marseille W (12:00)
 https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atletico Madrid vs Valencia (13:00)
-https://dlhd.dad/watch.php?id=456
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atletico Madrid vs Valencia (13:00)
-https://dlhd.dad/watch.php?id=475
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Alemannia Aachen vs Viktoria Koln (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Wehen vs Cottbus (12:30)
 https://dlhd.dad/watch.php?id=8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Duisburg vs Aue (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : 2 Bundesliga Konferenz (12:30)
 https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Ingolstadt vs Munich 1860 (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Schalke 04 vs 1. FC Nurnberg (12:30)
 https://dlhd.dad/watch.php?id=10
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Saarbrucken vs Hoffenheim II (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Schalke 04 vs 1. FC Nurnberg (12:30)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Schalke 04 vs 1. FC Nurnberg (12:30)
+https://dlhd.dad/watch.php?id=475
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : SV 07 Elversberg vs Fortuna Dusseldorf (12:30)
 https://dlhd.dad/watch.php?id=11
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Stuttgart II vs Hansa Rostock (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : SV Darmstadt 98 vs Preussen Munster (12:30)
 https://dlhd.dad/watch.php?id=12
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : 3 Liga Konferenz (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Gent vs Antwerp (12:30)
 https://dlhd.dad/watch.php?id=13
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Grenoble vs Montpellier (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sevilla vs Real Oviedo (13:00)
 https://dlhd.dad/watch.php?id=14
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Red Star vs Reims (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sevilla vs Real Oviedo (13:00)
+https://dlhd.dad/watch.php?id=456
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Premier League Live (13:00)
 https://dlhd.dad/watch.php?id=15
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cordoba vs Eibar (13:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Ajax Amsterdam vs Feyenoord Rotterdam (13:30)
 https://dlhd.dad/watch.php?id=16
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Torino vs Cremonese (14:00)
-https://dlhd.dad/watch.php?id=17
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Torino vs Cremonese (14:00)
-https://dlhd.dad/watch.php?id=457
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Torino vs Cremonese (14:00)
-https://dlhd.dad/watch.php?id=465
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Premier League Live (14:00)
-https://dlhd.dad/watch.php?id=18
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Venezia vs Monza (14:00)
-https://dlhd.dad/watch.php?id=458
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Borussia Monchengladbach vs VfL Wolfsburg (14:30)
-https://dlhd.dad/watch.php?id=19
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Borussia Monchengladbach vs VfL Wolfsburg (14:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Ajax Amsterdam vs Feyenoord Rotterdam (13:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Eintracht Frankfurt vs FC Augsburg (14:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : FC Twente vs Go Ahead Eagles (13:30)
+https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : BW Linz - SK Rapid (13:30)
+https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Salzburg vs Wolfsberger AC (13:30)
+https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Rakow vs Zaglebie (13:45)
 https://dlhd.dad/watch.php?id=20
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Eintracht Frankfurt vs FC Augsburg (14:30)
-https://dlhd.dad/watch.php?id=453
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Hoffenheim vs Hamburger SV (14:30)
-https://dlhd.dad/watch.php?id=459
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : St. Pauli vs 1. FC Heidenheim 1846 (14:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Maritimo vs Benfica B (14:00)
 https://dlhd.dad/watch.php?id=21
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : St. Pauli vs 1. FC Heidenheim 1846 (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : TSG Hoffenheim vs Hamburg SV (14:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Fatih Karagumruk vs Kocaelispor (14:00)
 https://dlhd.dad/watch.php?id=22
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bundesliga Konferenz (14:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Lyon vs Le Havre AC (14:00)
 https://dlhd.dad/watch.php?id=23
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Liverpool vs Brighton & Hove Albion (15:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Lyon vs Le Havre AC (14:00)
+https://dlhd.dad/watch.php?id=454
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Lyon vs Le Havre AC (14:00)
+https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Fiorentina vs Hellas Verona (14:00)
 https://dlhd.dad/watch.php?id=24
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Liverpool vs Brighton & Hove Albion (15:00)
-https://dlhd.dad/watch.php?id=451
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Fiorentina vs Hellas Verona (14:00)
+https://dlhd.dad/watch.php?id=458
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Liverpool vs Brighton & Hove Albion (15:00)
-https://dlhd.dad/watch.php?id=473
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Wrexham vs Watford (15:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Udinese vs Napoli (14:00)
 https://dlhd.dad/watch.php?id=25
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Wrexham vs Watford (15:00)
-https://dlhd.dad/watch.php?id=466
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Udinese vs Napoli (14:00)
+https://dlhd.dad/watch.php?id=457
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Chelsea vs Everton (15:00)
-https://dlhd.dad/watch.php?id=452
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Chelsea vs Everton (15:00)
-https://dlhd.dad/watch.php?id=473
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Chelsea vs Everton (15:00)
-https://dlhd.dad/watch.php?id=469
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Mallorca vs Elche (15:15)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Crystal Palace vs Manchester City (14:00)
 https://dlhd.dad/watch.php?id=26
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Mallorca vs Elche (15:15)
-https://dlhd.dad/watch.php?id=456
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Crystal Palace vs Manchester City (14:00)
+https://dlhd.dad/watch.php?id=459
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Mallorca vs Elche (15:15)
-https://dlhd.dad/watch.php?id=475
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Crystal Palace vs Manchester City (14:00)
+https://dlhd.dad/watch.php?id=473
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Real Valladolid vs FC Andorra (15:15)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nottingham Forest v Tottenham Hotspur (14:00)
 https://dlhd.dad/watch.php?id=27
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sporting Gijon vs Granada (15:15)
-https://dlhd.dad/watch.php?id=28
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Telstar vs NEC Nijmegen (15:30)
-https://dlhd.dad/watch.php?id=29
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Stade Rennais vs Brest (15:30)
-https://dlhd.dad/watch.php?id=30
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Stade Rennais vs Brest (15:30)
-https://dlhd.dad/watch.php?id=454
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Stade Rennais vs Brest (15:30)
-https://dlhd.dad/watch.php?id=467
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Parma vs Lazio (17:00)
-https://dlhd.dad/watch.php?id=31
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Parma vs Lazio (17:00)
-https://dlhd.dad/watch.php?id=457
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Parma vs Lazio (17:00)
-https://dlhd.dad/watch.php?id=465
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : FIFA Intercontinental Cup: Flamengo vs Pyramids FC (17:00)
-https://dlhd.dad/watch.php?id=32
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : FIFA Intercontinental Cup: Flamengo vs Pyramids FC (17:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Premier League Live (17:00)
-https://dlhd.dad/watch.php?id=33
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bayer Leverkusen vs FC Cologne (17:30)
-https://dlhd.dad/watch.php?id=34
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bayer Leverkusen vs FC Cologne (17:30)
-https://dlhd.dad/watch.php?id=453
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bayer Leverkusen vs FC Cologne (17:30)
-https://dlhd.dad/watch.php?id=475
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Barcelona vs Osasuna (17:30)
-https://dlhd.dad/watch.php?id=35
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Barcelona vs Osasuna (17:30)
-https://dlhd.dad/watch.php?id=452
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Barcelona vs Osasuna (17:30)
-https://dlhd.dad/watch.php?id=456
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Barcelona vs Osasuna (17:30)
-https://dlhd.dad/watch.php?id=473
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Burnley vs Fulham (17:30)
-https://dlhd.dad/watch.php?id=36
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Burnley vs Fulham (17:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nottingham Forest v Tottenham Hotspur (14:00)
 https://dlhd.dad/watch.php?id=455
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Burnley vs Fulham (17:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nottingham Forest v Tottenham Hotspur (14:00)
 https://dlhd.dad/watch.php?id=474
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Metz vs Paris Saint-Germain (18:00)
-https://dlhd.dad/watch.php?id=37
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sunderland vs Newcastle United (14:00)
+https://dlhd.dad/watch.php?id=28
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Metz vs Paris Saint-Germain (18:00)
-https://dlhd.dad/watch.php?id=454
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Hannover 96 vs VfL Bochum (19:30)
-https://dlhd.dad/watch.php?id=38
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atalanta vs Cagliari (19:45)
-https://dlhd.dad/watch.php?id=39
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atalanta vs Cagliari (19:45)
-https://dlhd.dad/watch.php?id=457
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atalanta vs Cagliari (19:45)
-https://dlhd.dad/watch.php?id=465
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Getafe vs Espanyol (20:00)
-https://dlhd.dad/watch.php?id=40
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Getafe vs Espanyol (20:00)
-https://dlhd.dad/watch.php?id=456
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Getafe vs Espanyol (20:00)
-https://dlhd.dad/watch.php?id=474
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arsenal vs Wolverhampton Wanderers (20:00)
-https://dlhd.dad/watch.php?id=41
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arsenal vs Wolverhampton Wanderers (20:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sunderland vs Newcastle United (14:00)
 https://dlhd.dad/watch.php?id=451
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arsenal vs Wolverhampton Wanderers (20:00)
-https://dlhd.dad/watch.php?id=473
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : West Ham United vs Aston Villa (14:00)
+https://dlhd.dad/watch.php?id=29
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Erik Miloc vs Nahuel Gonzalo Garcia (00:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : West Ham United vs Aston Villa (14:00)
+https://dlhd.dad/watch.php?id=452
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Goal Rush: Matchweek 16 (14:00)
+https://dlhd.dad/watch.php?id=30
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : SC Freiburg vs Borussia Dortmund (14:30)
+https://dlhd.dad/watch.php?id=31
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : SC Freiburg vs Borussia Dortmund (14:30)
+https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : SC Freiburg vs Borussia Dortmund (14:30)
+https://dlhd.dad/watch.php?id=475
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Manchester United W vs Tottenham Hotspur W (14:30)
+https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Aberdeen vs Kilmarnock (15:00)
+https://dlhd.dad/watch.php?id=33
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Dender vs Club Brugge KV (15:00)
+https://dlhd.dad/watch.php?id=34
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Celta Vigo vs Athletic Club (15:15)
+https://dlhd.dad/watch.php?id=35
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Celta Vigo vs Athletic Club (15:15)
+https://dlhd.dad/watch.php?id=456
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Albacete vs Malaga (15:15)
 https://dlhd.dad/watch.php?id=36
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | WWE Friday Night Smackdown (01:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Panetolikos vs AEK Athens (15:30)
 https://dlhd.dad/watch.php?id=37
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | XFN 405 (02:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Regensburg vs Mannheim (15:30)
 https://dlhd.dad/watch.php?id=38
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | NXT Level Up (03:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : FC Famalicao vs Estoril (15:30)
 https://dlhd.dad/watch.php?id=39
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Gatton Xmas Bash 2025: David Nyika vs Wuzhati Nuerlang (06:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : FC Famalicao vs Estoril (15:30)
+https://dlhd.dad/watch.php?id=463
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : League Cup Final: St Mirren vs Celtic (15:30)
+https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : League Cup Final: St Mirren vs Celtic (15:30)
+https://dlhd.dad/watch.php?id=452
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : League Cup Final: St Mirren vs Celtic (15:30)
+https://dlhd.dad/watch.php?id=466
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AZ Alkmaar vs Excelsior (15:45)
+https://dlhd.dad/watch.php?id=41
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : NAC Breda vs FC Utrecht (15:45)
 https://dlhd.dad/watch.php?id=42
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | RWS: Kradooklek vs Chalarmchon III (12:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : NAC Breda vs FC Utrecht (15:45)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atromitos vs PAOK Salonika (16:00)
 https://dlhd.dad/watch.php?id=43
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | PFL Europe 4: Vadim Nemkov vs Renan Ferreira (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Austria Vienna vs Sturm Graz (16:00)
 https://dlhd.dad/watch.php?id=44
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | GLORY Collision 8: Superfights (16:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Lewes W vs Crystal Palace W (16:00)
 https://dlhd.dad/watch.php?id=45
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | GLORY Collision 8: Plazibat vs Mahieddine (18:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Premier League Live (16:00)
 https://dlhd.dad/watch.php?id=46
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | BKFC Fight Night: Conor Cooke vs Anthony Holmes (19:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Pescara vs Frosinone (16:15)
 https://dlhd.dad/watch.php?id=47
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | WOW FC 25 (20:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AJ Auxerre vs Lille (16:15)
 https://dlhd.dad/watch.php?id=48
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | AEW Collision (21:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AJ Auxerre vs Lille (16:15)
+https://dlhd.dad/watch.php?id=454
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : AJ Auxerre vs Lille (16:15)
+https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Lens vs Nice (16:15)
 https://dlhd.dad/watch.php?id=49
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Diego Pacheco vs Kevin Lele Sadjo: Prelims (22:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Strasbourg vs Lorient (16:15)
 https://dlhd.dad/watch.php?id=50
 
-#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | GCW: Nick Gage Invitational X (23:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bayern Munich vs Mainz (16:30)
 https://dlhd.dad/watch.php?id=51
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bayern Munich vs Mainz (16:30)
+https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bayern Munich vs Mainz (16:30)
+https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Motor Lublin vs Jagiellonia (16:30)
+https://dlhd.dad/watch.php?id=52
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Brentford vs Leeds United (16:30)
+https://dlhd.dad/watch.php?id=53
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Brentford vs Leeds United (16:30)
+https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Brentford vs Leeds United (16:30)
+https://dlhd.dad/watch.php?id=474
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Samsunspor vs Istanbul Basaksehir (17:00)
+https://dlhd.dad/watch.php?id=54
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Trabzonspor vs Besiktas (17:00)
+https://dlhd.dad/watch.php?id=55
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Genoa vs Internazionale (17:00)
+https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Genoa vs Internazionale (17:00)
+https://dlhd.dad/watch.php?id=455
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Genoa vs Internazionale (17:00)
+https://dlhd.dad/watch.php?id=458
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Levante vs Villarreal (17:30)
+https://dlhd.dad/watch.php?id=57
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Levante vs Villarreal (17:30)
+https://dlhd.dad/watch.php?id=456
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Levante vs Villarreal (17:30)
+https://dlhd.dad/watch.php?id=475
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : RB Leipzig W vs Hoffenheim W (17:30)
+https://dlhd.dad/watch.php?id=58
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Almeria vs Burgos (17:30)
+https://dlhd.dad/watch.php?id=59
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Moreirense vs Benfica (18:00)
+https://dlhd.dad/watch.php?id=60
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Moreirense vs Benfica (18:00)
+https://dlhd.dad/watch.php?id=464
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Pacos Ferreira vs Lusitania FC (18:00)
+https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Genk vs Westerlo Westerlo (18:15)
+https://dlhd.dad/watch.php?id=62
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Werder Bremen vs VfB Stuttgart (18:30)
+https://dlhd.dad/watch.php?id=63
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Werder Bremen vs VfB Stuttgart (18:30)
+https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Werder Bremen vs VfB Stuttgart (18:30)
+https://dlhd.dad/watch.php?id=474
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Schweinfurt vs TSV Havelse (18:30)
+https://dlhd.dad/watch.php?id=64
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Legia vs Piast Gliwice (19:15)
+https://dlhd.dad/watch.php?id=65
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Marseille vs AS Monaco (19:45)
+https://dlhd.dad/watch.php?id=66
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Marseille vs AS Monaco (19:45)
+https://dlhd.dad/watch.php?id=454
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Marseille vs AS Monaco (19:45)
+https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bologna vs Juventus (19:45)
+https://dlhd.dad/watch.php?id=67
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bologna vs Juventus (19:45)
+https://dlhd.dad/watch.php?id=455
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bologna vs Juventus (19:45)
+https://dlhd.dad/watch.php?id=457
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bologna vs Juventus (19:45)
+https://dlhd.dad/watch.php?id=469
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Alaves vs Real Madrid (20:00)
+https://dlhd.dad/watch.php?id=68
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Alaves vs Real Madrid (20:00)
+https://dlhd.dad/watch.php?id=452
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Alaves vs Real Madrid (20:00)
+https://dlhd.dad/watch.php?id=456
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Alaves vs Real Madrid (20:00)
+https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Ceuta vs Las Palmas (20:00)
+https://dlhd.dad/watch.php?id=69
+
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arouca vs Alverca (20:30)
+https://dlhd.dad/watch.php?id=70
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | UFC Fight Night: Prelims (00:00)
+https://dlhd.dad/watch.php?id=52
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Sumo Fight Club 2025, New Jersey (00:00)
+https://dlhd.dad/watch.php?id=53
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Diego Pacheco vs Kevin Lele Sadjo (01:00)
+https://dlhd.dad/watch.php?id=54
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Kevin Brown vs Cletus Seldin (01:00)
+https://dlhd.dad/watch.php?id=55
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Saturday Night's Main Event(John Cena's Final Match) (01:00)
+https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Redneck brawl 11 (01:00)
+https://dlhd.dad/watch.php?id=57
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Badou Jack vs Noel Mikaelyan (02:00)
+https://dlhd.dad/watch.php?id=58
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | Jose Salas Reyes vs Landi Ngxeke (02:30)
+https://dlhd.dad/watch.php?id=59
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | UFC Fight Night: Brandon Royval vs Manel Kape (03:00)
+https://dlhd.dad/watch.php?id=60
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | UFC Fight Night: Brandon Royval vs Manel Kape (03:00)
+https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 group-title="Live Events",WWE/MMA/BOXING | UFC Fight Night: Brandon Royval vs Manel Kape (03:00)
+https://dlhd.dad/watch.php?id=463
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : NFL Redzone (18:00)
+https://dlhd.dad/watch.php?id=71
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Chicago Bears vs Cleveland Browns (18:00)
+https://dlhd.dad/watch.php?id=72
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Cincinnati Bengals vs Baltimore Ravens (18:00)
+https://dlhd.dad/watch.php?id=73
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Houston Texans vs Arizona Cardinals (18:00)
+https://dlhd.dad/watch.php?id=74
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Jacksonville Jaguars vs New York Jets (18:00)
+https://dlhd.dad/watch.php?id=75
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Kansas City Chiefs vs Los Angeles Chargers (18:00)
+https://dlhd.dad/watch.php?id=76
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : New England Patriots vs Buffalo Bills (18:00)
+https://dlhd.dad/watch.php?id=77
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : New York Giants vs Washington Commanders (18:00)
+https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Philadelphia Eagles vs Las Vegas Raiders (18:00)
+https://dlhd.dad/watch.php?id=79
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Denver Broncos vs Green Bay Packers (21:25)
+https://dlhd.dad/watch.php?id=80
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Los Angeles Rams vs Detroit Lions (21:25)
+https://dlhd.dad/watch.php?id=81
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : New Orleans Saints vs Carolina Panthers (21:25)
+https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : San Francisco 49ers vs Tennessee Titans (21:25)
+https://dlhd.dad/watch.php?id=83
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Seattle Seahawks vs Indianapolis Colts (21:25)
+https://dlhd.dad/watch.php?id=84
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Seattle Seahawks vs Indianapolis Colts (21:25)
+https://dlhd.dad/watch.php?id=474
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
