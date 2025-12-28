@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canal+_sport_2_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 1 Afrique
+#EXTINF:-1 tvg-id="canal+_sport_3_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 1 Afrique
 https://dlhd.dad/watch.php?id=486
 
-#EXTINF:-1 tvg-id="canal+_sport_2_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 2 Afrique
+#EXTINF:-1 tvg-id="canal+_sport_3_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 2 Afrique
 https://dlhd.dad/watch.php?id=487
 
-#EXTINF:-1 tvg-id="canal+_sport_2_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 3 Afrique
+#EXTINF:-1 tvg-id="canal+_sport_3_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 3 Afrique
 https://dlhd.dad/watch.php?id=488
 
-#EXTINF:-1 tvg-id="canal+_sport_2_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 4 Afrique
+#EXTINF:-1 tvg-id="canal+_sport_3_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 4 Afrique
 https://dlhd.dad/watch.php?id=489
 
-#EXTINF:-1 tvg-id="canal+_sport_2_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 5 Afrique
+#EXTINF:-1 tvg-id="canal+_sport_3_afrique" group-title="Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport 5 Afrique
 https://dlhd.dad/watch.php?id=490
 
 #EXTINF:-1 group-title="Arab World" tvg-id="bein_sports_1_france"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/world-middle-east/bein-sports/bein-sports-arabic-mea.png",beIN Sports 1 Arabic
@@ -57,16 +57,16 @@ https://dlhd.dad/watch.php?id=798
 #EXTINF:-1 tvg-id="fox_sports_argentina" group-title="Argentina"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Fox Sports Argentina
 https://dlhd.dad/watch.php?id=787
 
-#EXTINF:-1 tvg-id="fox_sports_argentina" group-title="Argentina"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Fox Sports 2 Argentina
+#EXTINF:-1 tvg-id="fox_sports_2_argentina" group-title="Argentina"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Fox Sports 2 Argentina
 https://dlhd.dad/watch.php?id=788
 
 #EXTINF:-1 tvg-id="fox_sports_argentina" group-title="Argentina"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Fox Sports 3 Argentina
 https://dlhd.dad/watch.php?id=789
 
-#EXTINF:-1 tvg-id="fox_sports_argentina" group-title="Argentina"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",TYC Sports Argentina
+#EXTINF:-1 tvg-id="tnt_sports_argentina" group-title="Argentina"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",TYC Sports Argentina
 https://dlhd.dad/watch.php?id=746
 
-#EXTINF:-1 tvg-id="fox_sports_argentina" group-title="Argentina"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",TNT Sports Argentina
+#EXTINF:-1 tvg-id="tnt_sports_argentina" group-title="Argentina"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",TNT Sports Argentina
 https://dlhd.dad/watch.php?id=388
 
 #EXTINF:-1 tvg-id="bein_sports_australia_1" group-title="Australia"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN SPORTS Australia 1
@@ -99,7 +99,7 @@ https://dlhd.dad/watch.php?id=825
 #EXTINF:-1 tvg-id="sky_sport_austria_1" group-title="Austria"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/sky-sport/sky-sport-austria-1-de.png",Sky Sport Austria 1 HD
 https://dlhd.dad/watch.php?id=559
 
-#EXTINF:-1 group-title="Bangladesh" tvg-id="t_sports_bd"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",T Sports BD
+#EXTINF:-1 group-title="Bangladesh"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",T Sports BD
 https://dlhd.dad/watch.php?id=270
 
 #EXTINF:-1 group-title="Brazil"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/br-fernsehen-de.png",BR Fernsehen DE
@@ -180,7 +180,7 @@ https://dlhd.dad/watch.php?id=485
 #EXTINF:-1 tvg-id="nova_sport_bulgaria" group-title="Bulgaria"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FOX HD Bulgaria
 https://dlhd.dad/watch.php?id=483
 
-#EXTINF:-1 tvg-id="max_sport_1_bulgaria" group-title="Bulgaria"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Max Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="max_sport_3_bulgaria" group-title="Bulgaria"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Max Sport 1 Bulgaria
 https://dlhd.dad/watch.php?id=472
 
 #EXTINF:-1 tvg-id="max_sport_2_bulgaria" group-title="Bulgaria"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Max Sport 2 Bulgaria
@@ -246,13 +246,13 @@ https://dlhd.dad/watch.php?id=407
 #EXTINF:-1 tvg-id="sportsnet_east" group-title="Canada"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/canada/sportsnet-east-ca.png",Sportsnet East
 https://dlhd.dad/watch.php?id=408
 
-#EXTINF:-1 tvg-id="sportsnet_one" group-title="Canada"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/canada/sportsnet-360-ca.png",Sportsnet 360
+#EXTINF:-1 tvg-id="sportsnet_360" group-title="Canada"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/canada/sportsnet-360-ca.png",Sportsnet 360
 https://dlhd.dad/watch.php?id=409
 
 #EXTINF:-1 tvg-id="sportsnet_world" group-title="Canada"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/canada/sportsnet-world-ca.png",Sportsnet World
 https://dlhd.dad/watch.php?id=410
 
-#EXTINF:-1 group-title="Canada"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/spectrum-sportsnet-la-us.png",Spectrum Sportsnet LA
+#EXTINF:-1 group-title="Canada" tvg-id="spectrum_sportsnet_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/spectrum-sportsnet-la-us.png",Spectrum Sportsnet LA
 https://dlhd.dad/watch.php?id=764
 
 #EXTINF:-1 group-title="Canada" tvg-id="sportsnet_pittsburgh"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/sportsnet-pittsburgh-us.png",SportsNet Pittsburgh
@@ -339,7 +339,7 @@ https://dlhd.dad/watch.php?id=917
 #EXTINF:-1 tvg-id="canal+_france" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Canal+ Sport CZ
 https://dlhd.dad/watch.php?id=1020
 
-#EXTINF:-1 tvg-id="ct_sport_czech_hd" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/ct-sport-cz.png",CT Sport CZ
+#EXTINF:-1 tvg-id="čt_sport_cz" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/ct-sport-cz.png",CT Sport CZ
 https://dlhd.dad/watch.php?id=1033
 
 #EXTINF:-1 tvg-id="nova_sport_1_cz" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/nova-sport-1-cz.png",Nova Sport 1 CZ
@@ -348,10 +348,10 @@ https://dlhd.dad/watch.php?id=1021
 #EXTINF:-1 tvg-id="nova_sport_2_cz" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/nova-sport-2-cz.png",Nova Sport 2 CZ
 https://dlhd.dad/watch.php?id=1022
 
-#EXTINF:-1 tvg-id="nova_sport_3_cz" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/nova-sport-3-cz.png",Nova Sport 3 CZ
+#EXTINF:-1 tvg-id="nova_sport_5_cz" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/nova-sport-3-cz.png",Nova Sport 3 CZ
 https://dlhd.dad/watch.php?id=1023
 
-#EXTINF:-1 tvg-id="nova_sport_4_cz" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/nova-sport-4-cz.png",Nova Sport 4 CZ
+#EXTINF:-1 tvg-id="nova_sport_5_cz" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/nova-sport-4-cz.png",Nova Sport 4 CZ
 https://dlhd.dad/watch.php?id=1024
 
 #EXTINF:-1 tvg-id="nova_sport_5_cz" group-title="Czech Republic"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/czech-republic/nova-sport-5-cz.png",Nova Sport 5 CZ
@@ -435,7 +435,7 @@ https://dlhd.dad/watch.php?id=961
 #EXTINF:-1 tvg-id="bein_sports_max_4_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN Sports MAX 4 France
 https://dlhd.dad/watch.php?id=494
 
-#EXTINF:-1 tvg-id="bein_sports_max_4_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN Sports MAX 5 France
+#EXTINF:-1 tvg-id="bein_sports_max_5_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN Sports MAX 5 France
 https://dlhd.dad/watch.php?id=495
 
 #EXTINF:-1 tvg-id="bein_sports_max_4_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN Sports MAX 6 France
@@ -495,7 +495,7 @@ https://dlhd.dad/watch.php?id=960
 #EXTINF:-1 tvg-id="eurosport_1_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/france/eurosport-1-fr.png",Eurosport 1 France
 https://dlhd.dad/watch.php?id=772
 
-#EXTINF:-1 tvg-id="eurosport_1_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/france/eurosport-2-fr.png",Eurosport 2 France
+#EXTINF:-1 tvg-id="eurosport_2_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/france/eurosport-2-fr.png",Eurosport 2 France
 https://dlhd.dad/watch.php?id=773
 
 #EXTINF:-1 group-title="France" tvg-id="france2.fr"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/france/france-2-fr.png",France 2
@@ -510,7 +510,7 @@ https://dlhd.dad/watch.php?id=952
 #EXTINF:-1 group-title="France" tvg-id="france5.fr"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/france/france-5-fr.png",France 5
 https://dlhd.dad/watch.php?id=953
 
-#EXTINF:-1 tvg-id="lequipe_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/france/lequipe-fr.png",L'Equipe France
+#EXTINF:-1 tvg-id="l'équipe_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/france/lequipe-fr.png",L'Equipe France
 https://dlhd.dad/watch.php?id=645
 
 #EXTINF:-1 tvg-id="l'équipe_france" group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",LCI France
@@ -519,10 +519,10 @@ https://dlhd.dad/watch.php?id=962
 #EXTINF:-1 group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",M6 France
 https://dlhd.dad/watch.php?id=470
 
-#EXTINF:-1 group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",RMC Sport 1 France
+#EXTINF:-1 group-title="France" tvg-id="rmc_sport_2_france"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",RMC Sport 1 France
 https://dlhd.dad/watch.php?id=119
 
-#EXTINF:-1 group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",RMC Sport 2 France
+#EXTINF:-1 group-title="France" tvg-id="rmc_sport_2_france"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",RMC Sport 2 France
 https://dlhd.dad/watch.php?id=120
 
 #EXTINF:-1 group-title="France"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/france/rmc-story-fr.png",RMC Story France
@@ -570,7 +570,7 @@ https://dlhd.dad/watch.php?id=736
 #EXTINF:-1 group-title="Germany"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/pro-sieben-de.png",ProSieben (PRO7) DE
 https://dlhd.dad/watch.php?id=730
 
-#EXTINF:-1 group-title="Germany"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/rtl-de.png",RTL DE
+#EXTINF:-1 group-title="Germany" tvg-id="rtl_de"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/rtl-de.png",RTL DE
 https://dlhd.dad/watch.php?id=740
 
 #EXTINF:-1 group-title="Germany" tvg-id="sky_sport_1_de"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/sky-sport/old/sky-sport-1-de.png",Sky Sports 1 DE
@@ -603,7 +603,7 @@ https://dlhd.dad/watch.php?id=949
 #EXTINF:-1 tvg-id="sportdigital_fussball_de" group-title="Germany"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",SportDigital Fussball
 https://dlhd.dad/watch.php?id=571
 
-#EXTINF:-1 group-title="Germany" tvg-id="sportdigital1+_germany"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Sportdigital1+ Germany
+#EXTINF:-1 group-title="Germany"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Sportdigital1+ Germany
 https://dlhd.dad/watch.php?id=640
 
 #EXTINF:-1 group-title="Germany"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Sport1 Germany
@@ -624,7 +624,7 @@ https://dlhd.dad/watch.php?id=738
 #EXTINF:-1 group-title="Germany"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/sr-fernsehen-de.png",SR Fernsehen DE
 https://dlhd.dad/watch.php?id=739
 
-#EXTINF:-1 group-title="Germany"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/sky-sport/sky-sport-golf-de.png",Sky Sports Golf DE
+#EXTINF:-1 group-title="Germany" tvg-id="sky_sports_golf_uk"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/sky-sport/sky-sport-golf-de.png",Sky Sports Golf DE
 https://dlhd.dad/watch.php?id=785
 
 #EXTINF:-1 group-title="Germany" tvg-id="sky_sport_1_de"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/germany/sky-sport/sky-sport-f1-de.png",Sky Sports F1 DE
@@ -672,28 +672,28 @@ https://dlhd.dad/watch.php?id=630
 #EXTINF:-1 tvg-id="eurosport_1_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",EuroSport 1 Greece
 https://dlhd.dad/watch.php?id=41
 
-#EXTINF:-1 tvg-id="eurosport_1_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",EuroSport 2 Greece
+#EXTINF:-1 tvg-id="eurosport_2_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",EuroSport 2 Greece
 https://dlhd.dad/watch.php?id=42
 
 #EXTINF:-1 tvg-id="ert_2_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",ERT 1 Greece
 https://dlhd.dad/watch.php?id=774
 
-#EXTINF:-1 tvg-id="nova_sports_4_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-1-gr.png",Nova Sports 1 Greece
+#EXTINF:-1 tvg-id="nova_sports_2_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-1-gr.png",Nova Sports 1 Greece
 https://dlhd.dad/watch.php?id=631
 
 #EXTINF:-1 tvg-id="nova_sports_2_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-2-gr.png",Nova Sports 2 Greece
 https://dlhd.dad/watch.php?id=632
 
-#EXTINF:-1 tvg-id="nova_sports_4_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-3-gr.png",Nova Sports 3 Greece
+#EXTINF:-1 tvg-id="nova_sports_2_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-3-gr.png",Nova Sports 3 Greece
 https://dlhd.dad/watch.php?id=633
 
 #EXTINF:-1 tvg-id="nova_sports_4_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-4-gr.png",Nova Sports 4 Greece
 https://dlhd.dad/watch.php?id=634
 
-#EXTINF:-1 tvg-id="nova_sports_4_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-5-gr.png",Nova Sports 5 Greece
+#EXTINF:-1 tvg-id="nova_sports_2_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-5-gr.png",Nova Sports 5 Greece
 https://dlhd.dad/watch.php?id=635
 
-#EXTINF:-1 tvg-id="nova_sports_4_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-6-gr.png",Nova Sports 6 Greece
+#EXTINF:-1 tvg-id="nova_sports_2_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-6-gr.png",Nova Sports 6 Greece
 https://dlhd.dad/watch.php?id=636
 
 #EXTINF:-1 tvg-id="nova_sports_premier_league_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Nova Sports Premier League Greece
@@ -705,7 +705,7 @@ https://dlhd.dad/watch.php?id=637
 #EXTINF:-1 tvg-id="nova_sports_prime_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-prime-gr.png",Nova Sports Prime Greece
 https://dlhd.dad/watch.php?id=638
 
-#EXTINF:-1 tvg-id="nova_sports_4_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-news-gr.png",Nova Sports News Greece
+#EXTINF:-1 tvg-id="nova_sports_2_greece" group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/greece/nova-sports-news-gr.png",Nova Sports News Greece
 https://dlhd.dad/watch.php?id=639
 
 #EXTINF:-1 group-title="Greece"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/nordic/iceland/vodafone-sport-is.png",Vodafone Sport
@@ -780,7 +780,7 @@ https://dlhd.dad/watch.php?id=142
 #EXTINF:-1 tvg-id="sport_4_israel" group-title="Israel"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Sport 4 Israel
 https://dlhd.dad/watch.php?id=143
 
-#EXTINF:-1 tvg-id="sport_2_israel" group-title="Israel"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Sport 5 Israel
+#EXTINF:-1 tvg-id="sport_1_israel" group-title="Israel"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Sport 5 Israel
 https://dlhd.dad/watch.php?id=144
 
 #EXTINF:-1 tvg-id="sport_5_plus_israel" group-title="Israel"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Sport 5 PLUS Israel
@@ -813,7 +813,7 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="eurosport_1_italy" group-title="Italy"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/eurosport-1-nl.png",EuroSport 1 Italy
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="eurosport_1_italy" group-title="Italy"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/eurosport-2-nl.png",EuroSport 2 Italy
+#EXTINF:-1 tvg-id="eurosport_2_italy" group-title="Italy"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/eurosport-2-nl.png",EuroSport 2 Italy
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 group-title="Italy"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/italy/italia1-it.png",Italia 1 Italy
@@ -900,7 +900,7 @@ https://dlhd.dad/watch.php?id=868
 #EXTINF:-1 tvg-id="sky_sport_254_it" group-title="Italy"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/italy/sky-sport-24-it.png",Sky Sport 24 Italy
 https://dlhd.dad/watch.php?id=869
 
-#EXTINF:-1 group-title="Italy" tvg-id="sky_sport_calcio_it"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/italy/sky-sport-calcio-it.png",Sky Sport Calcio Italy
+#EXTINF:-1 group-title="Italy" tvg-id="sky_sport_calcio_italy"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/italy/sky-sport-calcio-it.png",Sky Sport Calcio Italy
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 group-title="Italy"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Sky Calcio 1 (251) Italy
@@ -966,7 +966,7 @@ https://dlhd.dad/watch.php?id=928
 #EXTINF:-1 tvg-id="fox_sports_premium_mx" group-title="Mexico"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/world-latin-america/fox-sports-1-lam.png",Fox Sports 1 MX
 https://dlhd.dad/watch.php?id=929
 
-#EXTINF:-1 tvg-id="fox_sports_premium_mx" group-title="Mexico"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/world-latin-america/fox-sports-2-lam.png",Fox Sports 2 MX
+#EXTINF:-1 tvg-id="fox_sports_2_mexico" group-title="Mexico"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/world-latin-america/fox-sports-2-lam.png",Fox Sports 2 MX
 https://dlhd.dad/watch.php?id=930
 
 #EXTINF:-1 tvg-id="fox_sports_premium_mx" group-title="Mexico"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/world-latin-america/fox-sports-3-lam.png",Fox Sports 3 MX
@@ -996,7 +996,7 @@ https://dlhd.dad/watch.php?id=386
 #EXTINF:-1 tvg-id="eurosport_1_se" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/eurosport-1-nl.png",Eurosport 1 NL
 https://dlhd.dad/watch.php?id=233
 
-#EXTINF:-1 tvg-id="eurosport_1_se" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/eurosport-2-nl.png",Eurosport 2 NL
+#EXTINF:-1 tvg-id="eurosport_2_se" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/eurosport-2-nl.png",Eurosport 2 NL
 https://dlhd.dad/watch.php?id=234
 
 #EXTINF:-1 tvg-id="espn_3_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/espn-3-nl.png",ESPN 3 NL
@@ -1011,22 +1011,22 @@ https://dlhd.dad/watch.php?id=883
 #EXTINF:-1 group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Veronica NL Netherland
 https://dlhd.dad/watch.php?id=378
 
-#EXTINF:-1 tvg-id="ziggo_sport_1_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-nl.png",Ziggo Sport NL
+#EXTINF:-1 tvg-id="ziggo_sport_2_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-nl.png",Ziggo Sport NL
 https://dlhd.dad/watch.php?id=393
 
 #EXTINF:-1 tvg-id="ziggo_sport_2_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-2-nl.png",Ziggo Sport 2 NL
 https://dlhd.dad/watch.php?id=398
 
-#EXTINF:-1 tvg-id="ziggo_sport_1_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-3-nl.png",Ziggo Sport 3 NL
+#EXTINF:-1 tvg-id="ziggo_sport_3_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-3-nl.png",Ziggo Sport 3 NL
 https://dlhd.dad/watch.php?id=919
 
 #EXTINF:-1 tvg-id="ziggo_sport_4_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-4-nl.png",Ziggo Sport 4 NL
 https://dlhd.dad/watch.php?id=396
 
-#EXTINF:-1 tvg-id="ziggo_sport_1_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-5-nl.png",Ziggo Sport 5 NL
+#EXTINF:-1 tvg-id="ziggo_sport_2_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-5-nl.png",Ziggo Sport 5 NL
 https://dlhd.dad/watch.php?id=383
 
-#EXTINF:-1 tvg-id="ziggo_sport_1_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-6-nl.png",Ziggo Sport 6 NL
+#EXTINF:-1 tvg-id="ziggo_sport_2_nl" group-title="Netherlands"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/netherlands/ziggo-sport-6-nl.png",Ziggo Sport 6 NL
 https://dlhd.dad/watch.php?id=901
 
 #EXTINF:-1 tvg-id="sky_sport_1_nz" group-title="New Zealand"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/new-zealand/sky-sport-1-nz.png",Sky Sport 1 NZ
@@ -1230,7 +1230,7 @@ https://dlhd.dad/watch.php?id=428
 #EXTINF:-1 tvg-id="eurosport_1_poland" group-title="Poland"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",EuroSport 1 Poland
 https://dlhd.dad/watch.php?id=57
 
-#EXTINF:-1 tvg-id="eurosport_1_poland" group-title="Poland"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",EuroSport 2 Poland
+#EXTINF:-1 tvg-id="eurosport_2_poland" group-title="Poland"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",EuroSport 2 Poland
 https://dlhd.dad/watch.php?id=58
 
 #EXTINF:-1 group-title="Poland"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/poland/filmbox-premium-pl.png",FilmBox Premium Poland
@@ -1563,7 +1563,7 @@ https://dlhd.dad/watch.php?id=421
 #EXTINF:-1 tvg-id="supersport_laliga" group-title="South Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/south-africa/supersport-golf-za.png",SuperSport Golf
 https://dlhd.dad/watch.php?id=422
 
-#EXTINF:-1 tvg-id="tennis_channel" group-title="South Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/south-africa/supersport-tennis-za.png",SuperSport Tennis
+#EXTINF:-1 tvg-id="supersport_tennis" group-title="South Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/south-africa/supersport-tennis-za.png",SuperSport Tennis
 https://dlhd.dad/watch.php?id=423
 
 #EXTINF:-1 group-title="South Africa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/south-africa/supersport-motorsport-za.png",SuperSport Motorsport
@@ -1599,7 +1599,7 @@ https://dlhd.dad/watch.php?id=447
 #EXTINF:-1 group-title="Spain" tvg-id="dazn4_spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",DAZN 4 Spain
 https://dlhd.dad/watch.php?id=448
 
-#EXTINF:-1 tvg-id="dazn_1_es" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/spain/dazn-f1-es.png",DAZN F1 ES
+#EXTINF:-1 tvg-id="dazn1_de" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/spain/dazn-f1-es.png",DAZN F1 ES
 https://dlhd.dad/watch.php?id=537
 
 #EXTINF:-1 group-title="Spain" tvg-id="dazn-laliga.es"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/spain/dazn-laliga-es.png",DAZN LaLiga
@@ -1608,7 +1608,7 @@ https://dlhd.dad/watch.php?id=538
 #EXTINF:-1 tvg-id="eurosport_1_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/india/eurosport-in.png",EuroSport 1 Spain
 https://dlhd.dad/watch.php?id=524
 
-#EXTINF:-1 tvg-id="eurosport_1_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/india/eurosport-in.png",EuroSport 2 Spain
+#EXTINF:-1 tvg-id="eurosport_2_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/india/eurosport-in.png",EuroSport 2 Spain
 https://dlhd.dad/watch.php?id=525
 
 #EXTINF:-1 group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",GOL PLAY Spain
@@ -1626,13 +1626,13 @@ https://dlhd.dad/watch.php?id=84
 #EXTINF:-1 tvg-id="movistar_deportes_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Movistar Deportes Spain
 https://dlhd.dad/watch.php?id=436
 
-#EXTINF:-1 tvg-id="movistar_deportes_2_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Movistar Deportes 2 Spain
+#EXTINF:-1 tvg-id="movistar_deportes_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Movistar Deportes 2 Spain
 https://dlhd.dad/watch.php?id=438
 
-#EXTINF:-1 tvg-id="movistar_deportes_3_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Movistar Deportes 3 Spain
+#EXTINF:-1 tvg-id="movistar_deportes_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Movistar Deportes 3 Spain
 https://dlhd.dad/watch.php?id=526
 
-#EXTINF:-1 tvg-id="movistar_deportes_2_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Movistar Deportes 4 Spain
+#EXTINF:-1 tvg-id="movistar_deportes_spain" group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Movistar Deportes 4 Spain
 https://dlhd.dad/watch.php?id=527
 
 #EXTINF:-1 group-title="Spain"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Movistar Golf Spain
@@ -1671,7 +1671,7 @@ https://dlhd.dad/watch.php?id=814
 #EXTINF:-1 tvg-id="eurosport_1_se" group-title="Sweden"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/serbia/eurosport-1-rs.png",Eurosport 1 SW
 https://dlhd.dad/watch.php?id=231
 
-#EXTINF:-1 tvg-id="eurosport_1_se" group-title="Sweden"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/serbia/eurosport-2-rs.png",Eurosport 2 SW
+#EXTINF:-1 tvg-id="eurosport_2_se" group-title="Sweden"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/serbia/eurosport-2-rs.png",Eurosport 2 SW
 https://dlhd.dad/watch.php?id=232
 
 #EXTINF:-1 tvg-id="tv4_hockey_sweden" group-title="Sweden"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/nordic/sweden/tv4-hockey-se.png",TV4 Hockey
@@ -1713,7 +1713,7 @@ https://dlhd.dad/watch.php?id=1000
 #EXTINF:-1 tvg-id="trt_spor_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",A Spor Turkey
 https://dlhd.dad/watch.php?id=1011
 
-#EXTINF:-1 tvg-id="bein_sports_2_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN SPORTS 1 Turkey
+#EXTINF:-1 tvg-id="bein_sports_3_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN SPORTS 1 Turkey
 https://dlhd.dad/watch.php?id=62
 
 #EXTINF:-1 tvg-id="bein_sports_2_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN SPORTS 2 Turkey
@@ -1722,7 +1722,7 @@ https://dlhd.dad/watch.php?id=63
 #EXTINF:-1 tvg-id="bein_sports_3_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN SPORTS 3 Turkey
 https://dlhd.dad/watch.php?id=64
 
-#EXTINF:-1 tvg-id="bein_sports_2_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN SPORTS 4 Turkey
+#EXTINF:-1 tvg-id="bein_sports_3_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",beIN SPORTS 4 Turkey
 https://dlhd.dad/watch.php?id=67
 
 #EXTINF:-1 tvg-id="bein_sports_5_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",bein Sports 5 Turkey
@@ -1746,10 +1746,10 @@ https://dlhd.dad/watch.php?id=1005
 #EXTINF:-1 tvg-id="trt_spor_turkey" group-title="Turkey"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/turkey/trt-spor-tr.png",TRT Spor TR
 https://dlhd.dad/watch.php?id=889
 
-#EXTINF:-1 group-title="UAE"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png",Abu Dhabi Sports 1 UAE
+#EXTINF:-1 group-title="UAE" tvg-id="abu_dhabi_sports_1"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png",Abu Dhabi Sports 1 UAE
 https://dlhd.dad/watch.php?id=600
 
-#EXTINF:-1 group-title="UAE"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png",Abu Dhabi Sports 2 UAE
+#EXTINF:-1 group-title="UAE" tvg-id="abu_dhabi_sports_1"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png",Abu Dhabi Sports 2 UAE
 https://dlhd.dad/watch.php?id=601
 
 #EXTINF:-1 group-title="UAE"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Abu Dhabi Sports 1 Premium
@@ -1776,7 +1776,7 @@ https://dlhd.dad/watch.php?id=305
 #EXTINF:-1 group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",BBC News Channel HD
 https://dlhd.dad/watch.php?id=349
 
-#EXTINF:-1 tvg-id="bbc_two_uk" group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/bbc-one-uk.png",BBC One UK
+#EXTINF:-1 tvg-id="bbc_one_uk" group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/bbc-one-uk.png",BBC One UK
 https://dlhd.dad/watch.php?id=356
 
 #EXTINF:-1 tvg-id="bbc_two_uk" group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/bbc-two-uk.png",BBC Two UK
@@ -1860,10 +1860,10 @@ https://dlhd.dad/watch.php?id=60
 #EXTINF:-1 tvg-id="sky-sports-cricket.uk" group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
 https://dlhd.dad/watch.php?id=65
 
-#EXTINF:-1 group-title="UK" tvg-id="sky_sports_f1_uk"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-sports-golf-uk.png",Sky Sports Golf UK
+#EXTINF:-1 group-title="UK" tvg-id="sky_sports_golf_uk"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-sports-golf-uk.png",Sky Sports Golf UK
 https://dlhd.dad/watch.php?id=70
 
-#EXTINF:-1 group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-sports-news-uk.png",Sky Sports News UK
+#EXTINF:-1 group-title="UK" tvg-id="sky_sports_nfl_uk"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-sports-news-uk.png",Sky Sports News UK
 https://dlhd.dad/watch.php?id=366
 
 #EXTINF:-1 tvg-id="sky_sports_mix_uk" group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-sports-mix-uk.png",Sky Sports MIX UK
@@ -1908,7 +1908,7 @@ https://dlhd.dad/watch.php?id=680
 #EXTINF:-1 group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png",Sky Cinema Sci-Fi Horror UK
 https://dlhd.dad/watch.php?id=681
 
-#EXTINF:-1 group-title="UK" tvg-id="sky_showcase_uk"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-showcase-uk.png",Sky Showcase UK
+#EXTINF:-1 group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-showcase-uk.png",Sky Showcase UK
 https://dlhd.dad/watch.php?id=682
 
 #EXTINF:-1 group-title="UK"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-kingdom/sky-arts-uk.png",Sky Arts UK
@@ -1995,7 +1995,7 @@ https://dlhd.dad/watch.php?id=306
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/bravo-us.png",Bravo USA
 https://dlhd.dad/watch.php?id=307
 
-#EXTINF:-1 tvg-id="btn_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/big-ten-network-us.png",BIG TEN Network (BTN USA)
+#EXTINF:-1 tvg-id="big_ten_network_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/big-ten-network-us.png",BIG TEN Network (BTN USA)
 https://dlhd.dad/watch.php?id=397
 
 #EXTINF:-1 group-title="USA" tvg-id="cw_pix_11_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",CW PIX 11 USA
@@ -2007,7 +2007,7 @@ https://dlhd.dad/watch.php?id=52
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/court-tv-us.png",Court TV USA
 https://dlhd.dad/watch.php?id=281
 
-#EXTINF:-1 tvg-id="cw_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/cw-us.png",CW USA
+#EXTINF:-1 tvg-id="cbs_sports_network_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/cw-us.png",CW USA
 https://dlhd.dad/watch.php?id=300
 
 #EXTINF:-1 tvg-id="nbc_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/cnbc-us.png",CNBC USA
@@ -2112,13 +2112,13 @@ https://dlhd.dad/watch.php?id=643
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/fox-business-us.png",Fox Business
 https://dlhd.dad/watch.php?id=297
 
-#EXTINF:-1 tvg-id="fox_sports_2_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/fox-us.png",FOX USA
+#EXTINF:-1 tvg-id="fox_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/fox-us.png",FOX USA
 https://dlhd.dad/watch.php?id=54
 
-#EXTINF:-1 tvg-id="fox_sports_2_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/fx-us.png",FX USA
+#EXTINF:-1 tvg-id="fox_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/fx-us.png",FX USA
 https://dlhd.dad/watch.php?id=317
 
-#EXTINF:-1 tvg-id="fox_sports_2_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/fxx-us.png",FXX USA
+#EXTINF:-1 tvg-id="fox_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/fxx-us.png",FXX USA
 https://dlhd.dad/watch.php?id=298
 
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/freeform-us.png",Freeform
@@ -2139,7 +2139,7 @@ https://dlhd.dad/watch.php?id=744
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FETV - Family Entertainment Television
 https://dlhd.dad/watch.php?id=751
 
-#EXTINF:-1 tvg-id="fox_sports_2_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FOXNY USA
+#EXTINF:-1 tvg-id="foxny_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FOXNY USA
 https://dlhd.dad/watch.php?id=768
 
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/weather-channel-us.png",Fox Weather Channel
@@ -2175,13 +2175,13 @@ https://dlhd.dad/watch.php?id=899
 #EXTINF:-1 group-title="USA" tvg-id="fanduel_sports_network_oklahoma"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Oklahoma
 https://dlhd.dad/watch.php?id=900
 
-#EXTINF:-1 tvg-id="fanduel_sports_network_south" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network SoCal
+#EXTINF:-1 tvg-id="fanduel_sports_network_socal" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network SoCal
 https://dlhd.dad/watch.php?id=902
 
 #EXTINF:-1 tvg-id="fanduel_sports_network_south" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network South
 https://dlhd.dad/watch.php?id=903
 
-#EXTINF:-1 tvg-id="fanduel_sports_network_southeast" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Southeast
+#EXTINF:-1 tvg-id="fanduel_sports_network_south" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Southeast
 https://dlhd.dad/watch.php?id=904
 
 #EXTINF:-1 tvg-id="fanduel_sports_network_south" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",FanDuel Sports Network Sun
@@ -2241,7 +2241,7 @@ https://dlhd.dad/watch.php?id=693
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",HBO Zone USA
 https://dlhd.dad/watch.php?id=694
 
-#EXTINF:-1 group-title="USA" tvg-id="history_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",History USA
+#EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",History USA
 https://dlhd.dad/watch.php?id=322
 
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Headline News
@@ -2286,7 +2286,7 @@ https://dlhd.dad/watch.php?id=371
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",MAVTV USA
 https://dlhd.dad/watch.php?id=646
 
-#EXTINF:-1 group-title="USA" tvg-id="nhl_network_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/mlb-network-us.png",MLB Network USA
+#EXTINF:-1 group-title="USA" tvg-id="nfl_network_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/mlb-network-us.png",MLB Network USA
 https://dlhd.dad/watch.php?id=399
 
 #EXTINF:-1 tvg-id="msg_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/masn-us.png",MASN USA
@@ -2304,7 +2304,7 @@ https://dlhd.dad/watch.php?id=662
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",MGM+ USA / Epix
 https://dlhd.dad/watch.php?id=791
 
-#EXTINF:-1 tvg-id="nbcs_philadelphia_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nbcsn-philadelphia-us.png",NBC10 Philadelphia
+#EXTINF:-1 tvg-id="nbcs_philadelphia" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nbcsn-philadelphia-us.png",NBC10 Philadelphia
 https://dlhd.dad/watch.php?id=277
 
 #EXTINF:-1 group-title="USA" tvg-id="nhl_network_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nhl-network-us.png",NHL Network USA
@@ -2325,7 +2325,7 @@ https://dlhd.dad/watch.php?id=53
 #EXTINF:-1 group-title="USA" tvg-id="nba_tv_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nba-tv-us.png",NBA TV USA
 https://dlhd.dad/watch.php?id=404
 
-#EXTINF:-1 tvg-id="nbcs_philadelphia_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nbcsn-philadelphia-us.png",NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="nbcs_philadelphia" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nbcsn-philadelphia-us.png",NBC Sports Philadelphia
 https://dlhd.dad/watch.php?id=777
 
 #EXTINF:-1 group-title="USA" tvg-id="nfl-network.us"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nfl-network-us.png",NFL Network
@@ -2364,7 +2364,7 @@ https://dlhd.dad/watch.php?id=613
 #EXTINF:-1 group-title="USA" tvg-id="nat_geo_wild_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nat-geo-wild-us.png",Nat Geo Wild USA
 https://dlhd.dad/watch.php?id=745
 
-#EXTINF:-1 group-title="USA" tvg-id="nbc_universo_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nbc-universo-us.png",NBC Universo
+#EXTINF:-1 group-title="USA" tvg-id="nbc_universo"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/nbc-universo-us.png",NBC Universo
 https://dlhd.dad/watch.php?id=845
 
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/oprah-winfrey-network-us.png",Oprah Winfrey Network (OWN)
@@ -2373,7 +2373,7 @@ https://dlhd.dad/watch.php?id=331
 #EXTINF:-1 group-title="USA" tvg-id="oxygen_true_crime"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/oxygen-true-crime-us.png",Oxygen True Crime
 https://dlhd.dad/watch.php?id=332
 
-#EXTINF:-1 group-title="USA" tvg-id="outdoor_channel"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/outdoor-channel-us.png",Outdoor Channel USA
+#EXTINF:-1 group-title="USA" tvg-id="outdoor_channel_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/outdoor-channel-us.png",Outdoor Channel USA
 https://dlhd.dad/watch.php?id=848
 
 #EXTINF:-1 group-title="USA" tvg-id="paramount-network.us"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/paramount-network-us.png",Paramount Network
@@ -2385,7 +2385,7 @@ https://dlhd.dad/watch.php?id=653
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/pac-12-network-us.png",Pac-12 Network USA
 https://dlhd.dad/watch.php?id=287
 
-#EXTINF:-1 tvg-id="cbs_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/pbs-us.png",PBS USA
+#EXTINF:-1 tvg-id="pbs_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/pbs-us.png",PBS USA
 https://dlhd.dad/watch.php?id=210
 
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",Reelz Channel
@@ -2427,7 +2427,7 @@ https://dlhd.dad/watch.php?id=980
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/starz-encore-westerns-us.png",Starz Encore Westerns
 https://dlhd.dad/watch.php?id=981
 
-#EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/spectrum-sportsnet-us.png",Spectrum SportsNet USA
+#EXTINF:-1 group-title="USA" tvg-id="spectrum_sportsnet_usa"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/spectrum-sportsnet-us.png",Spectrum SportsNet USA
 https://dlhd.dad/watch.php?id=982
 
 #EXTINF:-1 tvg-id="sec_network_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/sec-network-us.png",SEC Network USA
@@ -2541,7 +2541,7 @@ https://dlhd.dad/watch.php?id=376
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/we-tv-us.png",WETV USA
 https://dlhd.dad/watch.php?id=655
 
-#EXTINF:-1 tvg-id="yes_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/yes-network-us.png",YES Network USA
+#EXTINF:-1 tvg-id="sec_network_usa" group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/countries/united-states/yes-network-us.png",YES Network USA
 https://dlhd.dad/watch.php?id=763
 
 #EXTINF:-1 group-title="USA"" tvg-logo="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tv/logos/misc/24-7/circle1-247.png",5 USA
