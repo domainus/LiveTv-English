@@ -3,206 +3,143 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Major Arena Soccer League : Tacoma Stars vs San Diego Sockers (01:05)
-https://dlhd.dad/watch.php?id=929
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Pisa vs Como (14:00)
+https://dlhd.dad/watch.php?id=509
 
-#EXTINF:-1 group-title="Live Events",Tennis UNITED CUP | UNITED CUP : Zverev A. vs Griekspoor T. (01:00)
-https://dlhd.dad/watch.php?id=1501
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Algeria vs Congo DR (16:00)
+https://dlhd.dad/watch.php?id=511
 
-#EXTINF:-1 group-title="Live Events",Tennis UNITED CUP | UNITED CUP : Zverev A. vs Griekspoor T. (01:00)
-https://dlhd.dad/watch.php?id=1520
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Algeria vs Congo DR (16:00)
+https://dlhd.dad/watch.php?id=512
 
-#EXTINF:-1 group-title="Live Events",Tennis UNITED CUP | UNITED CUP : Harris B. vs Mochizuki S. (02:00)
-https://dlhd.dad/watch.php?id=1502
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Lecce vs Roma (17:00)
+https://dlhd.dad/watch.php?id=509
 
-#EXTINF:-1 group-title="Live Events",Tennis UNITED CUP | UNITED CUP : Siegemund L./Zverev A. vs Schuurs D./Griekspoor T. (03:30)
-https://dlhd.dad/watch.php?id=1501
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Granada vs Rayo Vallecano (18:00)
+https://dlhd.dad/watch.php?id=506
 
-#EXTINF:-1 group-title="Live Events",Tennis UNITED CUP | UNITED CUP : Raducanu E. vs Osaka N. (03:30)
-https://dlhd.dad/watch.php?id=1502
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Côte d'Ivoire vs Burkina Faso (19:00)
+https://dlhd.dad/watch.php?id=511
 
-#EXTINF:-1 group-title="Live Events",Tennis UNITED CUP | UNITED CUP : Raducanu E. vs Osaka N. (03:30)
-https://dlhd.dad/watch.php?id=1520
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Côte d'Ivoire vs Burkina Faso (19:00)
+https://dlhd.dad/watch.php?id=512
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BRISBANE | UNITED CUP : Arango E. vs Kessler M. (01:00)
-https://dlhd.dad/watch.php?id=1505
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Sassuolo vs Juventus (19:45)
+https://dlhd.dad/watch.php?id=509
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BRISBANE | UNITED CUP : Jacquemot E. vs Tomljanovic A. (01:00)
-https://dlhd.dad/watch.php?id=1504
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : West Ham United vs Nottingham Forest (20:00)
+https://dlhd.dad/watch.php?id=501
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BRISBANE | UNITED CUP : Kasatkina D. vs Potapova A. (02:00)
-https://dlhd.dad/watch.php?id=1503
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Detroit Pistons vs New York Knicks (00:00)
+https://dlhd.dad/watch.php?id=565
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BRISBANE | UNITED CUP : Cirstea S. vs Pavlyuchenkova A. (02:30)
-https://dlhd.dad/watch.php?id=1504
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Boston Celtics vs Chicago Bulls (00:30)
+https://dlhd.dad/watch.php?id=566
 
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BRISBANE | UNITED CUP : Kenin S. vs Ruse G. (04:00)
-https://dlhd.dad/watch.php?id=1504
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Toronto Raptors vs Atlanta Hawks (00:30)
+https://dlhd.dad/watch.php?id=567
 
-#EXTINF:-1 group-title="Live Events",Tennis | United Cup : USA vs Spain (02:00)
-https://dlhd.dad/watch.php?id=40
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Houston Rockets vs Phoenix Suns (01:00)
+https://dlhd.dad/watch.php?id=568
 
-#EXTINF:-1 group-title="Live Events",Tennis | United Cup : USA vs Spain (02:00)
-https://dlhd.dad/watch.php?id=884
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Oklahoma City Thunder vs Charlotte Hornets (01:00)
+https://dlhd.dad/watch.php?id=569
 
-#EXTINF:-1 group-title="Live Events",Tennis | United Cup : USA vs Spain (02:00)
-https://dlhd.dad/watch.php?id=588
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Philadelphia 76ers vs Denver Nuggets (01:30)
+https://dlhd.dad/watch.php?id=570
 
-#EXTINF:-1 group-title="Live Events",Tennis | United Cup : USA vs Spain (02:00)
-https://dlhd.dad/watch.php?id=38
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Los Angeles Clippers vs Golden State Warriors (03:00)
+https://dlhd.dad/watch.php?id=571
 
-#EXTINF:-1 group-title="Live Events",Tennis | United Cup : USA vs Spain (02:00)
-https://dlhd.dad/watch.php?id=47
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Portland Trail Blazers vs Utah Jazz (03:00)
+https://dlhd.dad/watch.php?id=572
 
-#EXTINF:-1 group-title="Live Events",Tennis | United Cup : USA vs Spain (02:00)
-https://dlhd.dad/watch.php?id=746
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Utah Mammoth vs New York Rangers (00:00)
+https://dlhd.dad/watch.php?id=550
 
-#EXTINF:-1 group-title="Live Events",Tennis | United Cup : USA vs Spain (02:00)
-https://dlhd.dad/watch.php?id=423
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Anaheim Ducks vs Washington Capitals (00:00)
+https://dlhd.dad/watch.php?id=551
 
-#EXTINF:-1 group-title="Live Events",Tennis | United Cup : USA vs Spain (02:00)
-https://dlhd.dad/watch.php?id=401
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Detroit Red Wings vs Ottawa Senators (00:30)
+https://dlhd.dad/watch.php?id=552
 
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Seattle Kraken vs Calgary Flames (02:30)
+https://dlhd.dad/watch.php?id=553
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Minnesota Wild vs Los Angeles Kings (03:30)
+https://dlhd.dad/watch.php?id=554
+
+#EXTINF:-1 group-title="Live Events",Tennis | Centre Court: Barry, Monique vs Seidel, Ella (00:00)
 https://dlhd.dad/watch.php?id=3
 
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=845
+#EXTINF:-1 group-title="Live Events",Tennis | Grandstand: Kartal, Sonay vs Tjen, Janice (00:00)
+https://dlhd.dad/watch.php?id=4
 
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=53
+#EXTINF:-1 group-title="Live Events",Tennis | Ken Rosewall Arena: Mboko Victoria vs Mertens Elise (01:00)
+https://dlhd.dad/watch.php?id=5
 
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=769
+#EXTINF:-1 group-title="Live Events",Tennis | Show Court 1: Nakashima, Brandon vs Davidovich Fokina, Alejandro (01:00)
+https://dlhd.dad/watch.php?id=6
 
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=38
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=37
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=840
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=113
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=134
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=118
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=1021
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=888
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=926
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=150
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NFL) | NFL : Pittsburgh Steelers vs Baltimore Ravens (01:20)
-https://dlhd.dad/watch.php?id=78
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NCAAF) | College Football | Div II/III : North Central vs Wisconsin River Falls (01:00)
-https://dlhd.dad/watch.php?id=44
-
-#EXTINF:-1 group-title="Live Events",Am. Football (NCAAF) | College Football | Div II/III : North Central vs Wisconsin River Falls (01:00)
-https://dlhd.dad/watch.php?id=103
-
-#EXTINF:-1 group-title="Live Events",NCAA/NCAAW Basketball | NCAA : Washington vs Indiana (01:00)
-https://dlhd.dad/watch.php?id=397
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Oklahoma City Thunder (01:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Pat Rafter Arena: Kessler, Mccartney vs Keys, Madison (01:00)
 https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Phoenix Suns vs Oklahoma City Thunder (01:00)
-https://dlhd.dad/watch.php?id=900
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Sacramento Kings vs Milwaukee Bucks (02:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Centre Court: Linette, Magda vs Williams, Venus (01:30)
 https://dlhd.dad/watch.php?id=8
 
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Sacramento Kings vs Milwaukee Bucks (02:00)
-https://dlhd.dad/watch.php?id=755
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Sacramento Kings vs Milwaukee Bucks (02:00)
-https://dlhd.dad/watch.php?id=907
-
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Lakers vs Memphis Grizzlies (02:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Grandstand: Parks, Alycia vs Cocciaretto, Elisabetta (01:30)
 https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 group-title="Live Events",NBA | NBA : Los Angeles Lakers vs Memphis Grizzlies (02:30)
-https://dlhd.dad/watch.php?id=982
+#EXTINF:-1 group-title="Live Events",Tennis | RAC Arena: Cobolli Flavio vs Rinderknech Arthur (02:00)
+https://dlhd.dad/watch.php?id=10
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey (IIHF U20) | World Junior Championship | Semifinal : Canada U20 vs Czech Republic U20 (01:30)
-https://dlhd.dad/watch.php?id=663
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey (IIHF U20) | World Junior Championship | Semifinal : Canada U20 vs Czech Republic U20 (01:30)
-https://dlhd.dad/watch.php?id=111
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey (IIHF U20) | World Junior Championship | Semifinal : Canada U20 vs Czech Republic U20 (01:30)
-https://dlhd.dad/watch.php?id=114
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey (IIHF U20) | World Junior Championship | Semifinal : Canada U20 vs Czech Republic U20 (01:30)
-https://dlhd.dad/watch.php?id=115
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey (IIHF U20) | World Junior Championship | Semifinal : Canada U20 vs Czech Republic U20 (01:30)
-https://dlhd.dad/watch.php?id=839
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey (IIHF U20) | World Junior Championship | Semifinal : Canada U20 vs Czech Republic U20 (01:30)
-https://dlhd.dad/watch.php?id=23
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Chicago Blackhawks (00:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Show Court 1: Mpetshi Perricard, Giovanni vs Paul, Tommy (02:30)
 https://dlhd.dad/watch.php?id=11
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Chicago Blackhawks (00:00)
-https://dlhd.dad/watch.php?id=776
+#EXTINF:-1 group-title="Live Events",Tennis | Pat Rafter Arena: Sabalenka, Aryna vs Bucsa, Cristina (02:30)
+https://dlhd.dad/watch.php?id=12
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Chicago Blackhawks (00:00)
-https://dlhd.dad/watch.php?id=411
+#EXTINF:-1 group-title="Live Events",Tennis | Show Court 2: Shnaider, Diana vs Potapova, Anastasia (02:30)
+https://dlhd.dad/watch.php?id=13
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Chicago Blackhawks (00:00)
-https://dlhd.dad/watch.php?id=406
+#EXTINF:-1 group-title="Live Events",Tennis | Pat Rafter Arena: Kyrgios, Nick vs Kovacevic, Aleksandar (04:30)
+https://dlhd.dad/watch.php?id=16
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Chicago Blackhawks (00:00)
-https://dlhd.dad/watch.php?id=407
+#EXTINF:-1 group-title="Live Events",Tennis | Centre Court: Svitolina, Elina vs Gracheva, Varvara (05:00)
+https://dlhd.dad/watch.php?id=17
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Chicago Blackhawks (00:00)
-https://dlhd.dad/watch.php?id=408
+#EXTINF:-1 group-title="Live Events",Tennis | Show Court 1: Muchova, Karolina vs Tomljanovic, Ajla (05:30)
+https://dlhd.dad/watch.php?id=18
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Vegas Golden Knights vs Chicago Blackhawks (00:00)
-https://dlhd.dad/watch.php?id=833
+#EXTINF:-1 group-title="Live Events",Tennis | Show Court 2: Cirstea, Sorana vs Ostapenko, Jelena (05:30)
+https://dlhd.dad/watch.php?id=19
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Carolina Hurricanes vs New Jersey Devils (00:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Hong Kong Centre Court: Muller, Alexandre vs Kecmanovic, Miomir (05:30)
 https://dlhd.dad/watch.php?id=20
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Carolina Hurricanes vs New Jersey Devils (00:00)
-https://dlhd.dad/watch.php?id=903
+#EXTINF:-1 group-title="Live Events",Tennis | Ken Rosewall Arena: Joint Maya vs Krejcikova Barbora (05:30)
+https://dlhd.dad/watch.php?id=21
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Carolina Hurricanes vs New Jersey Devils (00:00)
-https://dlhd.dad/watch.php?id=809
+#EXTINF:-1 group-title="Live Events",Tennis | Centre Court: Vekic, Donna vs Eala, Alexandra (06:30)
+https://dlhd.dad/watch.php?id=22
 
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Carolina Hurricanes vs New Jersey Devils (00:00)
-https://dlhd.dad/watch.php?id=1
+#EXTINF:-1 group-title="Live Events",Tennis | Show Court 1: Bouzkova, Marie vs Badosa, Paula (07:00)
+https://dlhd.dad/watch.php?id=23
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Egypt vs Benin (16:00)
-https://dlhd.dad/watch.php?id=511
+#EXTINF:-1 group-title="Live Events",Tennis | Hong Kong Centre Court: Wong, Chak Lam Coleman vs Navone, Mariano (07:00)
+https://dlhd.dad/watch.php?id=24
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Egypt vs Benin (16:00)
-https://dlhd.dad/watch.php?id=512
+#EXTINF:-1 group-title="Live Events",Tennis | Ken Rosewall Arena: De Minaur Alex vs Mensik Jakub (08:00)
+https://dlhd.dad/watch.php?id=25
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nigeria vs Mozambique (19:00)
-https://dlhd.dad/watch.php?id=511
+#EXTINF:-1 group-title="Live Events",Tennis | Pat Rafter Arena: Dimitrov, Grigor vs Carreno-Busta, Pablo (08:30)
+https://dlhd.dad/watch.php?id=26
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nigeria vs Mozambique (19:00)
-https://dlhd.dad/watch.php?id=512
+#EXTINF:-1 group-title="Live Events",Tennis | Pat Rafter Arena: Rybakina, Elena vs Zhang, Shuai (10:00)
+https://dlhd.dad/watch.php?id=27
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Leicester City vs West Bromwich Albion (19:00)
-https://dlhd.dad/watch.php?id=501
+#EXTINF:-1 group-title="Live Events",Tennis | Hong Kong Centre Court: Shang, Juncheng vs Comesana, Francisco (10:00)
+https://dlhd.dad/watch.php?id=28
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
@@ -1203,7 +1140,7 @@ https://dlhd.dad/watch.php?id=318
 #EXTINF:-1 group-title="DLHD 24/7",Game Show Network
 https://dlhd.dad/watch.php?id=319
 
-#EXTINF:-1 group-title="DLHD 24/7",GOLTV USA
+#EXTINF:-1 group-title="DLHD 24/7",beIN SPORTS MAX AR
 https://dlhd.dad/watch.php?id=597
 
 #EXTINF:-1 group-title="DLHD 24/7",Gold UK
@@ -2004,19 +1941,19 @@ https://dlhd.dad/watch.php?id=79
 #EXTINF:-1 group-title="DLHD 24/7",SporTV3 Brasil
 https://dlhd.dad/watch.php?id=80
 
-#EXTINF:-1 group-title="DLHD 24/7",Sport Klub 1 Serbia
+#EXTINF:-1 group-title="DLHD 24/7",Sport Klub 1 Croatia
 https://dlhd.dad/watch.php?id=101
 
-#EXTINF:-1 group-title="DLHD 24/7",Sport Klub 2 Serbia
+#EXTINF:-1 group-title="DLHD 24/7",Sport Klub 2 Croatia
 https://dlhd.dad/watch.php?id=102
 
-#EXTINF:-1 group-title="DLHD 24/7",Sport Klub 3 Serbia
+#EXTINF:-1 group-title="DLHD 24/7",Sport Klub 3 Croatia
 https://dlhd.dad/watch.php?id=103
 
-#EXTINF:-1 group-title="DLHD 24/7",Sport Klub 4 Serbia
+#EXTINF:-1 group-title="DLHD 24/7",Sport Klub 4 Croatia
 https://dlhd.dad/watch.php?id=104
 
-#EXTINF:-1 group-title="DLHD 24/7",Sport Klub HD Serbia
+#EXTINF:-1 group-title="DLHD 24/7",Sport Klub HD Croatia
 https://dlhd.dad/watch.php?id=453
 
 #EXTINF:-1 group-title="DLHD 24/7",Sportsnet Ontario
