@@ -3,152 +3,152 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cremonese vs Cagliari (17:30)
-https://dlhd.dad/watch.php?id=509
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Mali vs Senegal (16:00)
+https://dlhd.dad/watch.php?id=511
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : PSG vs Olympique Marseille (18:00)
-https://dlhd.dad/watch.php?id=507
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Mali vs Senegal (16:00)
+https://dlhd.dad/watch.php?id=512
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atlético Madrid vs Real Madrid (19:00)
-https://dlhd.dad/watch.php?id=506
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cameroon vs Morocco (19:00)
+https://dlhd.dad/watch.php?id=511
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Milan vs Genoa (19:45)
-https://dlhd.dad/watch.php?id=509
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cameroon vs Morocco (19:00)
+https://dlhd.dad/watch.php?id=512
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Arsenal vs Liverpool (20:00)
-https://dlhd.dad/watch.php?id=502
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Boston Celtics vs Denver Nuggets (00:00)
-https://dlhd.dad/watch.php?id=568
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Charlotte Hornets vs Toronto Raptors (00:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Charlotte Hornets vs Indiana Pacers (00:00)
 https://dlhd.dad/watch.php?id=565
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Detroit Pistons vs Chicago Bulls (00:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Chicago Bulls vs Miami Heat (01:00)
 https://dlhd.dad/watch.php?id=566
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Philadelphia 76ers vs Washington Wizards (00:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Minnesota Timberwolves vs Cleveland Cavaliers (01:00)
 https://dlhd.dad/watch.php?id=567
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Atlanta Hawks vs New Orleans Pelicans (00:30)
-https://dlhd.dad/watch.php?id=569
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Utah Jazz vs Dallas Mavericks (02:00)
+https://dlhd.dad/watch.php?id=568
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Brooklyn Nets vs Orlando Magic (00:30)
-https://dlhd.dad/watch.php?id=570
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : New Jersey Devils vs Pittsburgh Penguins (00:00)
+https://dlhd.dad/watch.php?id=555
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : New York Knicks vs Los Angeles Clippers (00:30)
-https://dlhd.dad/watch.php?id=571
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Memphis Grizzlies vs Phoenix Suns (01:00)
-https://dlhd.dad/watch.php?id=572
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Oklahoma City Thunder vs Utah Jazz (01:00)
-https://dlhd.dad/watch.php?id=573
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : San Antonio Spurs vs Los Angeles Lakers (02:30)
-https://dlhd.dad/watch.php?id=574
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Golden State Warriors vs Milwaukee Bucks (03:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Portland Trail Blazers vs Houston Rockets (03:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Dallas Stars vs Washington Capitals (00:00)
-https://dlhd.dad/watch.php?id=550
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Calgary Flames vs Montreal Canadiens (00:30)
-https://dlhd.dad/watch.php?id=551
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : St. Louis Blues vs Chicago Blackhawks (02:30)
-https://dlhd.dad/watch.php?id=552
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Ottawa Senators vs Utah Mammoth (02:30)
-https://dlhd.dad/watch.php?id=553
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : San Jose Sharks vs Los Angeles Kings (03:30)
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Toronto Maple Leafs vs Philadelphia Flyers (00:00)
 https://dlhd.dad/watch.php?id=554
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1: Cameron Norrie vs Aleksandar Kovacevic (01:00)
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Buffalo Sabres vs New York Rangers (00:00)
+https://dlhd.dad/watch.php?id=553
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Anaheim Ducks vs Carolina Hurricanes (00:00)
+https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Vancouver Canucks vs Detroit Red Wings (00:00)
+https://dlhd.dad/watch.php?id=552
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Calgary Flames vs Boston Bruins (00:00)
+https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Florida Panthers vs Montreal Canadiens (00:00)
+https://dlhd.dad/watch.php?id=551
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Edmonton Oilers vs Winnipeg Jets (01:00)
+https://dlhd.dad/watch.php?id=558
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : New York Islanders vs Nashville Predators (01:00)
+https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Ottawa Senators vs Colorado Avalanche (02:00)
+https://dlhd.dad/watch.php?id=559
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Columbus Blue Jackets vs Vegas Golden Knights (03:00)
+https://dlhd.dad/watch.php?id=560
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Minnesota Wild vs Seattle Kraken (03:00)
+https://dlhd.dad/watch.php?id=561
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Centre Court: Magda Linette vs Alexandra Eala (00:00)
 https://dlhd.dad/watch.php?id=1
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena:Aryna Sabalenka vs Sorana Cirstea (01:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Brisbane International Show Court 1: Day 5 (01:00)
 https://dlhd.dad/watch.php?id=2
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 10:Julian Cash/Lloyd Glasspool vs Tommy Paul/Ethan Quinn (01:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Brisbane International Pat Rafter Arena: Day 5 (01:00)
 https://dlhd.dad/watch.php?id=3
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1: Quentin Halys vs Brandon Nakashima (02:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Brisbane International Show Court 1: Day 6 (01:00)
 https://dlhd.dad/watch.php?id=4
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 2:Karolina Muchova vs Ekaterina Alexandrova (02:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Brisbane International Pat Rafter Arena: Day 6 (01:00)
 https://dlhd.dad/watch.php?id=5
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena:Elena Rybakina vs Paula Badosa (02:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena:Elena Rybakina vs Karolina Muchova (01:00)
 https://dlhd.dad/watch.php?id=6
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 10:Tomas Machac/Matej Vocel vs Robert Cash/James Tracy (02:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 2:Manuel Guinard /Luke Johnson vs Francisco Cabral/Lucas Miedler (01:00)
 https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 2:Irina Khromacheva/Alexandra Panova vs Lyudmyla Kichenok/Nadiia Kichenok (03:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1:Su-Wei Hsieh/ Jelena Ostapenko vs Lyudmyla Kichenok/ Nadiia Kichenok (01:00)
 https://dlhd.dad/watch.php?id=8
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena: Rinky Hijikata vs Giovanni Mpetshi Perricard (04:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Centre Court: Iva Jovic vs Sofia Costoulas (01:30)
+https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1: Aleksandar Kovacevic vs Mpetshi Perricard G (02:30)
+https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena:Aryna Sabalenka vs Madison Keys (02:30)
+https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 2: Sadio Doumbia/Fabien Reboul vs Orlando Luz/Rafael Matos (02:30)
+https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 2:Hugo Nys/Sem Verbeek vs Tomas Machac/Matej Vocel (04:00)
+https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena:Raphael Collignon vs Brandon Nakashima (05:00)
+https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1: Liudmila Samsonova vs Jessica Pegula (05:00)
+https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Centre Court: Elina Svitolina vs Sonay Kartal (05:00)
+https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Center Court: Lorenzo Musetti vs Chak Lam Coleman Wong (05:30)
+https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : United Cup 2026: Day 8 (06:30)
+https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Ken Rosewall Arena: Maya Joint vs Iga Swiatek (06:30)
+https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Centre Court:Alexandra Eala/Iva Jovic vs Yifan Xu/Zhaoxuan Yang (06:30)
 https://dlhd.dad/watch.php?id=20
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1: Diana Shnaider vs Madison Keys (04:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1:Sebastian Korda vs Alex Michelsen (07:00)
 https://dlhd.dad/watch.php?id=21
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 1: Alexandre Muller vs Marcos Giron (05:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Center Court: Andrey Rublev vs Nuno Borges (07:00)
 https://dlhd.dad/watch.php?id=22
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Center Court: Lorenzo Sonego vs Juncheng Shang (05:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Ken Rosewall Arena:Alex De Minaur vs Hubert Hurkacz (08:00)
 https://dlhd.dad/watch.php?id=23
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 2:Cristina Bucsa/Ellen Perez vs Anna Danilina/Aleksandra Krunic (05:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1:Julian Cash/Lloyd Glasspool vs Sebastian Korda/Brandon Nakashima (08:30)
 https://dlhd.dad/watch.php?id=24
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1: Dayana Yastremska vs Jessica Pegula (06:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena:Mirra Andreeva vs Marta Kostyuk (08:30)
 https://dlhd.dad/watch.php?id=25
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : United Cup 2026: Day 7 (06:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Ken Rosewall Arena: Smith J / Hunter S vs Hurkacz H / Swiatek I (09:30)
 https://dlhd.dad/watch.php?id=26
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Ken Rosewall Arena: Zizou Bergs vs Jakub Mensik (06:30)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena: Daniil Medvedev vs Kamil Majchrzak (10:00)
 https://dlhd.dad/watch.php?id=27
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Center Court: Michael Mmoh vs Karen Khachanov (07:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Center Court: Juncheng Shang vs Alexander Bublik (10:00)
 https://dlhd.dad/watch.php?id=28
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 1:Gabriel Diallo/Chak Lam Coleman Wong vs Constantin Frantzen/Robin Haase (07:00)
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Center Court: Marcos Giron vs Michael Mmoh (11:30)
 https://dlhd.dad/watch.php?id=29
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court 1: Mirra Andreeva vs Linda Noskova (07:30)
-https://dlhd.dad/watch.php?id=30
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 2:Lorenzo Musetti /Lorenzo Sonego vs Alexander Erler/Robert Galloway (07:30)
-https://dlhd.dad/watch.php?id=31
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Ken Rosewall Arena: Elise Mertens vs Barbora Krejcikova (08:00)
-https://dlhd.dad/watch.php?id=32
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena: Raphael Collignon vs Grigor Dimitrov (08:30)
-https://dlhd.dad/watch.php?id=33
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 1:Karen Khachanov/Andrey Rublev vs Theo Arribage/Albano Olivetti (08:30)
-https://dlhd.dad/watch.php?id=34
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Ken Rosewall Arena: Elise Mertens/Zizou Bergs vs Barbora Krejcikova/Jakub Mensik (09:30)
-https://dlhd.dad/watch.php?id=35
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Center Court: Botic Van De Zandschulp vs Alexander Bublik (10:00)
-https://dlhd.dad/watch.php?id=36
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Pat Rafter Arena:Marta Kostyuk vs Amanda Anisimova (10:00)
-https://dlhd.dad/watch.php?id=37
-
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Center Court: Vasil Kirkov/ Bart Stevens vs Gonzalo Escobar/Miguel Angel Reyes-Varela (11:30)
-https://dlhd.dad/watch.php?id=38
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
