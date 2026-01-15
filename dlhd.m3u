@@ -3,98 +3,41 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Senegal vs Egypt (17:00)
-https://dlhd.dad/watch.php?id=511
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Senegal vs Egypt (17:00)
-https://dlhd.dad/watch.php?id=512
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Wolfsburg vs St. Pauli (17:30)
-https://dlhd.dad/watch.php?id=502
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Napoli vs Parma (17:30)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Köln vs Bayern München (19:30)
-https://dlhd.dad/watch.php?id=502
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : RB Leipzig vs Freiburg (19:30)
-https://dlhd.dad/watch.php?id=503
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Hoffenheim vs Borussia M'gladbach (19:30)
-https://dlhd.dad/watch.php?id=504
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Internazionale vs Lecce (19:45)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nigeria vs Morocco (20:00)
-https://dlhd.dad/watch.php?id=511
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nigeria vs Morocco (20:00)
-https://dlhd.dad/watch.php?id=512
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Chelsea vs Arsenal (20:00)
-https://dlhd.dad/watch.php?id=501
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Deportivo Alavés vs Rayo Vallecano (20:00)
-https://dlhd.dad/watch.php?id=505
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Albacete vs Real Madrid (20:00)
-https://dlhd.dad/watch.php?id=506
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Real Betis vs Elche (20:00)
-https://dlhd.dad/watch.php?id=508
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Miami Heat vs Phoenix Suns (00:30)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Indiana Pacers vs Toronto Raptors (00:00)
 https://dlhd.dad/watch.php?id=565
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Oklahoma City Thunder vs San Antonio Spurs (01:00)
-https://dlhd.dad/watch.php?id=569
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Houston Rockets vs Chicago Bulls (01:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Philadelphia 76ers vs Cleveland Cavaliers (00:00)
 https://dlhd.dad/watch.php?id=566
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Milwaukee Bucks vs Minnesota Timberwolves (01:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Chicago Bulls vs Utah Jazz (01:00)
 https://dlhd.dad/watch.php?id=567
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : New Orleans Pelicans vs Denver Nuggets (01:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : New Orleans Pelicans vs Brooklyn Nets (01:00)
 https://dlhd.dad/watch.php?id=568
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Los Angeles Lakers vs Atlanta Hawks (03:30)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Dallas Mavericks vs Denver Nuggets (02:30)
+https://dlhd.dad/watch.php?id=569
+
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Sacramento Kings vs New York Knicks (03:00)
 https://dlhd.dad/watch.php?id=570
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Golden State Warriors vs Portland Trail Blazers (04:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Los Angeles Clippers vs Washington Wizards (03:30)
 https://dlhd.dad/watch.php?id=571
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Montreal Canadiens vs Washington Capitals (00:00)
-https://dlhd.dad/watch.php?id=552
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Orlando Magic vs Memphis Grizzlies (19:00)
+https://dlhd.dad/watch.php?id=565
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Tampa Bay Lightning vs Pittsburgh Penguins (00:00)
-https://dlhd.dad/watch.php?id=551
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Vancouver Canucks vs Ottawa Senators (00:00)
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Seattle Kraken vs New Jersey Devils (00:00)
 https://dlhd.dad/watch.php?id=550
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Calgary Flames vs Columbus Blue Jackets (00:00)
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Philadelphia Flyers vs Buffalo Sabres (00:30)
+https://dlhd.dad/watch.php?id=551
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Ottawa Senators vs New York Rangers (00:30)
+https://dlhd.dad/watch.php?id=552
+
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Vegas Golden Knights vs Los Angeles Kings (03:00)
 https://dlhd.dad/watch.php?id=553
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Carolina Hurricanes vs St. Louis Blues (00:30)
-https://dlhd.dad/watch.php?id=555
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Detroit Red Wings vs Boston Bruins (00:30)
-https://dlhd.dad/watch.php?id=554
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : New York Islanders vs Winnipeg Jets (01:00)
-https://dlhd.dad/watch.php?id=557
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Edmonton Oilers vs Nashville Predators (01:00)
-https://dlhd.dad/watch.php?id=556
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Toronto Maple Leafs vs Utah Mammoth (03:00)
-https://dlhd.dad/watch.php?id=558
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Dallas Stars vs Anaheim Ducks (03:00)
-https://dlhd.dad/watch.php?id=559
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51
