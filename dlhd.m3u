@@ -3,113 +3,119 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Parma vs Genoa (11:30)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Cremonese vs Verona (17:30)
 https://dlhd.dad/watch.php?id=509
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Getafe vs Valencia (13:00)
-https://dlhd.dad/watch.php?id=506
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Lazio vs Como (19:45)
+https://dlhd.dad/watch.php?id=509
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Wolverhampton Wanderers vs Newcastle United (14:00)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Brighton & Hove Albion vs AFC Bournemouth (20:00)
 https://dlhd.dad/watch.php?id=501
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Strasbourg vs Metz (14:00)
-https://dlhd.dad/watch.php?id=507
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Bologna vs Fiorentina (14:00)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Atlético Madrid vs Deportivo Alavés (15:15)
+#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Elche vs Sevilla (20:00)
 https://dlhd.dad/watch.php?id=506
 
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Nantes vs Paris (16:15)
-https://dlhd.dad/watch.php?id=510
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Rennes vs Le Havre (16:15)
-https://dlhd.dad/watch.php?id=507
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Aston Villa vs Everton (16:30)
-https://dlhd.dad/watch.php?id=501
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Torino vs Roma (17:00)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Celta de Vigo vs Rayo Vallecano (17:30)
-https://dlhd.dad/watch.php?id=506
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Senegal vs Morocco (19:00)
-https://dlhd.dad/watch.php?id=511
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Senegal vs Morocco (19:00)
-https://dlhd.dad/watch.php?id=512
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Milan vs Lecce (19:45)
-https://dlhd.dad/watch.php?id=509
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Olympique Lyonnais vs Brest (19:45)
-https://dlhd.dad/watch.php?id=507
-
-#EXTINF:-1 group-title="Live Events",Soccer | Soccer : Real Sociedad vs Barcelona (20:00)
-https://dlhd.dad/watch.php?id=506
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Atlanta Hawks vs Boston Celtics (00:30)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Chicago Bulls vs Brooklyn Nets (00:00)
 https://dlhd.dad/watch.php?id=566
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Detroit Pistons vs Indiana Pacers (00:30)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Houston Rockets vs New Orleans Pelicans (00:00)
 https://dlhd.dad/watch.php?id=567
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : New York Knicks vs Phoenix Suns (00:30)
-https://dlhd.dad/watch.php?id=568
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Miami Heat vs Oklahoma City Thunder (01:00)
-https://dlhd.dad/watch.php?id=569
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : San Antonio Spurs vs Minnesota Timberwolves (01:00)
-https://dlhd.dad/watch.php?id=570
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Golden State Warriors vs Charlotte Hornets (01:30)
-https://dlhd.dad/watch.php?id=571
-
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Denver Nuggets vs Washington Wizards (02:00)
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Denver Nuggets vs Charlotte Hornets (01:00)
 https://dlhd.dad/watch.php?id=572
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Portland Trail Blazers vs Los Angeles Lakers (03:00)
-https://dlhd.dad/watch.php?id=573
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : Sacramento Kings vs Portland Trail Blazers (02:00)
+https://dlhd.dad/watch.php?id=569
 
-#EXTINF:-1 group-title="Live Events",Basketball | NBA : Memphis Grizzlies vs Orlando Magic (17:00)
-https://dlhd.dad/watch.php?id=565
+#EXTINF:-1 group-title="Live Events",Basketball | NBA : 08:00 NBA : Los Angeles Lakers vs Toronto Raptors (02:00)
+https://dlhd.dad/watch.php?id=570
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Florida Panthers vs Washington Capitals (00:00)
-https://dlhd.dad/watch.php?id=557
+#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : St. Louis Blues vs Edmonton Oilers (01:00)
+https://dlhd.dad/watch.php?id=552
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Toronto Maple Leafs vs Winnipeg Jets (00:00)
-https://dlhd.dad/watch.php?id=558
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Australian Open ESPN 2 (00:00)
+https://dlhd.dad/watch.php?id=1
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Carolina Hurricanes vs New Jersey Devils (00:00)
-https://dlhd.dad/watch.php?id=551
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 15: Quentin Halys vs Alejandro Tabilo (00:00)
+https://dlhd.dad/watch.php?id=2
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Columbus Blue Jackets vs Pittsburgh Penguins (00:00)
-https://dlhd.dad/watch.php?id=556
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : John Cain Arena: Nuno Borges vs FelixAuger Aliassime (00:00)
+https://dlhd.dad/watch.php?id=3
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Montreal Canadiens vs Ottawa Senators (00:00)
-https://dlhd.dad/watch.php?id=554
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 7: Mariano Navone vs Hamad Medjedovic (00:00)
+https://dlhd.dad/watch.php?id=4
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Boston Bruins vs Chicago Blackhawks (01:00)
-https://dlhd.dad/watch.php?id=559
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 6: Elias Ymer vs Alexander Shevchenko (00:00)
+https://dlhd.dad/watch.php?id=5
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Nashville Predators vs Vegas Golden Knights (03:00)
-https://dlhd.dad/watch.php?id=561
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 14: Petra Marcinko vs Tatjana Maria (00:00)
+https://dlhd.dad/watch.php?id=6
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Edmonton Oilers vs Vancouver Canucks (03:00)
-https://dlhd.dad/watch.php?id=560
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 8: Anna Bondar vs Elizabeth Mandlik (00:00)
+https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | NHL : Los Angeles Kings vs Anaheim Ducks (03:00)
-https://dlhd.dad/watch.php?id=562
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 13: Emiliana Arango vs McCartney Kessler (00:00)
+https://dlhd.dad/watch.php?id=8
 
-#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Seattle Seahawks vs San Francisco 49ers (01:00)
-https://dlhd.dad/watch.php?id=531
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : 1573 Arena: Magda Linette vs Emma Navarro (00:00)
+https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 group-title="Live Events",Am. Football | NFL : 01:30 NFL : New England Patriots vs Houston Texans (21:30)
-https://dlhd.dad/watch.php?id=530
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court Arena: Storm Hunter vs Jessica Bouzas Maneiro (00:00)
+https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 12: Veronika Erjavec vs Magdalena Frech (00:00)
+https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Stadium Australia: Sofia Kenin vs Peyton Stearns (00:00)
+https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 5: Ann Li vs Camila Osorio (00:00)
+https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Margaret Court Arena: Daniil Medvedev vs JesperDe Jong (00:30)
+https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Rod Laver Arena: Coco Gauff vs Kamilla Rakhimova (00:30)
+https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : 1573 Arena: JuanManuel Cerundolo vs Jordan Thompson (01:30)
+https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 5: Learner Tien vs Marcos Giron (01:30)
+https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Show Court Arena: Matteo Arnaldi vs Andrey Rublev (01:30)
+https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 13: Tommy Paul vs Aleksandar Kovacevic (01:30)
+https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 14: Nicolai Budkov Kjaer vs Reilly Opelka (01:30)
+https://dlhd.dad/watch.php?id=20
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 8: Shang Juncheng vs Roberto Bautista Agut (01:30)
+https://dlhd.dad/watch.php?id=21
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 12: Fabian Marozsan vs Arthur Rinderknech (01:30)
+https://dlhd.dad/watch.php?id=22
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Stadium Australia: Priscilla Hon vs Marina Stakusic (01:30)
+https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 7: Dalma Galfi vs Clara Tauson (02:00)
+https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : John Cain Arena: Jessica Pegula vs Anastasia Zakharova (02:00)
+https://dlhd.dad/watch.php?id=25
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 6: Alycia Parks vs Alexandra Eala (02:00)
+https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Court 15: Linda Klimovicova vs Francesca Jones (02:00)
+https://dlhd.dad/watch.php?id=27
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tennis : Rod Laver Arena: Mackenzie McDonald vs Alexde Minaur (02:30)
+https://dlhd.dad/watch.php?id=28
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://dlhd.dad/watch.php?id=51

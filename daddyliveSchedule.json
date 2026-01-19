@@ -1,448 +1,4 @@
 {
-    "Saturday 17th Jan 2026 - Schedule Time UK GMT": {
-        "Soccer</span>": [
-            {
-                "time": "13:00",
-                "event": "Soccer : Real Madrid vs Levante",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-506",
-                        "channel_id": "506"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "Soccer : Udinese vs Internazionale",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-509",
-                        "channel_id": "509"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "Soccer : Borussia Dortmund vs St. Pauli",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-508",
-                        "channel_id": "508"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "Soccer : Liverpool vs Burnley",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-501",
-                        "channel_id": "501"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "Soccer : Chelsea vs Brentford",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-502",
-                        "channel_id": "502"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "Soccer : Leeds United vs Fulham",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-503",
-                        "channel_id": "503"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "Soccer : Sunderland vs Crystal Palace",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-504",
-                        "channel_id": "504"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "Soccer : Tottenham Hotspur vs West Ham United",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-505",
-                        "channel_id": "505"
-                    }
-                ]
-            },
-            {
-                "time": "15:15",
-                "event": "Soccer : Mallorca vs Athletic Club",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-506",
-                        "channel_id": "506"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "Soccer : Lens vs Auxerre",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-507",
-                        "channel_id": "507"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "Soccer : Egypt vs Nigeria",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-511",
-                        "channel_id": "511"
-                    },
-                    {
-                        "channel_name": "Extra Stream CH-512",
-                        "channel_id": "512"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "Soccer : Napoli vs Sassuolo",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-509",
-                        "channel_id": "509"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "Soccer : RB Leipzig vs Bayern M\u00fcnchen",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-508",
-                        "channel_id": "508"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "Soccer : Osasuna vs Real Oviedo",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-506",
-                        "channel_id": "506"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "Soccer : Nottingham Forest vs Arsenal",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-501",
-                        "channel_id": "501"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Soccer : Toulouse vs Nice",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-507",
-                        "channel_id": "507"
-                    }
-                ]
-            },
-            {
-                "time": "19:45",
-                "event": "Soccer : Cagliari vs Juventus",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-509",
-                        "channel_id": "509"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Soccer : Real Betis vs Villarreal",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-506",
-                        "channel_id": "506"
-                    }
-                ]
-            },
-            {
-                "time": "20:05",
-                "event": "Soccer : Angers SCO vs Olympique Marseille",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-507",
-                        "channel_id": "507"
-                    }
-                ]
-            }
-        ],
-        "Basketball</span>": [
-            {
-                "time": "22:00",
-                "event": "NBA : Dallas Mavericks vs Utah Jazz",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-565",
-                        "channel_id": "565"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "NBA : Atlanta Hawks vs Boston Celtics",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-566",
-                        "channel_id": "566"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "NBA : Detroit Pistons vs Indiana Pacers",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-567",
-                        "channel_id": "567"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "NBA : New York Knicks vs Phoenix Suns",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-568",
-                        "channel_id": "568"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "NBA : Miami Heat vs Oklahoma City Thunder",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-569",
-                        "channel_id": "569"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "NBA : San Antonio Spurs vs Minnesota Timberwolves",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-570",
-                        "channel_id": "570"
-                    }
-                ]
-            },
-            {
-                "time": "01:30",
-                "event": "NBA : Golden State Warriors vs Charlotte Hornets",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-571",
-                        "channel_id": "571"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "NBA : Denver Nuggets vs Washington Wizards",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-572",
-                        "channel_id": "572"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "NBA : Portland Trail Blazers vs Los Angeles Lakers",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-573",
-                        "channel_id": "573"
-                    }
-                ]
-            }
-        ],
-        "Ice Hockey</span>": [
-            {
-                "time": "17:30",
-                "event": "NHL : Minnesota Wild vs Buffalo Sabres",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-550",
-                        "channel_id": "550"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "NHL : New York Rangers vs Philadelphia Flyers",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-551",
-                        "channel_id": "551"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "NHL : New York Islanders vs Calgary Flames",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-552",
-                        "channel_id": "552"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "NHL : Seattle Kraken vs Utah Mammoth",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-553",
-                        "channel_id": "553"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NHL : Florida Panthers vs Washington Capitals",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-557",
-                        "channel_id": "557"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NHL : Toronto Maple Leafs vs Winnipeg Jets",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-558",
-                        "channel_id": "558"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NHL : Carolina Hurricanes vs New Jersey Devils",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-551",
-                        "channel_id": "551"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NHL : Columbus Blue Jackets vs Pittsburgh Penguins",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-556",
-                        "channel_id": "556"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NHL : Montreal Canadiens vs Ottawa Senators",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-554",
-                        "channel_id": "554"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "NHL : Boston Bruins vs Chicago Blackhawks",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-559",
-                        "channel_id": "559"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "NHL : Nashville Predators vs Vegas Golden Knights",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-561",
-                        "channel_id": "561"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "NHL : Edmonton Oilers vs Vancouver Canucks",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-560",
-                        "channel_id": "560"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "NHL : Los Angeles Kings vs Anaheim Ducks",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-562",
-                        "channel_id": "562"
-                    }
-                ]
-            }
-        ],
-        "Am. Football</span>": [
-            {
-                "time": "21:30",
-                "event": "NFL : Denver Broncos vs Buffalo Bills",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-530",
-                        "channel_id": "530"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "NFL : Seattle Seahawks vs San Francisco 49ers",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-531",
-                        "channel_id": "531"
-                    }
-                ]
-            }
-        ]
-    },
     "Sunday 18th Jan 2026 - Schedule Time UK GMT": {
         "Soccer</span>": [
             {
@@ -640,16 +196,404 @@
                         "channel_id": "572"
                     }
                 ]
+            },
+            {
+                "time": "02:00",
+                "event": "NBA : Sacramento Kings vs Portland Trail Blazers",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-569",
+                        "channel_id": "569"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "NBA : 08:00 NBA : Los Angeles Lakers vs Toronto Raptors",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-570",
+                        "channel_id": "570"
+                    }
+                ]
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "19:00",
+                "event": "NHL : Tampa Bay Lightning vs Dallas Stars",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-550",
+                        "channel_id": "550"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NHL : Ottawa Senators vs Detroit Red Wings",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-551",
+                        "channel_id": "551"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "NHL : St. Louis Blues vs Edmonton Oilers",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-552",
+                        "channel_id": "552"
+                    }
+                ]
             }
         ],
         "Am. Football</span>": [
             {
-                "time": "21:30",
+                "time": "19:30",
                 "event": "NFL : 01:30 NFL : New England Patriots vs Houston Texans",
                 "channels": [
                     {
                         "channel_name": "Extra Stream CH-530",
                         "channel_id": "530"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "NFL : Chicago Bears vs Los Angeles Rams",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-531",
+                        "channel_id": "531"
+                    }
+                ]
+            }
+        ],
+        "Tennis</span>": [
+            {
+                "time": "00:00",
+                "event": "Tennis : Australian Open ESPN 2",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-1",
+                        "channel_id": "1"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 15: Quentin Halys vs Alejandro Tabilo",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-2",
+                        "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : John Cain Arena: Nuno Borges vs FelixAuger Aliassime",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-3",
+                        "channel_id": "3"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 7: Mariano Navone vs Hamad Medjedovic",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-4",
+                        "channel_id": "4"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 6: Elias Ymer vs Alexander Shevchenko",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-5",
+                        "channel_id": "5"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 14: Petra Marcinko vs Tatjana Maria",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-6",
+                        "channel_id": "6"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 8: Anna Bondar vs Elizabeth Mandlik",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-7",
+                        "channel_id": "7"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 13: Emiliana Arango vs McCartney Kessler",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8",
+                        "channel_id": "8"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : 1573 Arena: Magda Linette vs Emma Navarro",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-9",
+                        "channel_id": "9"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Show Court Arena: Storm Hunter vs Jessica Bouzas Maneiro",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-10",
+                        "channel_id": "10"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 12: Veronika Erjavec vs Magdalena Frech",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-11",
+                        "channel_id": "11"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Stadium Australia: Sofia Kenin vs Peyton Stearns",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-12",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 5: Ann Li vs Camila Osorio",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-13",
+                        "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Tennis : Margaret Court Arena: Daniil Medvedev vs JesperDe Jong",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-14",
+                        "channel_id": "14"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Tennis : Rod Laver Arena: Coco Gauff vs Kamilla Rakhimova",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-15",
+                        "channel_id": "15"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Tennis : 1573 Arena: JuanManuel Cerundolo vs Jordan Thompson",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-16",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Tennis : Court 5: Learner Tien vs Marcos Giron",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-17",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Tennis : Show Court Arena: Matteo Arnaldi vs Andrey Rublev",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-18",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Tennis : Court 13: Tommy Paul vs Aleksandar Kovacevic",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-19",
+                        "channel_id": "19"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Tennis : Court 14: Nicolai Budkov Kjaer vs Reilly Opelka",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-20",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Tennis : Court 8: Shang Juncheng vs Roberto Bautista Agut",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-21",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Tennis : Court 12: Fabian Marozsan vs Arthur Rinderknech",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-22",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Tennis : Stadium Australia: Priscilla Hon vs Marina Stakusic",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-23",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Tennis : Court 7: Dalma Galfi vs Clara Tauson",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-24",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Tennis : John Cain Arena: Jessica Pegula vs Anastasia Zakharova",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-25",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Tennis : Court 6: Alycia Parks vs Alexandra Eala",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-26",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Tennis : Court 15: Linda Klimovicova vs Francesca Jones",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-27",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "Tennis : Rod Laver Arena: Mackenzie McDonald vs Alexde Minaur",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-28",
+                        "channel_id": "28"
+                    }
+                ]
+            }
+        ]
+    },
+    "Monday 19th Jan 2026 - Schedule Time UK GMT": {
+        "Soccer</span>": [
+            {
+                "time": "17:30",
+                "event": "Soccer : Cremonese vs Verona",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-509",
+                        "channel_id": "509"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "Soccer : Lazio vs Como",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-509",
+                        "channel_id": "509"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Soccer : Brighton & Hove Albion vs AFC Bournemouth",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-501",
+                        "channel_id": "501"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Soccer : Elche vs Sevilla",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-506",
+                        "channel_id": "506"
                     }
                 ]
             }
