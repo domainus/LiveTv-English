@@ -1,9 +1,9 @@
 {
-    "Tuesday 24th Feb 2026 - Schedule Time UK GMT": {
+    "Thursday 26th Feb 2026 - Schedule Time UK GMT": {
         "Soccer</span>": [
             {
                 "time": "17:45",
-                "event": "Soccer : Atl\u00e9tico Madrid vs Club Brugge",
+                "event": "Soccer : Viktoria Plze\u0148 vs Panathinaikos",
                 "channels": [
                     {
                         "channel_name": "Extra Stream CH-503",
@@ -13,7 +13,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Soccer : Bayer Leverkusen vs Olympiakos Piraeus",
+                "event": "Soccer : Bologna vs Brann",
                 "channels": [
                     {
                         "channel_name": "Extra Stream CH-502",
@@ -23,7 +23,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Soccer : Internazionale vs Bod\u00f8 / Glimt",
+                "event": "Soccer : Nottingham Forest vs Fenerbah\u00e7e",
                 "channels": [
                     {
                         "channel_name": "Extra Stream CH-501",
@@ -33,191 +33,21 @@
             },
             {
                 "time": "20:00",
-                "event": "Soccer : Newcastle United vs Qaraba\u011f",
+                "event": "Soccer : Genk vs Dinamo Zagreb",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-503",
+                        "channel_id": "503"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Soccer : Celta de Vigo vs PAOK",
                 "channels": [
                     {
                         "channel_name": "Extra Stream CH-504",
                         "channel_id": "504"
-                    }
-                ]
-            }
-        ],
-        "Basketball</span>": [
-            {
-                "time": "00:00",
-                "event": "NBA : Detroit Pistons vs San Antonio Spurs",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-565",
-                        "channel_id": "565"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "NBA : Memphis Grizzlies vs Sacramento Kings",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-566",
-                        "channel_id": "566"
-                    }
-                ]
-            },
-            {
-                "time": "02:30",
-                "event": "NBA : Houston Rockets vs Utah Jazz",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-567",
-                        "channel_id": "567"
-                    }
-                ]
-            }
-        ],
-        "Baseball</span>": [
-            {
-                "time": "18:05",
-                "event": "MLB : New York Yankees vs Pittsburgh Pirates",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-516",
-                        "channel_id": "516"
-                    }
-                ]
-            },
-            {
-                "time": "18:07",
-                "event": "MLB : New York Mets vs Toronto Blue Jays",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-519",
-                        "channel_id": "519"
-                    }
-                ]
-            },
-            {
-                "time": "20:05",
-                "event": "MLB : Seattle Mariners vs Los Angeles Dodgers Spectrum",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-529",
-                        "channel_id": "529"
-                    }
-                ]
-            },
-            {
-                "time": "20:10",
-                "event": "MLB : Milwaukee Brewers vs San Diego Padres",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-522",
-                        "channel_id": "522"
-                    }
-                ]
-            }
-        ]
-    },
-    "Wednesday 25th Feb 2026 - Schedule Time UK GMT": {
-        "Soccer</span>": [
-            {
-                "time": "17:45",
-                "event": "Soccer : Atalanta vs Borussia Dortmund",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-503",
-                        "channel_id": "503"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Soccer : Juventus vs Galatasaray",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-503",
-                        "channel_id": "503"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Soccer : PSG vs Monaco",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-502",
-                        "channel_id": "502"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Soccer : Real Madrid vs Benfica",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-501",
-                        "channel_id": "501"
-                    }
-                ]
-            }
-        ],
-        "Basketball</span>": [
-            {
-                "time": "00:30",
-                "event": "NBA : Detroit Pistons vs Oklahoma City Thunder",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-565",
-                        "channel_id": "565"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "NBA : Memphis Grizzlies vs Golden State Warriors",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-567",
-                        "channel_id": "567"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "NBA : Toronto Raptors vs San Antonio Spurs",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-566",
-                        "channel_id": "566"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "NBA : Houston Rockets vs Sacramento Kings",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-568",
-                        "channel_id": "568"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "NBA : Milwaukee Bucks vs Cleveland Cavaliers",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-569",
-                        "channel_id": "569"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "NBA : Denver Nuggets vs Boston Celtics",
-                "channels": [
-                    {
-                        "channel_name": "Extra Stream CH-570",
-                        "channel_id": "570"
                     }
                 ]
             }
